@@ -1,0 +1,2001 @@
+patient_id,age,sex,chest_pain,resting_bp,cholesterol,fasting_sugar_high,rest_ecg,max_heart_rate,exercise_angina,st_depression,st_slope,vessels_colored,thal,followup_booked,heart_disease
+10001,79,female,non-anginal pain,137,209,0,ST-T abnormality,133,0,0.5,flat,0,normal,0,0
+10002,52,female,asymptomatic,141,240,0,enlarged ventricle,134,1,1.9,flat,1,reversible defect,0,0
+10003,47,female,non-anginal pain,146,307,0,normal,144,0,1.3,up,1,normal,0,0
+10004,41,male,asymptomatic,93,154,0,enlarged ventricle,119,1,1.6,flat,0,reversible defect,1,1
+10005,57,male,non-anginal pain,132,194,1,enlarged ventricle,160,0,0.0,up,0,normal,0,0
+10006,43,male,asymptomatic,155,273,0,normal,165,0,1.9,up,0,?,0,0
+10007,50,male,non-anginal pain,108,249,0,enlarged ventricle,142,0,0.2,flat,0,reversible defect,0,0
+10008,44,male,asymptomatic,146,?,0,enlarged ventricle,151,1,0.1,flat,3,reversible defect,1,1
+10009,67,female,typical angina,161,?,0,normal,117,0,2.9,down,0,normal,1,0
+10010,61,male,atypical angina,126,242,1,enlarged ventricle,153,0,0.3,up,0,normal,0,0
+10011,47,male,non-anginal pain,131,256,0,normal,158,0,0.2,up,0,normal,1,0
+10012,62,male,asymptomatic,121,202,0,enlarged ventricle,147,1,0.9,flat,1,reversible defect,0,0
+10013,57,female,atypical angina,135,222,0,enlarged ventricle,172,0,1.5,flat,0,normal,1,1
+10014,60,male,asymptomatic,125,258,1,normal,135,1,0.5,flat,1,normal,0,0
+10015,65,female,asymptomatic,125,212,0,normal,143,1,0.0,flat,0,normal,0,0
+10016,47,female,non-anginal pain,124,226,0,enlarged ventricle,163,0,1.8,flat,0,normal,0,0
+10017,55,male,typical angina,106,220,0,enlarged ventricle,190,0,0.2,flat,0,fixed defect,0,0
+10018,55,male,asymptomatic,139,279,0,normal,148,0,1.5,up,0,normal,0,0
+10019,53,male,asymptomatic,97,199,0,normal,120,1,1.5,flat,0,fixed defect,0,0
+10020,62,female,asymptomatic,177,330,0,normal,161,1,0.2,up,0,normal,1,0
+10021,55,male,non-anginal pain,138,239,1,enlarged ventricle,173,0,0.0,up,0,normal,0,0
+10022,54,male,asymptomatic,135,266,0,enlarged ventricle,127,0,2.2,flat,0,reversible defect,1,1
+10023,47,male,atypical angina,118,282,0,normal,168,0,0.1,up,0,normal,0,0
+10024,66,male,atypical angina,125,174,1,enlarged ventricle,150,0,0.4,up,0,normal,1,0
+10025,57,male,asymptomatic,181,130,1,enlarged ventricle,92,0,1.5,flat,2,fixed defect,1,1
+10026,68,male,asymptomatic,109,237,0,normal,76,0,1.2,flat,0,normal,0,0
+10027,38,male,non-anginal pain,131,?,0,normal,193,0,3.1,down,0,normal,1,0
+10028,46,male,asymptomatic,113,151,0,normal,130,1,2.8,down,0,fixed defect,1,1
+10029,59,male,atypical angina,117,241,0,enlarged ventricle,128,0,1.3,flat,1,reversible defect,0,0
+10030,67,female,non-anginal pain,123,520,0,enlarged ventricle,165,0,1.4,flat,0,reversible defect,0,0
+10031,54,male,non-anginal pain,132,158,1,enlarged ventricle,168,0,1.2,down,0,normal,1,0
+10032,50,male,asymptomatic,115,173,0,normal,138,0,0.0,up,0,normal,0,0
+10033,56,female,atypical angina,136,?,0,normal,154,0,1.1,up,0,normal,0,0
+10034,46,female,atypical angina,110,216,0,normal,177,0,0.3,up,0,normal,0,0
+10035,68,male,non-anginal pain,101,277,0,normal,138,0,0.6,up,1,reversible defect,0,0
+10036,56,male,atypical angina,127,?,0,normal,136,0,0.5,up,0,reversible defect,0,0
+10037,62,male,asymptomatic,109,246,0,enlarged ventricle,158,0,0.4,up,2,fixed defect,0,0
+10038,61,female,asymptomatic,127,186,0,normal,126,1,0.1,flat,0,normal,0,0
+10039,53,male,atypical angina,137,212,0,enlarged ventricle,164,0,0.5,flat,0,reversible defect,0,0
+10040,32,male,typical angina,121,158,0,enlarged ventricle,174,0,0.0,up,0,normal,0,0
+10041,57,male,non-anginal pain,131,273,0,enlarged ventricle,150,0,0.4,down,1,normal,0,0
+10042,58,male,atypical angina,111,314,0,enlarged ventricle,156,0,2.1,flat,0,normal,0,0
+10043,54,male,asymptomatic,154,288,0,enlarged ventricle,122,1,1.0,up,0,reversible defect,1,1
+10044,64,female,non-anginal pain,159,378,0,enlarged ventricle,152,0,1.5,up,0,normal,0,0
+10045,49,male,non-anginal pain,124,254,1,enlarged ventricle,168,0,2.6,flat,0,normal,0,0
+10046,59,male,asymptomatic,156,223,0,normal,109,0,2.0,flat,1,reversible defect,0,1
+10047,55,male,non-anginal pain,168,?,1,normal,157,0,0.2,up,0,reversible defect,0,0
+10048,52,male,atypical angina,125,193,0,enlarged ventricle,161,0,0.1,up,0,reversible defect,0,0
+10049,68,female,non-anginal pain,109,182,0,enlarged ventricle,134,0,2.2,flat,0,normal,0,0
+10050,66,female,non-anginal pain,144,253,0,enlarged ventricle,147,0,0.1,flat,1,normal,0,0
+10051,52,male,non-anginal pain,133,278,1,normal,188,0,0.0,up,?,normal,0,0
+10052,55,male,atypical angina,117,204,0,enlarged ventricle,149,0,0.0,up,0,reversible defect,0,0
+10053,38,male,non-anginal pain,132,229,0,enlarged ventricle,170,0,1.8,flat,0,normal,0,0
+10054,74,male,asymptomatic,105,274,0,enlarged ventricle,158,1,0.1,up,3,normal,1,1
+10055,60,male,non-anginal pain,134,177,0,enlarged ventricle,157,0,2.9,flat,0,normal,0,0
+10056,60,male,non-anginal pain,153,187,1,normal,162,0,1.4,up,0,normal,0,0
+10057,62,male,asymptomatic,124,280,0,normal,110,1,0.0,flat,1,reversible defect,1,1
+10058,51,male,typical angina,108,235,0,enlarged ventricle,184,0,0.0,flat,0,fixed defect,0,0
+10059,55,male,atypical angina,189,251,0,enlarged ventricle,187,0,0.1,up,1,reversible defect,0,0
+10060,52,male,non-anginal pain,158,?,0,enlarged ventricle,170,0,1.9,up,0,reversible defect,0,0
+10061,53,male,atypical angina,142,245,0,normal,181,0,0.4,up,0,normal,0,0
+10062,64,male,asymptomatic,132,247,0,enlarged ventricle,134,1,2.9,flat,2,reversible defect,0,0
+10063,55,female,non-anginal pain,135,298,0,enlarged ventricle,161,0,0.0,up,0,normal,0,0
+10064,49,male,non-anginal pain,153,217,0,normal,142,0,4.1,flat,0,normal,0,0
+10065,65,male,asymptomatic,148,232,0,enlarged ventricle,131,1,1.4,up,?,reversible defect,0,0
+10066,65,male,typical angina,119,205,1,enlarged ventricle,137,0,0.0,down,0,normal,0,0
+10067,56,male,typical angina,112,174,0,enlarged ventricle,170,0,1.8,flat,0,reversible defect,0,0
+10068,68,male,asymptomatic,110,289,0,enlarged ventricle,123,1,0.7,flat,2,normal,1,1
+10069,36,female,non-anginal pain,145,249,0,normal,144,0,0.6,up,0,normal,0,0
+10070,58,male,asymptomatic,142,245,0,normal,168,0,0.3,flat,0,reversible defect,0,0
+10071,66,male,asymptomatic,114,210,0,enlarged ventricle,128,1,0.7,up,1,normal,0,0
+10072,58,female,non-anginal pain,101,263,0,enlarged ventricle,161,0,0.0,up,0,normal,0,0
+10073,45,male,non-anginal pain,121,164,0,normal,140,0,0.0,up,0,normal,1,0
+10074,53,male,asymptomatic,120,247,0,normal,164,0,0.0,up,1,normal,0,0
+10075,45,male,non-anginal pain,149,?,0,enlarged ventricle,181,0,0.0,up,0,normal,0,0
+10076,60,male,asymptomatic,129,162,0,enlarged ventricle,133,1,3.1,flat,1,normal,1,1
+10077,41,male,asymptomatic,134,200,0,normal,175,0,0.0,up,0,normal,1,0
+10078,56,male,asymptomatic,127,265,0,normal,163,1,0.0,up,?,reversible defect,1,1
+10079,29,male,atypical angina,137,218,0,enlarged ventricle,205,0,0.0,down,0,normal,0,0
+10080,53,male,asymptomatic,129,381,0,normal,125,1,1.0,flat,1,reversible defect,1,1
+10081,61,male,non-anginal pain,123,200,0,normal,161,0,1.8,flat,3,reversible defect,0,0
+10082,60,male,atypical angina,128,292,0,enlarged ventricle,162,0,1.9,flat,0,normal,0,0
+10083,51,male,atypical angina,139,180,0,normal,157,0,1.0,up,1,normal,1,0
+10084,65,female,asymptomatic,100,258,0,normal,147,0,0.3,up,2,normal,0,0
+10085,38,male,typical angina,143,264,0,enlarged ventricle,180,0,0.4,up,2,normal,0,0
+10086,63,male,typical angina,147,277,1,normal,172,0,1.1,flat,1,normal,0,0
+10087,60,male,non-anginal pain,130,304,0,normal,160,0,0.0,up,0,normal,0,0
+10088,63,male,asymptomatic,118,309,0,normal,146,1,3.8,flat,1,reversible defect,1,1
+10089,45,male,asymptomatic,144,307,0,normal,134,1,1.4,flat,2,reversible defect,0,0
+10090,51,male,asymptomatic,143,249,0,enlarged ventricle,121,1,0.3,down,0,reversible defect,1,0
+10091,51,female,non-anginal pain,137,207,0,enlarged ventricle,160,0,0.1,up,0,normal,0,0
+10092,60,female,asymptomatic,136,262,0,enlarged ventricle,164,0,2.6,flat,2,reversible defect,0,0
+10093,54,female,non-anginal pain,135,324,1,normal,171,0,0.0,up,0,normal,0,0
+10094,53,male,asymptomatic,130,149,1,normal,149,1,1.2,flat,0,normal,1,1
+10095,63,female,asymptomatic,153,251,0,normal,153,1,1.7,up,0,normal,0,0
+10096,61,male,typical angina,115,244,0,enlarged ventricle,139,1,1.7,flat,0,normal,0,0
+10097,62,female,non-anginal pain,146,232,0,normal,154,0,0.6,up,?,normal,0,0
+10098,37,female,asymptomatic,150,180,0,normal,164,0,1.6,up,0,normal,0,0
+10099,69,male,asymptomatic,124,168,0,normal,138,0,0.2,up,0,reversible defect,0,0
+10100,59,male,asymptomatic,142,255,0,enlarged ventricle,187,0,0.1,up,0,normal,0,0
+10101,57,male,non-anginal pain,145,120,1,normal,176,0,0.2,up,1,reversible defect,0,0
+10102,56,female,asymptomatic,181,304,0,ST-T abnormality,120,1,3.2,flat,0,normal,1,1
+10103,61,female,non-anginal pain,151,397,1,enlarged ventricle,160,0,0.6,up,1,normal,0,0
+10104,50,male,typical angina,125,211,0,enlarged ventricle,115,1,1.6,up,1,normal,0,0
+10105,53,female,atypical angina,134,290,1,enlarged ventricle,170,1,0.1,up,1,normal,0,0
+10106,54,male,asymptomatic,143,183,0,normal,118,1,5.3,down,0,reversible defect,1,1
+10107,46,female,non-anginal pain,95,126,0,normal,185,0,0.2,flat,0,normal,0,0
+10108,66,male,atypical angina,159,249,0,normal,122,1,0.3,flat,3,fixed defect,1,1
+10109,64,male,asymptomatic,144,196,0,enlarged ventricle,123,1,4.2,flat,1,normal,0,0
+10110,55,male,asymptomatic,156,320,0,enlarged ventricle,152,1,0.8,flat,1,reversible defect,1,1
+10111,59,female,asymptomatic,108,268,0,normal,165,1,1.7,flat,2,normal,0,0
+10112,45,male,asymptomatic,132,250,1,enlarged ventricle,135,1,0.3,flat,0,reversible defect,1,1
+10113,53,male,asymptomatic,137,207,0,enlarged ventricle,113,0,2.4,flat,0,reversible defect,1,1
+10114,42,female,atypical angina,132,308,0,normal,157,0,0.0,up,0,normal,0,0
+10115,61,female,asymptomatic,129,193,0,normal,122,1,0.4,flat,0,reversible defect,0,0
+10116,61,female,asymptomatic,153,234,0,normal,142,1,1.3,flat,0,normal,0,0
+10117,61,male,non-anginal pain,111,197,0,enlarged ventricle,152,0,2.9,flat,1,reversible defect,0,0
+10118,54,male,non-anginal pain,137,192,1,enlarged ventricle,160,0,0.1,up,0,normal,0,0
+10119,50,male,non-anginal pain,151,235,0,enlarged ventricle,173,0,1.8,up,0,reversible defect,0,0
+10120,44,male,non-anginal pain,136,219,0,enlarged ventricle,166,0,1.8,flat,0,normal,0,0
+10121,56,male,asymptomatic,137,278,1,enlarged ventricle,175,0,0.2,up,3,normal,0,0
+10122,39,male,non-anginal pain,137,326,0,enlarged ventricle,173,0,0.0,up,0,normal,0,0
+10123,64,female,asymptomatic,123,196,0,normal,164,0,0.3,down,0,normal,0,0
+10124,61,male,non-anginal pain,123,346,1,enlarged ventricle,136,1,2.2,up,3,reversible defect,1,1
+10125,49,male,non-anginal pain,118,211,0,normal,169,0,0.0,up,0,normal,1,0
+10126,59,male,non-anginal pain,134,260,1,normal,130,0,2.1,flat,1,fixed defect,0,0
+10127,47,male,non-anginal pain,109,120,0,enlarged ventricle,123,0,0.3,up,3,normal,0,0
+10128,55,male,asymptomatic,164,342,0,enlarged ventricle,143,1,3.9,down,0,reversible defect,1,1
+10129,51,male,asymptomatic,113,219,0,enlarged ventricle,103,1,0.6,flat,1,normal,1,1
+10130,47,male,asymptomatic,109,162,0,enlarged ventricle,106,1,2.9,flat,0,reversible defect,1,1
+10131,60,male,asymptomatic,138,222,0,normal,141,0,2.2,flat,2,normal,0,0
+10132,53,female,atypical angina,127,233,0,normal,173,0,0.0,up,0,normal,0,0
+10133,57,female,asymptomatic,161,227,1,enlarged ventricle,157,1,2.5,flat,2,fixed defect,1,1
+10134,49,male,asymptomatic,118,295,0,normal,90,1,2.0,flat,2,reversible defect,1,1
+10135,39,female,atypical angina,119,292,0,normal,156,0,0.0,up,0,normal,0,0
+10136,47,male,asymptomatic,132,266,1,enlarged ventricle,142,1,0.0,up,2,reversible defect,1,1
+10137,55,male,asymptomatic,134,299,0,normal,92,1,1.4,flat,2,reversible defect,1,1
+10138,46,male,atypical angina,125,243,0,normal,174,0,0.0,up,0,reversible defect,0,0
+10139,67,female,non-anginal pain,159,290,0,normal,154,0,1.1,up,0,normal,0,0
+10140,39,male,non-anginal pain,107,261,0,normal,192,0,0.0,up,0,normal,0,0
+10141,51,male,non-anginal pain,136,?,0,normal,167,0,0.0,up,0,normal,0,0
+10142,62,male,asymptomatic,121,279,0,normal,154,1,3.3,flat,1,reversible defect,0,1
+10143,43,male,non-anginal pain,147,252,0,enlarged ventricle,187,0,0.6,up,2,normal,0,0
+10144,52,male,asymptomatic,141,184,1,enlarged ventricle,153,1,2.9,down,0,reversible defect,1,1
+10145,46,male,non-anginal pain,110,172,0,normal,128,0,1.8,flat,3,reversible defect,0,0
+10146,61,male,asymptomatic,184,331,0,enlarged ventricle,139,1,4.0,up,0,reversible defect,1,1
+10147,57,male,asymptomatic,154,316,1,enlarged ventricle,137,0,0.8,flat,3,reversible defect,1,1
+10148,50,male,asymptomatic,119,253,0,enlarged ventricle,143,0,0.7,up,0,reversible defect,0,0
+10149,67,female,atypical angina,146,185,0,normal,193,0,0.2,up,2,normal,1,1
+10150,54,female,non-anginal pain,124,257,0,enlarged ventricle,140,0,0.5,up,0,normal,0,0
+10151,62,male,atypical angina,133,190,0,enlarged ventricle,159,0,0.1,flat,0,reversible defect,0,0
+10152,42,male,non-anginal pain,118,242,0,enlarged ventricle,164,0,1.8,flat,0,normal,0,0
+10153,68,male,asymptomatic,124,357,0,normal,102,0,2.4,flat,3,normal,1,1
+10154,38,male,atypical angina,91,276,0,normal,149,0,0.1,up,0,normal,0,0
+10155,35,female,non-anginal pain,102,221,0,normal,174,0,0.0,up,0,normal,0,0
+10156,61,female,atypical angina,120,219,0,enlarged ventricle,162,0,0.3,flat,1,normal,0,0
+10157,53,female,typical angina,174,323,0,ST-T abnormality,110,1,3.7,flat,0,normal,0,0
+10158,48,male,asymptomatic,114,223,1,normal,129,0,0.0,up,3,reversible defect,1,1
+10159,60,male,asymptomatic,147,222,0,enlarged ventricle,142,0,2.0,flat,2,fixed defect,0,0
+10160,53,female,asymptomatic,188,360,0,ST-T abnormality,122,1,3.6,flat,0,normal,0,0
+10161,67,male,asymptomatic,150,171,1,enlarged ventricle,146,0,2.2,down,0,fixed defect,1,1
+10162,52,male,asymptomatic,117,216,0,enlarged ventricle,102,1,0.0,up,1,normal,1,1
+10163,62,male,asymptomatic,156,234,0,normal,149,0,2.0,up,0,fixed defect,0,0
+10164,43,male,atypical angina,119,163,0,normal,174,0,0.8,up,0,normal,0,0
+10165,48,male,atypical angina,133,221,1,normal,192,0,0.0,up,0,normal,0,0
+10166,52,male,typical angina,158,276,1,normal,189,0,1.1,flat,0,reversible defect,0,0
+10167,57,male,asymptomatic,147,230,0,enlarged ventricle,144,1,2.5,up,1,reversible defect,1,1
+10168,44,male,asymptomatic,123,263,1,enlarged ventricle,150,1,0.0,up,2,reversible defect,0,1
+10169,43,male,non-anginal pain,131,229,0,enlarged ventricle,186,0,0.0,up,0,normal,1,0
+10170,49,male,asymptomatic,129,203,1,enlarged ventricle,154,1,2.8,down,0,reversible defect,1,1
+10171,70,female,non-anginal pain,148,266,0,normal,181,0,0.2,up,?,normal,0,0
+10172,62,female,asymptomatic,144,309,0,enlarged ventricle,141,1,0.7,up,0,reversible defect,0,0
+10173,53,male,non-anginal pain,110,202,0,normal,154,0,2.3,flat,3,reversible defect,0,0
+10174,44,male,non-anginal pain,128,200,0,normal,186,1,0.8,up,0,normal,0,0
+10175,51,female,non-anginal pain,125,210,0,normal,157,0,2.1,flat,0,normal,0,0
+10176,45,female,non-anginal pain,115,129,0,normal,185,0,1.0,flat,0,normal,0,0
+10177,60,female,non-anginal pain,97,317,0,normal,169,0,0.0,up,1,normal,0,0
+10178,63,female,non-anginal pain,154,236,0,normal,152,1,0.9,up,0,normal,0,0
+10179,62,male,asymptomatic,127,122,0,enlarged ventricle,117,1,3.3,flat,1,normal,1,1
+10180,62,male,asymptomatic,144,281,0,enlarged ventricle,101,1,1.5,up,0,reversible defect,1,1
+10181,50,male,asymptomatic,108,262,1,normal,142,0,0.1,up,3,reversible defect,1,1
+10182,50,female,asymptomatic,132,225,0,enlarged ventricle,150,1,0.2,flat,0,normal,0,0
+10183,46,male,atypical angina,123,269,0,normal,170,0,0.2,up,0,normal,0,0
+10184,41,male,asymptomatic,122,151,0,normal,163,1,3.1,down,0,fixed defect,1,1
+10185,49,female,non-anginal pain,132,312,0,normal,142,0,1.6,down,1,normal,0,0
+10186,62,female,asymptomatic,100,242,0,enlarged ventricle,123,0,0.8,flat,0,normal,0,0
+10187,55,female,atypical angina,129,263,0,enlarged ventricle,170,0,0.3,flat,1,normal,0,1
+10188,46,male,non-anginal pain,134,301,0,normal,174,0,2.0,flat,1,normal,0,0
+10189,59,female,non-anginal pain,126,355,0,normal,161,0,0.0,up,0,normal,0,0
+10190,54,male,asymptomatic,141,185,1,enlarged ventricle,157,1,3.3,down,0,reversible defect,1,1
+10191,53,male,atypical angina,150,218,0,enlarged ventricle,164,0,0.1,up,1,normal,0,0
+10192,54,male,asymptomatic,131,?,0,normal,95,1,1.6,flat,2,reversible defect,1,1
+10193,49,male,asymptomatic,141,162,1,enlarged ventricle,156,1,3.0,down,0,reversible defect,0,1
+10194,45,female,atypical angina,104,137,0,normal,134,0,0.0,flat,0,normal,1,0
+10195,65,female,asymptomatic,125,?,0,normal,155,0,0.4,up,0,normal,0,0
+10196,64,male,asymptomatic,140,264,0,enlarged ventricle,151,1,3.0,flat,2,reversible defect,1,1
+10197,68,female,asymptomatic,159,291,0,normal,165,1,0.0,up,0,normal,0,0
+10198,39,female,atypical angina,122,168,0,enlarged ventricle,178,0,1.4,up,0,normal,0,0
+10199,50,male,asymptomatic,120,275,0,normal,177,0,0.6,flat,0,reversible defect,0,0
+10200,60,male,atypical angina,136,206,0,normal,166,1,0.2,up,0,normal,0,0
+10201,46,male,atypical angina,117,220,0,enlarged ventricle,171,0,0.4,up,0,normal,0,0
+10202,62,male,non-anginal pain,147,142,1,normal,149,0,2.1,up,0,normal,0,0
+10203,55,female,asymptomatic,183,306,0,ST-T abnormality,121,1,3.2,up,0,normal,1,1
+10204,48,male,non-anginal pain,100,155,0,normal,105,0,0.4,up,0,normal,0,0
+10205,59,male,atypical angina,132,239,0,enlarged ventricle,165,0,0.0,up,0,reversible defect,0,0
+10206,47,male,non-anginal pain,133,252,0,enlarged ventricle,150,0,3.5,flat,0,normal,1,0
+10207,59,male,atypical angina,124,296,0,enlarged ventricle,106,0,1.7,flat,1,reversible defect,0,0
+10208,63,male,asymptomatic,123,212,0,normal,97,1,0.0,flat,1,reversible defect,0,0
+10209,56,male,asymptomatic,127,291,0,enlarged ventricle,180,0,0.0,up,0,normal,0,0
+10210,63,female,asymptomatic,153,336,0,enlarged ventricle,144,1,0.9,flat,0,reversible defect,1,1
+10211,63,male,non-anginal pain,143,314,0,normal,160,0,0.3,up,0,normal,0,0
+10212,45,male,atypical angina,137,272,0,normal,169,0,1.0,up,0,normal,0,0
+10213,42,male,asymptomatic,114,299,0,enlarged ventricle,140,0,0.0,up,1,normal,0,0
+10214,54,female,asymptomatic,140,222,0,enlarged ventricle,179,0,0.0,up,0,normal,0,0
+10215,58,male,asymptomatic,106,203,0,normal,129,1,1.8,flat,0,fixed defect,0,0
+10216,57,female,non-anginal pain,113,193,0,normal,157,0,1.9,flat,0,normal,0,0
+10217,40,female,atypical angina,129,207,0,enlarged ventricle,168,0,1.6,up,0,normal,0,0
+10218,53,male,asymptomatic,119,?,0,enlarged ventricle,174,0,1.6,up,2,reversible defect,0,0
+10219,46,male,non-anginal pain,128,185,0,normal,152,0,0.2,down,0,normal,0,0
+10220,49,male,non-anginal pain,99,221,0,normal,127,0,0.6,up,0,normal,0,0
+10221,54,male,atypical angina,119,256,0,enlarged ventricle,149,0,1.6,flat,0,normal,0,0
+10222,39,male,non-anginal pain,141,203,0,normal,157,0,0.0,up,0,normal,0,0
+10223,47,male,asymptomatic,120,250,0,enlarged ventricle,155,0,1.1,up,0,reversible defect,1,1
+10224,67,male,asymptomatic,148,192,1,normal,143,0,3.7,flat,2,reversible defect,0,1
+10225,53,male,asymptomatic,122,158,0,enlarged ventricle,171,0,0.8,up,2,?,0,0
+10226,47,female,atypical angina,130,257,0,enlarged ventricle,185,0,0.3,flat,0,normal,0,0
+10227,61,male,asymptomatic,114,288,0,ST-T abnormality,137,0,3.8,down,3,fixed defect,1,1
+10228,41,male,asymptomatic,125,172,0,enlarged ventricle,181,0,0.0,up,1,normal,0,0
+10229,44,female,non-anginal pain,97,133,0,normal,161,0,0.9,flat,0,normal,0,0
+10230,53,male,asymptomatic,147,?,0,normal,132,1,1.4,flat,1,reversible defect,1,1
+10231,53,male,asymptomatic,114,165,0,normal,113,0,1.4,flat,1,reversible defect,0,0
+10232,35,female,non-anginal pain,135,255,0,normal,160,0,0.0,flat,0,normal,0,0
+10233,69,male,non-anginal pain,162,285,0,normal,109,1,3.5,flat,1,reversible defect,1,1
+10234,50,male,atypical angina,112,368,0,normal,173,0,0.0,up,0,reversible defect,0,0
+10235,55,female,asymptomatic,129,286,0,normal,122,1,1.2,down,0,reversible defect,0,0
+10236,53,female,asymptomatic,131,244,0,enlarged ventricle,152,0,0.8,flat,?,normal,0,0
+10237,53,female,non-anginal pain,146,352,1,normal,156,0,0.4,up,0,normal,0,0
+10238,47,female,atypical angina,154,239,0,normal,170,0,0.1,flat,0,normal,0,0
+10239,49,male,typical angina,113,270,0,normal,139,0,0.8,flat,0,reversible defect,0,0
+10240,64,male,typical angina,175,219,0,enlarged ventricle,150,0,0.8,up,0,reversible defect,0,0
+10241,71,female,non-anginal pain,114,520,0,enlarged ventricle,157,0,1.9,up,0,reversible defect,0,0
+10242,67,male,non-anginal pain,133,266,0,enlarged ventricle,149,0,0.3,flat,0,normal,0,0
+10243,58,female,atypical angina,131,?,1,enlarged ventricle,166,1,0.5,up,1,normal,0,0
+10244,62,male,asymptomatic,144,?,0,enlarged ventricle,158,1,0.0,up,1,reversible defect,0,0
+10245,64,female,asymptomatic,129,298,1,normal,109,0,2.1,flat,3,normal,1,1
+10246,50,male,asymptomatic,90,260,0,normal,144,1,1.0,flat,0,normal,1,1
+10247,64,female,asymptomatic,155,278,1,normal,112,0,1.8,flat,3,normal,0,0
+10248,58,male,asymptomatic,138,209,0,enlarged ventricle,134,1,2.6,flat,2,?,1,1
+10249,58,male,asymptomatic,147,233,0,normal,115,1,6.1,down,0,reversible defect,1,1
+10250,51,male,asymptomatic,132,219,1,enlarged ventricle,161,1,2.6,down,0,reversible defect,1,1
+10251,40,female,non-anginal pain,95,136,0,normal,181,0,1.1,flat,0,normal,0,0
+10252,51,female,non-anginal pain,133,306,1,normal,176,0,0.2,up,0,normal,0,0
+10253,54,male,non-anginal pain,150,?,0,enlarged ventricle,164,0,1.0,up,0,reversible defect,0,0
+10254,45,male,atypical angina,125,228,0,normal,170,0,0.0,up,0,normal,0,0
+10255,46,male,asymptomatic,124,230,0,enlarged ventricle,161,0,0.8,flat,0,reversible defect,0,0
+10256,66,female,non-anginal pain,145,237,0,normal,178,0,0.0,up,0,normal,0,0
+10257,50,male,asymptomatic,127,185,0,normal,161,0,0.8,up,2,reversible defect,0,0
+10258,66,male,asymptomatic,114,170,0,enlarged ventricle,131,1,0.4,up,1,normal,0,0
+10259,51,male,asymptomatic,137,224,1,normal,156,1,1.6,flat,0,normal,0,0
+10260,67,male,asymptomatic,106,?,0,enlarged ventricle,137,1,0.0,up,1,normal,0,0
+10261,41,male,atypical angina,123,201,0,enlarged ventricle,175,0,0.1,up,0,normal,0,0
+10262,50,male,asymptomatic,135,303,0,normal,126,1,2.2,flat,2,reversible defect,1,1
+10263,61,male,non-anginal pain,122,279,0,enlarged ventricle,152,0,0.3,flat,1,reversible defect,0,0
+10264,55,male,non-anginal pain,141,242,1,enlarged ventricle,163,0,0.0,up,3,normal,0,0
+10265,59,female,asymptomatic,182,247,0,normal,140,1,0.0,flat,0,normal,1,0
+10266,54,male,atypical angina,138,209,0,normal,160,0,0.9,flat,1,normal,0,0
+10267,65,female,non-anginal pain,170,393,0,enlarged ventricle,155,0,0.8,up,0,normal,0,0
+10268,70,female,non-anginal pain,148,291,0,enlarged ventricle,147,0,0.0,up,1,normal,0,0
+10269,67,female,asymptomatic,122,176,0,normal,121,0,1.3,flat,0,normal,0,0
+10270,54,male,asymptomatic,133,168,0,normal,148,0,0.7,flat,0,fixed defect,0,0
+10271,66,female,asymptomatic,176,250,1,normal,156,1,0.7,flat,2,reversible defect,1,1
+10272,47,male,asymptomatic,143,309,0,normal,119,1,1.8,flat,2,reversible defect,0,0
+10273,59,male,non-anginal pain,142,120,1,normal,182,0,0.1,up,1,reversible defect,1,0
+10274,60,male,atypical angina,119,234,0,normal,135,0,0.6,flat,0,reversible defect,0,0
+10275,74,male,asymptomatic,135,238,0,normal,115,1,2.9,down,0,reversible defect,1,1
+10276,56,female,non-anginal pain,133,222,0,enlarged ventricle,124,0,0.0,up,0,normal,0,0
+10277,71,female,asymptomatic,102,249,0,normal,141,0,0.5,up,2,normal,0,0
+10278,58,female,asymptomatic,176,243,0,normal,156,1,0.0,flat,0,normal,0,0
+10279,53,male,atypical angina,98,189,0,normal,144,1,0.5,up,1,reversible defect,1,1
+10280,54,male,typical angina,150,312,1,normal,186,0,1.0,flat,0,reversible defect,0,0
+10281,52,male,asymptomatic,140,274,0,normal,176,1,2.3,up,0,reversible defect,0,1
+10282,55,male,non-anginal pain,111,201,0,enlarged ventricle,99,1,0.0,flat,1,normal,1,1
+10283,51,female,non-anginal pain,143,358,0,enlarged ventricle,145,0,1.4,up,1,normal,0,0
+10284,40,female,atypical angina,136,261,0,normal,181,0,0.1,up,0,normal,0,0
+10285,49,male,asymptomatic,116,221,0,normal,175,0,0.9,up,2,reversible defect,0,0
+10286,47,female,non-anginal pain,140,321,0,enlarged ventricle,144,0,0.7,up,1,normal,1,0
+10287,53,male,atypical angina,114,270,0,normal,139,0,0.7,up,?,reversible defect,0,0
+10288,41,male,asymptomatic,151,212,0,normal,168,0,0.0,up,0,normal,0,0
+10289,53,male,atypical angina,93,314,0,enlarged ventricle,146,0,0.4,up,0,reversible defect,0,0
+10290,53,female,non-anginal pain,135,248,0,normal,160,0,0.0,flat,0,normal,0,0
+10291,44,female,asymptomatic,134,282,0,enlarged ventricle,160,1,0.1,flat,0,normal,0,0
+10292,29,male,atypical angina,125,209,0,enlarged ventricle,201,0,0.3,up,0,normal,0,0
+10293,47,male,asymptomatic,145,331,0,enlarged ventricle,136,1,3.9,flat,3,reversible defect,1,1
+10294,56,male,asymptomatic,144,170,0,normal,155,1,0.3,up,1,reversible defect,1,0
+10295,55,female,non-anginal pain,152,223,0,normal,155,0,0.1,up,1,normal,0,0
+10296,57,male,atypical angina,128,238,0,normal,145,0,0.3,flat,0,reversible defect,0,0
+10297,70,male,non-anginal pain,142,226,0,enlarged ventricle,146,0,2.6,flat,?,reversible defect,1,1
+10298,50,male,asymptomatic,104,279,0,normal,139,1,3.4,flat,1,reversible defect,1,1
+10299,58,male,non-anginal pain,118,324,1,enlarged ventricle,148,1,1.3,flat,1,fixed defect,0,0
+10300,44,female,atypical angina,111,231,0,normal,173,0,0.0,up,0,normal,0,0
+10301,38,male,non-anginal pain,135,147,0,normal,145,0,0.0,up,0,normal,0,0
+10302,54,female,atypical angina,124,224,0,normal,168,0,0.6,up,0,normal,0,0
+10303,38,male,non-anginal pain,135,266,0,enlarged ventricle,202,0,0.1,up,0,normal,0,0
+10304,57,male,non-anginal pain,143,184,0,normal,164,0,0.6,up,2,normal,0,0
+10305,61,female,asymptomatic,177,270,0,enlarged ventricle,105,0,1.1,flat,3,reversible defect,1,1
+10306,46,male,typical angina,111,?,0,normal,120,0,1.1,flat,0,reversible defect,0,0
+10307,43,female,atypical angina,134,211,0,enlarged ventricle,173,0,0.1,flat,0,normal,0,0
+10308,56,male,asymptomatic,118,269,0,enlarged ventricle,174,0,0.0,up,2,reversible defect,1,1
+10309,55,female,asymptomatic,131,218,0,enlarged ventricle,155,0,0.4,up,0,normal,0,0
+10310,60,male,non-anginal pain,125,258,0,enlarged ventricle,162,0,2.4,flat,1,reversible defect,0,0
+10311,53,male,non-anginal pain,147,269,1,enlarged ventricle,139,1,0.4,flat,1,fixed defect,0,0
+10312,53,female,atypical angina,138,332,0,enlarged ventricle,164,0,0.9,flat,0,normal,0,0
+10313,48,male,asymptomatic,144,228,0,enlarged ventricle,119,0,2.7,flat,0,reversible defect,1,1
+10314,49,female,atypical angina,97,208,0,normal,169,0,0.1,up,0,normal,0,0
+10315,58,male,asymptomatic,135,276,0,enlarged ventricle,179,0,1.2,flat,2,reversible defect,0,0
+10316,53,male,atypical angina,108,305,0,normal,169,0,0.1,up,0,reversible defect,0,0
+10317,64,male,asymptomatic,90,292,0,enlarged ventricle,121,1,1.3,flat,2,normal,1,1
+10318,57,female,typical angina,144,233,0,normal,170,0,1.1,up,0,normal,0,0
+10319,56,female,asymptomatic,135,220,0,ST-T abnormality,146,1,1.2,flat,1,reversible defect,0,0
+10320,57,male,asymptomatic,130,342,0,normal,143,1,1.6,flat,1,reversible defect,1,1
+10321,50,male,asymptomatic,105,201,0,normal,138,0,0.2,up,0,normal,0,0
+10322,69,male,typical angina,150,212,1,enlarged ventricle,124,0,0.0,flat,1,normal,0,0
+10323,53,male,atypical angina,138,?,0,normal,157,0,0.2,up,0,normal,0,0
+10324,43,male,non-anginal pain,121,277,0,normal,173,1,0.2,up,0,?,1,0
+10325,63,female,non-anginal pain,144,328,0,enlarged ventricle,150,0,0.0,flat,1,normal,0,0
+10326,64,female,asymptomatic,185,?,1,normal,169,1,1.1,flat,2,reversible defect,0,0
+10327,54,male,asymptomatic,124,188,0,enlarged ventricle,101,0,1.7,flat,1,reversible defect,1,1
+10328,61,male,non-anginal pain,142,189,1,enlarged ventricle,168,0,0.4,up,0,normal,0,0
+10329,57,male,atypical angina,142,?,0,normal,169,1,0.0,up,0,normal,0,0
+10330,54,female,atypical angina,127,249,0,enlarged ventricle,160,0,1.5,flat,0,normal,0,0
+10331,56,female,non-anginal pain,96,288,0,normal,168,0,0.0,up,1,normal,0,0
+10332,46,male,non-anginal pain,125,216,0,normal,159,0,0.0,up,0,normal,0,0
+10333,70,male,non-anginal pain,137,276,0,normal,111,1,2.1,flat,1,reversible defect,1,1
+10334,60,male,non-anginal pain,126,223,1,enlarged ventricle,129,1,0.9,flat,1,fixed defect,1,0
+10335,42,female,atypical angina,129,200,0,enlarged ventricle,150,0,1.5,up,0,normal,0,0
+10336,53,male,asymptomatic,109,?,0,normal,118,1,1.7,flat,0,fixed defect,1,0
+10337,56,female,asymptomatic,178,357,0,ST-T abnormality,117,1,3.4,flat,0,normal,0,0
+10338,39,male,asymptomatic,137,321,0,normal,126,1,2.0,flat,0,fixed defect,0,0
+10339,39,female,non-anginal pain,121,232,0,normal,168,0,0.0,up,0,normal,0,0
+10340,56,female,asymptomatic,146,418,0,enlarged ventricle,148,1,2.3,flat,2,reversible defect,0,0
+10341,65,female,non-anginal pain,147,268,0,enlarged ventricle,152,0,0.4,flat,1,normal,0,0
+10342,54,female,asymptomatic,126,359,0,enlarged ventricle,164,1,1.1,up,0,normal,0,0
+10343,61,male,non-anginal pain,135,339,0,normal,153,0,0.0,up,0,normal,0,0
+10344,65,male,asymptomatic,114,199,0,enlarged ventricle,120,1,0.3,up,1,normal,0,0
+10345,62,female,asymptomatic,162,172,0,enlarged ventricle,151,0,6.1,down,3,reversible defect,0,0
+10346,67,male,asymptomatic,110,213,0,enlarged ventricle,122,1,0.0,up,1,normal,1,1
+10347,68,female,typical angina,136,237,0,normal,126,0,2.6,down,0,normal,0,0
+10348,75,female,asymptomatic,101,151,0,normal,117,0,1.5,flat,0,?,0,0
+10349,63,female,asymptomatic,109,224,0,normal,140,0,0.0,up,2,normal,1,0
+10350,61,female,atypical angina,129,192,0,enlarged ventricle,182,0,0.2,flat,1,normal,0,0
+10351,48,male,non-anginal pain,105,303,0,normal,149,0,0.2,up,0,normal,0,0
+10352,50,female,non-anginal pain,129,323,1,normal,161,0,0.0,up,0,normal,0,0
+10353,55,male,asymptomatic,125,224,0,normal,167,0,1.0,up,2,reversible defect,0,0
+10354,57,male,asymptomatic,114,284,0,normal,134,1,2.5,flat,1,reversible defect,1,1
+10355,64,male,asymptomatic,174,254,0,enlarged ventricle,138,0,2.4,up,0,fixed defect,0,0
+10356,40,male,asymptomatic,114,316,0,normal,180,0,1.7,flat,0,normal,0,0
+10357,57,male,asymptomatic,108,257,0,enlarged ventricle,141,1,0.9,flat,1,reversible defect,1,1
+10358,65,male,atypical angina,122,324,0,enlarged ventricle,113,0,1.3,flat,1,reversible defect,0,0
+10359,60,male,atypical angina,129,248,0,normal,159,0,0.0,down,0,?,1,0
+10360,63,female,non-anginal pain,178,328,0,enlarged ventricle,154,0,0.6,up,0,normal,0,0
+10361,59,male,typical angina,182,234,0,enlarged ventricle,164,0,4.4,down,0,reversible defect,0,0
+10362,41,male,asymptomatic,106,255,0,normal,140,0,1.7,flat,0,reversible defect,0,0
+10363,36,male,non-anginal pain,118,216,0,normal,147,0,1.7,flat,0,reversible defect,1,0
+10364,59,female,asymptomatic,119,318,0,enlarged ventricle,154,0,0.0,up,1,normal,0,0
+10365,52,male,asymptomatic,114,285,0,enlarged ventricle,112,1,3.2,flat,2,normal,1,1
+10366,47,male,non-anginal pain,144,246,0,normal,180,1,0.3,up,0,normal,1,0
+10367,34,male,non-anginal pain,127,231,0,normal,187,0,3.9,down,0,?,0,0
+10368,44,male,typical angina,134,212,0,normal,171,1,1.9,up,0,reversible defect,0,0
+10369,67,male,asymptomatic,146,199,0,enlarged ventricle,134,0,2.7,flat,1,reversible defect,0,0
+10370,58,female,non-anginal pain,120,173,1,enlarged ventricle,93,0,0.0,up,0,normal,0,0
+10371,73,male,asymptomatic,136,142,0,normal,131,1,2.8,down,0,reversible defect,1,1
+10372,68,male,non-anginal pain,152,?,0,enlarged ventricle,150,0,0.8,flat,0,reversible defect,0,0
+10373,41,male,atypical angina,99,239,0,normal,164,0,0.3,up,0,normal,0,0
+10374,54,male,typical angina,145,296,1,normal,177,0,1.4,flat,0,reversible defect,0,0
+10375,68,female,non-anginal pain,147,283,0,enlarged ventricle,146,0,0.1,flat,1,normal,0,0
+10376,31,male,asymptomatic,99,155,0,normal,139,1,1.4,flat,0,reversible defect,1,1
+10377,61,female,atypical angina,145,169,0,normal,168,0,0.0,up,2,normal,0,0
+10378,59,female,atypical angina,138,315,1,enlarged ventricle,150,0,0.2,up,?,normal,0,0
+10379,51,male,asymptomatic,118,241,0,normal,158,0,0.0,up,?,normal,0,0
+10380,56,female,non-anginal pain,167,?,1,enlarged ventricle,155,1,2.8,flat,2,fixed defect,1,1
+10381,57,male,asymptomatic,153,234,0,enlarged ventricle,116,1,0.5,flat,1,fixed defect,0,0
+10382,32,male,asymptomatic,118,315,0,enlarged ventricle,158,1,0.0,up,0,reversible defect,1,0
+10383,70,male,asymptomatic,152,226,0,enlarged ventricle,151,0,1.7,up,0,fixed defect,0,0
+10384,56,male,atypical angina,121,281,0,normal,170,0,0.2,down,0,normal,0,0
+10385,44,male,asymptomatic,122,240,0,enlarged ventricle,176,0,0.5,up,0,normal,0,0
+10386,70,male,asymptomatic,145,204,0,normal,116,1,2.1,up,0,reversible defect,1,1
+10387,61,male,asymptomatic,149,285,0,enlarged ventricle,171,0,0.4,up,0,normal,0,0
+10388,60,male,asymptomatic,168,315,0,enlarged ventricle,140,1,2.7,down,0,reversible defect,1,1
+10389,69,male,non-anginal pain,143,248,0,enlarged ventricle,146,0,2.3,flat,3,reversible defect,1,1
+10390,64,female,asymptomatic,111,291,0,normal,172,1,1.7,flat,2,?,0,0
+10391,54,male,non-anginal pain,141,203,1,enlarged ventricle,167,0,0.0,up,0,normal,0,0
+10392,57,male,non-anginal pain,153,121,0,normal,176,0,1.5,up,0,normal,0,0
+10393,53,female,non-anginal pain,94,268,0,enlarged ventricle,181,0,0.8,up,0,normal,0,0
+10394,65,male,asymptomatic,135,214,0,enlarged ventricle,141,1,1.8,up,1,reversible defect,0,0
+10395,55,male,asymptomatic,133,278,0,enlarged ventricle,102,1,1.6,flat,1,reversible defect,1,1
+10396,34,male,non-anginal pain,128,268,0,normal,183,0,3.6,down,0,normal,0,0
+10397,61,male,non-anginal pain,145,262,1,enlarged ventricle,161,0,0.5,up,0,normal,0,0
+10398,43,male,asymptomatic,108,171,0,enlarged ventricle,148,1,2.7,up,0,normal,1,1
+10399,61,male,atypical angina,130,277,0,enlarged ventricle,152,0,0.3,up,1,normal,0,0
+10400,52,female,asymptomatic,117,234,0,enlarged ventricle,124,0,0.0,up,0,normal,0,0
+10401,45,male,asymptomatic,135,226,0,normal,168,0,0.5,flat,?,normal,0,0
+10402,53,male,asymptomatic,134,?,0,normal,126,1,3.9,flat,3,reversible defect,1,1
+10403,62,male,asymptomatic,126,255,0,normal,151,1,1.7,up,1,reversible defect,1,1
+10404,58,male,asymptomatic,148,289,0,normal,94,1,1.4,flat,1,reversible defect,1,1
+10405,40,male,asymptomatic,113,?,0,normal,146,1,3.2,down,0,fixed defect,1,1
+10406,39,male,atypical angina,115,284,0,normal,163,0,0.4,up,0,normal,0,0
+10407,70,male,asymptomatic,144,271,0,enlarged ventricle,121,1,1.7,flat,3,normal,0,0
+10408,39,female,non-anginal pain,135,196,0,normal,176,0,0.0,up,0,?,0,0
+10409,62,male,asymptomatic,131,283,0,normal,89,1,1.6,flat,2,?,1,1
+10410,51,male,non-anginal pain,127,?,0,normal,144,0,1.8,flat,3,reversible defect,0,0
+10411,52,female,non-anginal pain,129,280,0,enlarged ventricle,141,0,0.6,up,?,normal,0,0
+10412,53,male,non-anginal pain,118,226,1,enlarged ventricle,173,0,2.2,flat,0,normal,0,0
+10413,42,male,non-anginal pain,139,274,1,normal,201,0,0.7,down,0,reversible defect,0,0
+10414,55,male,asymptomatic,102,301,0,enlarged ventricle,163,1,1.4,flat,1,reversible defect,1,1
+10415,70,female,atypical angina,171,?,0,normal,164,0,0.9,up,2,normal,0,0
+10416,40,male,asymptomatic,112,?,0,normal,160,0,0.0,flat,0,reversible defect,1,0
+10417,65,female,asymptomatic,143,211,0,normal,152,1,1.4,flat,0,normal,0,0
+10418,61,male,asymptomatic,133,252,0,normal,153,0,0.4,flat,0,fixed defect,0,0
+10419,43,female,atypical angina,101,220,0,normal,177,0,0.0,up,0,normal,0,0
+10420,46,male,asymptomatic,110,334,0,normal,185,0,1.4,flat,0,normal,0,0
+10421,60,female,asymptomatic,126,302,1,normal,116,0,2.0,flat,3,normal,0,0
+10422,48,male,asymptomatic,143,222,0,enlarged ventricle,191,1,0.2,up,0,normal,0,0
+10423,57,male,asymptomatic,130,284,0,enlarged ventricle,171,0,0.0,up,0,normal,0,0
+10424,41,female,atypical angina,111,198,0,normal,165,0,0.0,up,1,normal,0,0
+10425,45,male,non-anginal pain,136,280,0,normal,157,0,0.0,up,0,normal,0,0
+10426,61,female,atypical angina,141,174,0,normal,183,0,0.2,up,2,normal,1,1
+10427,59,male,asymptomatic,111,259,0,normal,134,1,2.8,flat,1,reversible defect,1,1
+10428,50,male,non-anginal pain,97,220,0,normal,153,1,1.5,flat,0,normal,0,0
+10429,63,male,asymptomatic,137,158,0,enlarged ventricle,123,1,3.3,flat,1,normal,1,1
+10430,51,male,asymptomatic,133,371,0,normal,140,1,1.1,flat,1,reversible defect,1,1
+10431,49,female,non-anginal pain,146,195,0,enlarged ventricle,122,0,0.0,up,0,normal,0,0
+10432,42,male,atypical angina,109,211,0,normal,165,0,0.0,up,0,normal,0,0
+10433,41,female,atypical angina,114,200,0,normal,179,0,0.0,flat,0,normal,0,0
+10434,39,male,atypical angina,132,185,0,normal,142,0,0.0,flat,0,fixed defect,0,0
+10435,56,female,atypical angina,120,250,0,enlarged ventricle,176,0,0.0,flat,1,normal,1,1
+10436,56,male,typical angina,141,291,1,normal,184,0,1.3,flat,0,reversible defect,0,0
+10437,52,male,asymptomatic,115,?,1,normal,147,1,0.4,flat,0,normal,0,0
+10438,58,female,atypical angina,129,219,0,normal,165,0,0.0,flat,1,normal,1,0
+10439,47,male,atypical angina,125,212,0,enlarged ventricle,192,0,0.1,up,0,normal,0,0
+10440,59,female,asymptomatic,151,283,0,enlarged ventricle,140,1,1.7,flat,0,normal,0,0
+10441,49,male,asymptomatic,108,319,0,normal,168,0,0.5,up,0,normal,0,0
+10442,59,male,non-anginal pain,132,169,0,enlarged ventricle,155,0,2.9,flat,0,normal,0,0
+10443,55,female,non-anginal pain,167,204,0,normal,169,0,0.0,up,1,normal,0,0
+10444,44,male,atypical angina,136,239,0,enlarged ventricle,200,0,0.2,up,0,normal,0,0
+10445,40,male,asymptomatic,137,247,0,normal,179,0,1.6,up,0,normal,0,0
+10446,39,male,asymptomatic,144,186,0,normal,163,0,0.4,up,0,normal,0,0
+10447,52,male,asymptomatic,119,290,0,enlarged ventricle,164,0,0.1,flat,0,?,0,0
+10448,37,male,non-anginal pain,121,269,0,normal,191,0,3.6,up,0,normal,0,0
+10449,63,male,atypical angina,145,227,0,normal,161,1,0.2,flat,0,normal,0,0
+10450,51,male,atypical angina,141,167,0,normal,162,0,1.1,up,1,normal,0,0
+10451,65,female,asymptomatic,158,225,1,normal,157,1,0.3,flat,2,reversible defect,1,0
+10452,57,male,asymptomatic,116,223,0,enlarged ventricle,135,1,1.2,flat,1,reversible defect,0,1
+10453,52,male,typical angina,113,204,0,enlarged ventricle,205,0,0.3,flat,0,fixed defect,0,0
+10454,35,female,atypical angina,113,242,0,normal,189,0,1.0,up,0,normal,0,0
+10455,73,male,asymptomatic,121,295,0,enlarged ventricle,162,1,0.3,up,3,normal,0,0
+10456,61,male,atypical angina,162,251,0,enlarged ventricle,173,0,0.0,up,1,normal,0,0
+10457,55,female,typical angina,159,293,1,enlarged ventricle,163,0,0.8,up,0,normal,0,0
+10458,65,female,non-anginal pain,142,411,1,enlarged ventricle,168,0,1.0,up,1,normal,0,0
+10459,43,female,typical angina,135,?,0,enlarged ventricle,196,0,0.4,flat,?,normal,0,0
+10460,54,male,typical angina,141,202,0,enlarged ventricle,128,1,1.0,up,1,normal,0,0
+10461,61,male,non-anginal pain,116,213,1,normal,185,1,1.1,up,2,reversible defect,0,0
+10462,55,male,atypical angina,131,199,0,normal,161,1,0.0,up,0,normal,0,0
+10463,52,male,asymptomatic,135,210,0,enlarged ventricle,87,1,2.2,flat,1,fixed defect,1,1
+10464,56,male,asymptomatic,131,200,1,normal,138,0,2.1,flat,1,fixed defect,0,0
+10465,72,male,typical angina,158,215,1,enlarged ventricle,136,0,0.0,flat,1,normal,0,0
+10466,59,male,typical angina,118,220,0,enlarged ventricle,153,0,2.1,flat,0,reversible defect,0,0
+10467,51,male,asymptomatic,156,307,0,normal,112,1,3.9,flat,3,?,1,1
+10468,49,male,atypical angina,127,241,0,enlarged ventricle,174,0,0.6,flat,0,normal,0,0
+10469,68,male,asymptomatic,112,216,0,normal,70,0,0.8,flat,0,normal,0,1
+10470,70,male,asymptomatic,108,328,0,enlarged ventricle,110,0,2.6,flat,3,normal,1,1
+10471,43,male,non-anginal pain,136,289,0,normal,157,0,1.8,up,1,normal,0,0
+10472,49,female,asymptomatic,119,259,0,enlarged ventricle,173,0,0.8,up,0,normal,1,0
+10473,43,male,asymptomatic,110,181,0,enlarged ventricle,129,1,2.9,flat,0,reversible defect,1,1
+10474,56,male,asymptomatic,154,268,0,enlarged ventricle,110,1,1.1,up,0,reversible defect,0,0
+10475,55,female,asymptomatic,127,269,0,enlarged ventricle,142,0,0.1,flat,0,normal,0,0
+10476,56,male,non-anginal pain,120,273,0,enlarged ventricle,159,0,0.4,flat,0,reversible defect,0,0
+10477,36,female,atypical angina,113,165,0,normal,199,0,0.6,up,0,normal,0,0
+10478,51,male,asymptomatic,127,178,1,normal,145,1,0.7,flat,0,normal,1,1
+10479,55,female,asymptomatic,200,306,1,enlarged ventricle,135,1,4.3,down,2,reversible defect,1,1
+10480,68,male,non-anginal pain,135,250,0,enlarged ventricle,150,0,2.5,flat,3,reversible defect,0,1
+10481,64,female,non-anginal pain,118,?,0,normal,138,1,0.0,flat,0,normal,0,0
+10482,60,male,asymptomatic,116,342,0,enlarged ventricle,179,0,0.0,up,2,reversible defect,1,1
+10483,51,male,atypical angina,138,301,0,normal,152,0,0.3,up,0,normal,0,0
+10484,68,male,asymptomatic,113,271,0,normal,82,1,2.4,down,1,normal,1,1
+10485,66,female,asymptomatic,128,200,0,normal,145,1,0.1,flat,0,normal,0,0
+10486,56,male,typical angina,141,328,1,normal,170,0,1.2,flat,0,reversible defect,0,0
+10487,35,female,non-anginal pain,102,200,0,normal,167,0,0.0,up,0,normal,0,0
+10488,58,female,asymptomatic,95,253,0,enlarged ventricle,125,0,0.8,flat,0,normal,0,0
+10489,65,male,asymptomatic,136,?,0,enlarged ventricle,116,0,2.9,flat,1,reversible defect,1,1
+10490,51,female,non-anginal pain,116,256,0,enlarged ventricle,166,0,0.1,up,0,normal,0,0
+10491,56,male,asymptomatic,116,317,0,normal,135,1,2.7,flat,1,reversible defect,1,1
+10492,55,male,atypical angina,142,232,0,normal,159,1,0.3,up,0,normal,0,0
+10493,62,female,non-anginal pain,139,322,0,enlarged ventricle,143,0,0.7,up,0,normal,0,0
+10494,66,female,asymptomatic,181,180,1,normal,156,1,1.4,flat,2,reversible defect,1,1
+10495,60,male,asymptomatic,108,292,0,normal,106,1,2.0,flat,2,reversible defect,1,1
+10496,62,female,non-anginal pain,140,288,0,enlarged ventricle,158,0,0.2,flat,1,normal,0,0
+10497,66,female,atypical angina,154,216,0,normal,180,0,0.1,up,2,normal,0,0
+10498,31,female,atypical angina,125,207,0,enlarged ventricle,187,0,0.9,up,0,normal,0,0
+10499,59,female,asymptomatic,136,319,0,enlarged ventricle,136,1,1.0,flat,0,reversible defect,1,0
+10500,51,male,asymptomatic,137,191,1,enlarged ventricle,135,1,2.7,down,0,reversible defect,1,1
+10501,62,female,asymptomatic,130,196,0,normal,158,0,0.0,up,0,normal,1,0
+10502,64,male,asymptomatic,128,178,0,enlarged ventricle,129,1,2.6,flat,2,reversible defect,1,1
+10503,37,male,asymptomatic,108,280,0,normal,155,0,0.2,up,0,normal,0,0
+10504,52,female,asymptomatic,170,303,0,ST-T abnormality,124,1,3.8,flat,0,normal,1,1
+10505,58,female,asymptomatic,154,297,0,normal,157,0,2.2,flat,2,reversible defect,1,1
+10506,51,female,atypical angina,137,312,0,normal,167,0,1.2,up,0,normal,0,0
+10507,45,male,non-anginal pain,113,166,0,normal,134,0,2.1,flat,3,?,1,1
+10508,60,male,asymptomatic,108,?,1,enlarged ventricle,143,1,1.6,flat,1,normal,1,1
+10509,41,male,asymptomatic,124,226,0,normal,165,0,0.5,up,0,reversible defect,0,0
+10510,52,female,non-anginal pain,134,318,0,enlarged ventricle,134,0,1.1,up,1,normal,0,0
+10511,57,male,asymptomatic,127,243,0,enlarged ventricle,108,1,2.3,flat,1,reversible defect,1,1
+10512,47,male,asymptomatic,135,333,0,enlarged ventricle,147,1,0.0,flat,3,reversible defect,1,1
+10513,33,female,non-anginal pain,114,194,0,normal,162,0,0.0,up,0,normal,1,0
+10514,45,female,non-anginal pain,149,185,0,enlarged ventricle,151,1,1.5,down,0,normal,0,0
+10515,46,male,asymptomatic,141,182,0,enlarged ventricle,137,1,1.3,flat,0,reversible defect,1,1
+10516,61,male,asymptomatic,158,313,0,normal,94,1,0.8,flat,1,reversible defect,1,1
+10517,52,male,atypical angina,134,215,1,normal,181,0,0.0,up,0,normal,0,0
+10518,56,female,non-anginal pain,131,229,0,normal,169,0,0.3,flat,0,?,0,0
+10519,36,female,non-anginal pain,122,211,0,normal,176,0,0.0,up,0,normal,0,0
+10520,59,female,atypical angina,142,301,1,enlarged ventricle,144,0,0.1,up,2,normal,0,0
+10521,39,male,non-anginal pain,139,?,0,normal,162,0,1.6,up,1,normal,0,0
+10522,71,male,asymptomatic,117,243,0,normal,78,0,1.0,flat,0,normal,1,1
+10523,70,male,asymptomatic,120,267,0,normal,70,0,0.9,flat,0,normal,1,1
+10524,67,male,asymptomatic,92,312,0,enlarged ventricle,127,1,1.3,flat,2,normal,1,1
+10525,42,male,atypical angina,136,201,0,enlarged ventricle,172,0,0.2,up,0,normal,0,0
+10526,66,female,asymptomatic,106,212,0,normal,143,0,0.1,up,2,normal,0,0
+10527,46,male,asymptomatic,99,264,0,enlarged ventricle,117,1,0.9,flat,1,normal,0,0
+10528,68,male,non-anginal pain,135,281,1,enlarged ventricle,189,0,1.0,flat,1,?,0,0
+10529,62,male,non-anginal pain,119,263,0,enlarged ventricle,98,1,2.4,down,1,normal,1,1
+10530,53,male,atypical angina,123,209,1,normal,180,0,0.0,up,0,normal,0,0
+10531,63,male,asymptomatic,134,311,0,enlarged ventricle,174,0,1.5,flat,2,reversible defect,1,1
+10532,54,male,asymptomatic,117,142,0,normal,117,1,0.8,up,1,reversible defect,1,1
+10533,60,male,non-anginal pain,105,215,0,enlarged ventricle,146,1,0.3,flat,0,reversible defect,0,0
+10534,52,male,typical angina,134,?,0,normal,169,0,0.0,up,0,normal,0,0
+10535,48,male,asymptomatic,147,236,0,normal,202,1,0.0,up,0,normal,0,0
+10536,43,male,asymptomatic,111,206,0,normal,147,0,0.0,up,0,normal,1,0
+10537,55,male,asymptomatic,134,266,0,normal,149,1,0.0,up,1,reversible defect,1,1
+10538,38,male,asymptomatic,116,263,0,enlarged ventricle,154,1,0.4,up,0,reversible defect,1,1
+10539,41,male,non-anginal pain,118,227,0,enlarged ventricle,188,0,0.0,up,0,normal,0,0
+10540,59,male,asymptomatic,143,276,0,enlarged ventricle,181,0,0.0,up,0,normal,0,0
+10541,47,male,non-anginal pain,106,?,0,normal,155,1,1.6,flat,0,normal,0,0
+10542,51,male,asymptomatic,157,318,0,enlarged ventricle,142,1,0.4,up,1,reversible defect,0,0
+10543,38,male,asymptomatic,129,299,0,normal,138,1,1.6,flat,0,fixed defect,0,0
+10544,50,female,atypical angina,118,?,0,normal,167,0,0.2,up,0,normal,0,0
+10545,57,male,atypical angina,152,248,0,enlarged ventricle,164,0,0.0,up,1,normal,0,0
+10546,49,male,asymptomatic,94,171,0,enlarged ventricle,158,1,3.1,flat,0,normal,1,1
+10547,54,male,typical angina,116,169,0,enlarged ventricle,177,0,0.0,flat,0,fixed defect,0,0
+10548,54,female,non-anginal pain,138,197,0,enlarged ventricle,162,0,0.0,flat,0,normal,0,0
+10549,48,male,asymptomatic,102,230,1,normal,152,0,0.3,flat,3,reversible defect,0,0
+10550,39,male,typical angina,143,177,0,normal,190,1,1.4,up,0,reversible defect,0,0
+10551,40,female,non-anginal pain,101,154,0,normal,174,0,0.0,up,0,normal,0,0
+10552,57,female,asymptomatic,133,401,0,enlarged ventricle,155,1,2.0,flat,2,reversible defect,1,1
+10553,60,male,asymptomatic,138,249,0,enlarged ventricle,138,0,1.3,flat,1,reversible defect,0,0
+10554,51,female,asymptomatic,127,219,0,ST-T abnormality,135,1,2.2,flat,1,reversible defect,1,0
+10555,66,female,non-anginal pain,151,?,0,normal,161,0,0.8,up,0,normal,0,0
+10556,53,male,atypical angina,136,234,0,normal,139,0,0.0,up,0,reversible defect,0,0
+10557,50,male,atypical angina,106,216,1,normal,152,0,0.0,up,0,reversible defect,0,0
+10558,48,male,asymptomatic,151,228,0,enlarged ventricle,139,0,2.8,flat,0,reversible defect,0,0
+10559,58,male,non-anginal pain,135,256,0,enlarged ventricle,171,0,1.3,up,?,reversible defect,0,0
+10560,53,male,asymptomatic,99,194,0,enlarged ventricle,116,1,0.0,flat,1,normal,1,1
+10561,67,female,non-anginal pain,107,197,0,enlarged ventricle,125,0,1.4,down,0,normal,0,0
+10562,54,male,asymptomatic,124,?,0,normal,167,0,1.1,up,2,reversible defect,0,0
+10563,56,male,non-anginal pain,172,218,1,normal,170,0,0.6,up,0,reversible defect,0,0
+10564,52,female,asymptomatic,131,212,0,ST-T abnormality,145,1,1.8,flat,1,reversible defect,0,0
+10565,56,male,asymptomatic,158,244,0,enlarged ventricle,109,1,0.5,flat,1,fixed defect,0,0
+10566,57,male,non-anginal pain,128,209,0,enlarged ventricle,162,0,3.5,flat,0,normal,0,0
+10567,67,male,asymptomatic,99,231,0,enlarged ventricle,155,0,0.2,up,2,fixed defect,1,1
+10568,68,male,asymptomatic,113,266,0,enlarged ventricle,163,0,0.1,flat,0,normal,1,0
+10569,61,male,non-anginal pain,128,267,0,normal,136,1,1.8,flat,0,reversible defect,0,0
+10570,62,male,asymptomatic,140,303,0,enlarged ventricle,172,0,0.2,up,0,normal,0,0
+10571,69,female,non-anginal pain,147,307,0,normal,150,0,0.6,up,0,normal,0,0
+10572,60,male,asymptomatic,126,194,0,normal,164,1,0.0,up,0,reversible defect,0,0
+10573,46,male,asymptomatic,135,240,1,enlarged ventricle,150,1,0.5,flat,0,reversible defect,0,0
+10574,60,male,asymptomatic,114,317,0,ST-T abnormality,139,0,4.5,down,?,fixed defect,1,1
+10575,40,male,asymptomatic,148,195,0,normal,177,0,0.3,up,0,normal,0,0
+10576,43,female,non-anginal pain,90,202,0,normal,184,0,0.0,flat,0,normal,0,0
+10577,39,male,non-anginal pain,111,264,0,normal,175,0,0.0,up,0,?,0,0
+10578,44,female,non-anginal pain,110,?,0,normal,127,0,0.5,flat,1,normal,0,0
+10579,68,male,asymptomatic,169,234,0,enlarged ventricle,134,0,2.9,up,0,fixed defect,1,1
+10580,66,male,typical angina,118,201,0,enlarged ventricle,139,1,2.1,flat,0,normal,0,0
+10581,61,female,asymptomatic,128,222,0,normal,148,1,0.6,flat,0,normal,0,0
+10582,56,male,asymptomatic,158,253,0,enlarged ventricle,99,1,0.5,flat,1,fixed defect,1,1
+10583,67,female,non-anginal pain,163,265,0,normal,186,0,0.3,up,1,normal,0,0
+10584,50,male,asymptomatic,151,335,0,enlarged ventricle,174,1,1.3,up,0,reversible defect,0,0
+10585,58,female,asymptomatic,171,310,0,enlarged ventricle,164,0,0.0,up,0,normal,0,0
+10586,58,male,asymptomatic,118,326,0,enlarged ventricle,108,1,2.2,flat,1,reversible defect,1,1
+10587,66,female,non-anginal pain,114,229,0,enlarged ventricle,114,0,1.9,flat,0,normal,0,0
+10588,66,female,non-anginal pain,162,306,0,normal,168,0,0.0,up,1,normal,1,0
+10589,66,male,non-anginal pain,137,270,0,enlarged ventricle,162,0,2.0,flat,3,reversible defect,0,0
+10590,68,female,typical angina,136,207,0,ST-T abnormality,109,0,2.9,down,0,normal,1,1
+10591,60,male,atypical angina,150,255,0,enlarged ventricle,168,0,0.0,up,1,normal,0,0
+10592,50,female,asymptomatic,118,229,0,enlarged ventricle,161,0,0.4,up,0,normal,0,0
+10593,47,male,non-anginal pain,96,181,0,normal,143,1,1.5,flat,0,normal,0,0
+10594,52,male,non-anginal pain,136,272,0,normal,163,0,0.0,up,0,normal,0,0
+10595,58,male,asymptomatic,132,?,0,normal,148,1,2.0,up,1,?,1,1
+10596,51,female,non-anginal pain,124,335,1,normal,156,0,0.0,up,0,normal,0,0
+10597,54,male,non-anginal pain,134,231,0,enlarged ventricle,150,0,0.0,up,0,reversible defect,0,0
+10598,39,female,non-anginal pain,138,218,0,normal,148,0,0.3,flat,0,normal,0,0
+10599,68,female,non-anginal pain,111,520,0,enlarged ventricle,171,0,1.7,flat,0,reversible defect,0,0
+10600,72,male,non-anginal pain,149,282,0,normal,127,1,2.5,flat,1,reversible defect,0,0
+10601,43,female,non-anginal pain,107,224,0,normal,176,0,0.0,up,0,normal,1,0
+10602,60,female,asymptomatic,123,198,0,normal,132,0,0.2,flat,0,normal,0,0
+10603,69,male,typical angina,144,250,1,enlarged ventricle,122,0,0.4,flat,1,normal,0,0
+10604,40,male,atypical angina,142,232,0,normal,135,0,0.3,flat,0,fixed defect,0,0
+10605,44,male,atypical angina,131,233,0,normal,135,0,0.0,flat,0,fixed defect,0,0
+10606,56,female,asymptomatic,159,287,0,enlarged ventricle,152,0,2.8,flat,2,reversible defect,1,1
+10607,48,female,asymptomatic,137,264,0,enlarged ventricle,151,1,0.0,flat,?,normal,0,0
+10608,49,male,atypical angina,130,309,0,normal,175,0,0.2,up,0,normal,0,0
+10609,44,male,non-anginal pain,125,?,0,normal,183,0,0.0,up,0,normal,0,0
+10610,39,male,non-anginal pain,121,282,1,normal,205,0,0.7,down,0,reversible defect,0,0
+10611,55,male,asymptomatic,131,133,0,normal,136,1,1.0,flat,1,reversible defect,0,0
+10612,68,male,asymptomatic,139,283,0,normal,104,0,2.4,flat,3,normal,1,1
+10613,55,male,non-anginal pain,143,215,1,normal,139,0,1.2,up,0,?,0,0
+10614,69,male,non-anginal pain,184,282,1,enlarged ventricle,151,1,1.3,flat,0,reversible defect,0,0
+10615,59,male,asymptomatic,127,267,0,enlarged ventricle,162,0,0.2,up,2,reversible defect,0,0
+10616,51,male,non-anginal pain,159,200,1,normal,166,0,0.0,up,0,reversible defect,1,1
+10617,64,male,asymptomatic,134,203,0,enlarged ventricle,138,1,3.5,flat,1,reversible defect,1,1
+10618,62,female,non-anginal pain,136,?,0,normal,91,0,1.0,flat,1,reversible defect,0,0
+10619,54,male,asymptomatic,140,253,0,enlarged ventricle,130,1,2.9,flat,2,reversible defect,1,1
+10620,39,male,non-anginal pain,127,315,0,normal,170,0,1.9,up,1,normal,0,0
+10621,64,female,non-anginal pain,146,293,0,normal,151,0,1.0,up,0,normal,0,0
+10622,41,female,non-anginal pain,133,141,0,enlarged ventricle,175,0,0.3,flat,0,normal,0,0
+10623,55,female,asymptomatic,128,165,0,enlarged ventricle,162,0,0.0,flat,0,?,0,0
+10624,54,female,asymptomatic,124,257,0,normal,133,1,1.0,up,0,reversible defect,0,0
+10625,49,male,asymptomatic,146,?,0,enlarged ventricle,150,1,0.3,flat,3,reversible defect,1,1
+10626,67,male,asymptomatic,122,274,1,normal,160,0,0.1,flat,2,reversible defect,0,0
+10627,58,male,atypical angina,128,209,0,normal,136,0,0.4,flat,0,reversible defect,0,0
+10628,59,male,atypical angina,119,171,0,enlarged ventricle,167,0,0.1,up,0,reversible defect,0,0
+10629,64,female,asymptomatic,94,277,0,normal,169,1,1.8,flat,2,normal,1,0
+10630,67,female,asymptomatic,126,303,0,enlarged ventricle,120,0,1.9,flat,2,normal,0,0
+10631,56,male,asymptomatic,131,233,1,normal,147,0,2.6,flat,1,fixed defect,1,1
+10632,55,female,asymptomatic,130,177,0,normal,126,0,0.3,flat,0,normal,0,0
+10633,51,female,atypical angina,142,290,0,normal,174,0,1.3,up,0,normal,0,0
+10634,58,male,asymptomatic,133,220,0,normal,162,0,0.3,flat,0,reversible defect,0,0
+10635,43,male,non-anginal pain,142,218,0,normal,182,1,1.4,up,0,reversible defect,0,0
+10636,56,female,asymptomatic,127,435,0,enlarged ventricle,151,1,2.4,flat,2,reversible defect,1,1
+10637,43,male,non-anginal pain,118,306,0,normal,170,0,2.2,up,1,normal,0,0
+10638,53,female,asymptomatic,118,289,0,enlarged ventricle,171,0,0.1,up,1,normal,0,0
+10639,55,male,asymptomatic,108,273,0,ST-T abnormality,130,0,4.3,down,3,fixed defect,1,1
+10640,49,female,non-anginal pain,144,246,0,enlarged ventricle,125,0,0.5,up,0,normal,0,0
+10641,40,male,atypical angina,100,224,0,normal,151,0,0.2,up,0,normal,0,0
+10642,57,male,non-anginal pain,113,240,0,enlarged ventricle,150,0,0.4,flat,0,reversible defect,0,0
+10643,59,male,asymptomatic,143,185,0,normal,171,1,0.0,up,0,reversible defect,0,0
+10644,62,male,asymptomatic,165,?,0,enlarged ventricle,136,1,3.1,down,0,reversible defect,0,0
+10645,55,male,asymptomatic,115,345,0,normal,139,1,3.1,flat,1,reversible defect,1,1
+10646,51,male,asymptomatic,94,220,0,normal,162,0,0.0,up,?,normal,0,0
+10647,64,female,asymptomatic,150,339,0,enlarged ventricle,156,0,0.1,up,0,normal,0,0
+10648,53,female,non-anginal pain,144,324,0,enlarged ventricle,148,0,1.3,up,1,normal,0,0
+10649,55,female,asymptomatic,116,?,0,enlarged ventricle,131,0,0.2,flat,0,normal,0,0
+10650,41,female,atypical angina,106,230,0,normal,167,0,0.1,up,1,normal,0,0
+10651,35,male,asymptomatic,118,189,0,normal,151,0,1.4,flat,0,reversible defect,0,0
+10652,60,female,asymptomatic,165,228,1,enlarged ventricle,145,1,2.6,up,2,?,1,1
+10653,66,male,asymptomatic,118,249,0,enlarged ventricle,122,1,2.6,flat,2,reversible defect,1,1
+10654,52,female,non-anginal pain,141,324,1,normal,169,0,0.0,up,0,normal,0,0
+10655,66,female,asymptomatic,130,292,0,normal,114,0,1.8,flat,2,normal,0,0
+10656,54,female,non-anginal pain,116,237,0,enlarged ventricle,173,0,0.0,up,0,normal,1,0
+10657,48,male,non-anginal pain,116,129,0,normal,124,0,1.2,up,0,normal,0,0
+10658,72,male,non-anginal pain,192,286,1,enlarged ventricle,148,1,2.3,flat,0,reversible defect,0,0
+10659,34,male,non-anginal pain,119,190,0,normal,180,0,0.0,up,0,normal,0,0
+10660,60,male,asymptomatic,131,127,0,normal,114,1,1.2,up,1,reversible defect,1,1
+10661,54,male,asymptomatic,124,?,0,normal,126,1,1.2,flat,1,reversible defect,0,0
+10662,60,female,asymptomatic,155,?,0,normal,151,1,1.8,up,0,normal,1,0
+10663,60,male,asymptomatic,126,194,0,normal,162,1,0.0,up,0,reversible defect,1,1
+10664,57,male,atypical angina,113,328,0,normal,147,0,0.0,up,0,reversible defect,0,0
+10665,44,female,asymptomatic,136,209,0,enlarged ventricle,157,1,0.4,flat,?,normal,0,0
+10666,55,female,atypical angina,139,266,0,enlarged ventricle,148,0,1.5,flat,0,normal,0,0
+10667,61,female,asymptomatic,147,274,0,enlarged ventricle,141,1,0.5,flat,0,?,0,0
+10668,43,female,non-anginal pain,106,259,0,enlarged ventricle,179,1,0.0,up,0,normal,0,0
+10669,57,male,asymptomatic,160,305,1,enlarged ventricle,113,0,1.3,up,3,reversible defect,1,1
+10670,46,male,atypical angina,125,200,0,enlarged ventricle,181,0,0.0,up,0,normal,0,0
+10671,51,male,atypical angina,126,249,0,normal,176,0,0.0,flat,0,normal,0,0
+10672,49,male,non-anginal pain,134,219,0,normal,176,0,0.1,up,0,normal,0,0
+10673,60,male,asymptomatic,137,236,0,normal,147,0,0.9,flat,0,fixed defect,0,0
+10674,58,male,asymptomatic,127,374,0,normal,133,1,1.2,flat,1,reversible defect,1,1
+10675,55,male,non-anginal pain,100,215,0,normal,154,1,0.0,up,1,reversible defect,0,0
+10676,35,male,asymptomatic,131,?,0,enlarged ventricle,146,1,0.5,flat,0,reversible defect,0,0
+10677,54,female,non-anginal pain,119,?,0,enlarged ventricle,160,0,0.6,up,0,normal,0,0
+10678,50,male,asymptomatic,140,235,0,enlarged ventricle,151,0,1.3,up,0,reversible defect,0,0
+10679,54,male,asymptomatic,142,246,0,normal,142,0,2.6,flat,0,reversible defect,1,1
+10680,73,male,typical angina,173,223,1,enlarged ventricle,129,0,0.1,up,1,normal,1,0
+10681,57,male,non-anginal pain,134,273,0,enlarged ventricle,178,0,3.0,up,2,reversible defect,1,1
+10682,47,male,asymptomatic,158,?,0,normal,178,0,1.1,up,0,normal,1,0
+10683,33,female,atypical angina,115,195,0,normal,193,0,0.7,up,0,normal,0,0
+10684,67,male,asymptomatic,149,130,0,enlarged ventricle,161,1,4.1,up,2,reversible defect,1,1
+10685,44,male,asymptomatic,102,201,0,enlarged ventricle,174,0,0.0,up,0,reversible defect,0,0
+10686,50,male,asymptomatic,129,267,0,normal,107,1,1.8,flat,2,reversible defect,1,1
+10687,34,female,non-anginal pain,122,170,0,normal,160,0,0.0,up,0,normal,0,0
+10688,60,male,asymptomatic,177,322,0,enlarged ventricle,138,1,2.9,down,0,reversible defect,1,1
+10689,41,female,asymptomatic,128,377,1,enlarged ventricle,142,1,2.8,flat,0,?,1,1
+10690,68,male,atypical angina,163,295,0,normal,121,1,0.0,flat,3,fixed defect,0,0
+10691,67,male,non-anginal pain,119,303,0,normal,118,1,1.7,flat,0,reversible defect,0,0
+10692,64,male,asymptomatic,117,262,0,enlarged ventricle,98,1,2.2,down,1,normal,1,1
+10693,65,female,asymptomatic,148,233,0,normal,170,1,1.7,flat,0,?,0,0
+10694,64,female,non-anginal pain,135,307,0,normal,146,0,0.0,up,0,reversible defect,0,0
+10695,59,male,asymptomatic,121,287,0,enlarged ventricle,178,0,0.0,up,2,reversible defect,0,0
+10696,63,male,asymptomatic,102,251,0,enlarged ventricle,133,1,0.3,up,1,normal,0,0
+10697,42,male,atypical angina,134,185,0,normal,132,0,0.2,flat,0,fixed defect,0,0
+10698,41,male,atypical angina,131,212,0,normal,176,0,0.0,up,0,reversible defect,0,0
+10699,45,male,atypical angina,143,192,0,normal,166,0,0.6,up,0,normal,1,0
+10700,64,male,asymptomatic,113,245,0,normal,137,1,3.4,flat,1,reversible defect,0,1
+10701,72,male,asymptomatic,139,178,0,normal,127,1,2.9,down,0,reversible defect,1,1
+10702,61,male,asymptomatic,148,?,0,enlarged ventricle,149,0,2.3,flat,2,fixed defect,1,1
+10703,43,male,asymptomatic,114,?,0,normal,119,1,1.5,flat,0,reversible defect,1,1
+10704,56,male,atypical angina,182,288,0,enlarged ventricle,197,0,0.1,up,1,reversible defect,0,0
+10705,40,male,asymptomatic,131,238,0,normal,180,0,1.6,flat,0,normal,0,0
+10706,52,male,atypical angina,122,253,0,normal,192,0,0.4,up,0,normal,0,0
+10707,53,male,asymptomatic,119,210,1,normal,157,0,0.6,up,3,reversible defect,0,0
+10708,63,male,asymptomatic,131,220,0,enlarged ventricle,88,1,2.1,down,1,normal,1,1
+10709,49,female,asymptomatic,130,292,0,normal,177,0,0.5,up,0,normal,0,0
+10710,39,male,asymptomatic,161,248,0,normal,178,0,1.1,up,0,normal,0,0
+10711,59,male,typical angina,149,171,1,normal,127,1,0.8,flat,0,normal,0,0
+10712,65,male,typical angina,159,216,0,enlarged ventricle,153,0,0.8,flat,0,reversible defect,0,0
+10713,61,male,asymptomatic,116,244,1,normal,143,1,1.3,up,2,reversible defect,1,1
+10714,53,female,atypical angina,143,286,0,enlarged ventricle,155,0,1.8,flat,0,?,0,0
+10715,56,male,asymptomatic,133,?,0,normal,168,1,0.0,up,0,reversible defect,0,0
+10716,67,male,asymptomatic,115,245,0,normal,74,0,0.4,flat,0,normal,1,1
+10717,55,male,atypical angina,120,261,0,normal,175,0,1.1,up,0,normal,0,0
+10718,39,male,atypical angina,113,260,0,normal,155,0,0.0,up,0,normal,1,0
+10719,57,male,typical angina,171,316,0,enlarged ventricle,155,0,0.2,flat,0,reversible defect,0,0
+10720,41,female,atypical angina,128,278,0,normal,167,0,0.0,up,0,normal,1,0
+10721,37,male,non-anginal pain,133,?,0,normal,187,0,3.7,down,0,normal,0,0
+10722,50,female,asymptomatic,138,231,0,normal,168,0,0.2,up,0,normal,0,0
+10723,60,female,asymptomatic,141,294,0,enlarged ventricle,168,0,2.7,down,2,normal,0,0
+10724,63,male,asymptomatic,111,195,0,enlarged ventricle,138,1,0.2,up,1,normal,1,0
+10725,53,female,asymptomatic,183,302,0,ST-T abnormality,115,1,2.9,flat,0,normal,1,1
+10726,67,male,asymptomatic,125,222,0,normal,126,0,0.4,up,0,?,0,0
+10727,48,male,typical angina,96,237,0,normal,136,0,1.1,flat,0,reversible defect,0,0
+10728,45,male,asymptomatic,145,305,0,normal,114,1,2.0,flat,0,fixed defect,0,0
+10729,56,male,asymptomatic,166,274,0,normal,95,1,0.6,flat,1,reversible defect,1,1
+10730,55,male,asymptomatic,140,293,0,normal,132,1,4.1,flat,3,reversible defect,1,1
+10731,54,female,asymptomatic,143,262,0,enlarged ventricle,168,0,0.6,up,0,normal,0,0
+10732,47,female,non-anginal pain,124,?,0,normal,149,0,0.9,up,0,normal,0,0
+10733,45,male,asymptomatic,117,265,0,enlarged ventricle,162,0,0.0,up,1,normal,0,0
+10734,62,male,asymptomatic,133,196,0,normal,155,1,0.0,up,1,reversible defect,0,1
+10735,43,male,atypical angina,131,211,0,enlarged ventricle,178,0,0.0,up,0,normal,0,0
+10736,56,female,asymptomatic,163,290,0,enlarged ventricle,144,0,0.0,flat,0,normal,0,0
+10737,46,male,asymptomatic,118,288,0,enlarged ventricle,167,0,0.8,flat,0,reversible defect,0,0
+10738,38,female,atypical angina,109,220,0,normal,196,0,1.0,up,0,normal,0,0
+10739,56,male,atypical angina,117,239,0,normal,181,0,0.6,up,0,normal,0,0
+10740,64,male,non-anginal pain,147,190,0,enlarged ventricle,150,0,0.6,flat,0,reversible defect,0,0
+10741,61,male,non-anginal pain,137,212,1,enlarged ventricle,173,0,0.0,up,0,normal,0,0
+10742,43,male,atypical angina,111,232,0,normal,176,0,0.0,up,0,reversible defect,0,0
+10743,39,male,non-anginal pain,121,268,0,normal,166,0,0.2,up,0,normal,0,0
+10744,42,male,non-anginal pain,148,223,0,normal,136,0,3.7,flat,0,normal,0,0
+10745,64,female,typical angina,153,237,0,normal,181,0,1.2,up,0,normal,0,0
+10746,47,male,asymptomatic,99,306,0,enlarged ventricle,157,0,0.2,up,1,normal,0,0
+10747,50,female,non-anginal pain,115,289,0,enlarged ventricle,145,0,0.9,up,?,normal,0,0
+10748,70,male,non-anginal pain,173,280,0,normal,122,1,3.1,flat,1,reversible defect,1,1
+10749,57,male,non-anginal pain,143,193,1,normal,154,0,1.3,up,0,normal,0,0
+10750,63,male,non-anginal pain,128,224,1,normal,144,0,2.4,flat,1,fixed defect,0,0
+10751,53,male,non-anginal pain,137,210,0,normal,136,0,1.6,flat,3,reversible defect,0,0
+10752,52,male,asymptomatic,132,306,0,normal,141,1,0.5,flat,1,reversible defect,0,0
+10753,42,male,atypical angina,132,251,0,normal,179,0,0.0,up,0,reversible defect,0,0
+10754,48,male,asymptomatic,103,198,0,normal,174,0,0.0,up,1,normal,0,0
+10755,65,male,non-anginal pain,114,272,0,normal,147,0,1.2,up,1,reversible defect,0,0
+10756,47,male,non-anginal pain,123,265,1,normal,186,0,0.2,up,2,normal,0,0
+10757,62,male,non-anginal pain,134,?,0,enlarged ventricle,185,0,0.0,flat,0,normal,0,0
+10758,39,female,atypical angina,129,307,0,normal,154,0,0.0,up,0,normal,0,0
+10759,52,female,atypical angina,120,?,0,normal,154,0,0.2,flat,0,normal,0,0
+10760,43,female,asymptomatic,93,274,0,enlarged ventricle,118,0,0.7,flat,0,normal,0,0
+10761,65,female,non-anginal pain,130,235,0,enlarged ventricle,114,0,1.4,flat,0,normal,0,0
+10762,40,female,non-anginal pain,119,260,0,normal,139,0,0.1,flat,1,normal,0,0
+10763,51,female,non-anginal pain,114,250,0,normal,172,0,1.3,flat,0,normal,0,0
+10764,59,male,typical angina,183,314,0,enlarged ventricle,151,0,0.2,flat,0,reversible defect,0,0
+10765,50,female,non-anginal pain,128,161,0,enlarged ventricle,152,1,1.8,down,0,normal,0,0
+10766,44,male,asymptomatic,96,?,0,normal,129,1,3.3,down,0,fixed defect,1,1
+10767,54,male,asymptomatic,142,252,0,enlarged ventricle,149,0,0.0,flat,1,reversible defect,1,1
+10768,66,male,atypical angina,145,248,0,enlarged ventricle,141,0,0.1,up,0,normal,0,0
+10769,36,female,non-anginal pain,139,150,0,normal,158,0,0.6,flat,0,?,1,0
+10770,59,male,asymptomatic,117,250,0,enlarged ventricle,128,1,1.9,flat,2,reversible defect,1,1
+10771,62,male,typical angina,124,243,1,enlarged ventricle,150,0,2.3,down,0,fixed defect,0,0
+10772,52,male,non-anginal pain,139,246,0,normal,159,0,1.7,up,0,normal,0,0
+10773,56,male,atypical angina,134,269,0,normal,155,0,0.4,up,0,normal,0,0
+10774,41,male,non-anginal pain,123,294,0,normal,159,0,2.3,up,1,normal,0,0
+10775,35,male,non-anginal pain,110,250,0,normal,182,0,3.5,down,0,normal,0,0
+10776,52,male,atypical angina,112,220,0,normal,170,0,1.1,down,0,reversible defect,0,0
+10777,65,female,asymptomatic,165,204,0,enlarged ventricle,123,0,1.5,flat,3,reversible defect,1,0
+10778,59,male,non-anginal pain,118,227,0,enlarged ventricle,193,0,3.3,up,2,reversible defect,1,1
+10779,57,male,atypical angina,126,249,0,normal,160,0,0.3,down,0,normal,0,0
+10780,36,female,non-anginal pain,96,226,0,normal,172,0,0.4,up,0,normal,0,0
+10781,62,male,asymptomatic,123,173,0,enlarged ventricle,124,1,3.5,flat,1,normal,1,1
+10782,64,male,asymptomatic,128,263,0,normal,106,1,2.0,flat,2,reversible defect,1,1
+10783,54,male,atypical angina,121,298,0,enlarged ventricle,162,0,2.2,flat,0,normal,0,0
+10784,47,female,non-anginal pain,129,301,0,normal,134,0,0.4,up,0,?,0,0
+10785,55,male,non-anginal pain,160,192,0,normal,181,0,1.8,up,0,normal,0,0
+10786,57,male,typical angina,120,187,0,enlarged ventricle,151,0,2.2,flat,0,reversible defect,0,0
+10787,61,male,non-anginal pain,138,231,0,enlarged ventricle,147,0,0.8,flat,1,reversible defect,0,0
+10788,57,male,asymptomatic,141,277,0,enlarged ventricle,153,0,2.1,flat,0,normal,1,1
+10789,53,male,atypical angina,126,314,0,normal,133,0,0.5,up,?,reversible defect,0,0
+10790,64,male,asymptomatic,133,355,1,enlarged ventricle,121,1,1.7,up,3,reversible defect,1,1
+10791,56,male,asymptomatic,95,265,0,normal,151,0,0.2,up,1,reversible defect,1,1
+10792,55,male,asymptomatic,152,179,1,enlarged ventricle,149,1,3.4,down,0,reversible defect,1,1
+10793,63,female,typical angina,140,235,0,normal,102,0,2.6,down,0,normal,1,1
+10794,55,male,asymptomatic,148,309,0,normal,76,1,1.3,flat,1,reversible defect,0,1
+10795,59,female,typical angina,149,209,0,normal,165,0,1.1,up,0,normal,0,0
+10796,77,female,atypical angina,119,?,0,enlarged ventricle,125,1,0.0,up,1,normal,0,0
+10797,49,female,asymptomatic,124,221,0,normal,153,0,0.0,up,0,?,0,0
+10798,43,male,asymptomatic,143,390,0,normal,128,1,1.9,up,0,fixed defect,0,0
+10799,60,male,non-anginal pain,110,236,0,enlarged ventricle,165,0,3.0,flat,1,reversible defect,1,1
+10800,59,female,asymptomatic,113,185,0,normal,135,0,0.6,flat,0,normal,0,0
+10801,59,female,asymptomatic,200,?,1,enlarged ventricle,120,1,4.4,down,2,reversible defect,1,1
+10802,61,male,asymptomatic,159,203,0,normal,125,0,2.2,flat,2,fixed defect,1,1
+10803,54,male,non-anginal pain,126,214,1,enlarged ventricle,157,0,1.2,down,0,normal,0,0
+10804,56,male,asymptomatic,161,259,0,enlarged ventricle,127,1,0.9,up,0,reversible defect,1,0
+10805,67,female,asymptomatic,174,257,1,normal,160,1,1.1,flat,2,reversible defect,0,0
+10806,50,female,non-anginal pain,132,292,0,enlarged ventricle,128,0,1.5,up,1,normal,0,0
+10807,68,female,asymptomatic,123,?,0,normal,124,0,2.0,flat,2,normal,0,0
+10808,54,male,asymptomatic,141,234,0,enlarged ventricle,141,1,2.8,flat,2,reversible defect,1,1
+10809,56,female,asymptomatic,145,414,0,enlarged ventricle,151,1,2.3,flat,2,reversible defect,1,1
+10810,62,male,asymptomatic,126,300,0,enlarged ventricle,145,0,0.3,flat,0,normal,0,0
+10811,42,male,asymptomatic,112,146,0,enlarged ventricle,114,1,2.3,flat,0,reversible defect,1,1
+10812,60,male,typical angina,176,334,0,enlarged ventricle,167,0,0.0,flat,?,reversible defect,0,0
+10813,55,male,atypical angina,115,257,0,normal,161,0,0.4,up,0,reversible defect,0,0
+10814,57,male,typical angina,183,270,0,enlarged ventricle,156,0,4.3,down,0,?,0,0
+10815,58,male,non-anginal pain,126,280,1,enlarged ventricle,147,1,0.6,flat,1,fixed defect,0,0
+10816,59,male,non-anginal pain,145,145,0,normal,178,0,1.2,up,0,normal,0,0
+10817,62,male,typical angina,130,208,0,normal,144,0,2.7,flat,?,normal,0,0
+10818,61,female,non-anginal pain,143,344,0,enlarged ventricle,152,0,0.5,up,0,normal,0,0
+10819,60,male,asymptomatic,126,234,0,enlarged ventricle,137,1,2.1,flat,1,reversible defect,1,1
+10820,61,male,typical angina,159,?,0,enlarged ventricle,110,0,0.0,up,0,normal,0,0
+10821,72,male,non-anginal pain,131,320,0,enlarged ventricle,127,0,2.3,flat,3,reversible defect,1,1
+10822,68,female,atypical angina,167,309,0,enlarged ventricle,166,0,0.6,up,2,normal,1,1
+10823,53,male,asymptomatic,119,249,0,normal,125,1,2.7,flat,1,reversible defect,1,1
+10824,58,female,atypical angina,123,263,0,enlarged ventricle,155,0,1.3,flat,0,normal,0,0
+10825,31,female,atypical angina,106,195,0,normal,193,0,0.6,flat,0,normal,0,0
+10826,66,female,asymptomatic,139,268,0,enlarged ventricle,161,0,3.8,flat,2,?,0,0
+10827,42,female,asymptomatic,148,327,1,normal,128,1,3.0,flat,0,reversible defect,0,0
+10828,61,male,non-anginal pain,120,217,1,normal,124,0,2.7,flat,?,fixed defect,1,1
+10829,45,female,asymptomatic,142,238,0,enlarged ventricle,158,1,0.0,down,0,normal,0,0
+10830,40,male,non-anginal pain,99,287,0,normal,171,0,0.3,up,0,normal,0,0
+10831,63,male,asymptomatic,138,218,0,enlarged ventricle,133,0,2.4,flat,2,fixed defect,1,1
+10832,50,female,non-anginal pain,164,203,0,normal,163,0,0.0,up,1,normal,0,0
+10833,58,female,asymptomatic,106,264,0,normal,164,0,0.2,up,0,normal,0,0
+10834,39,male,non-anginal pain,134,233,0,normal,185,0,3.2,down,0,normal,0,0
+10835,45,female,atypical angina,131,182,0,enlarged ventricle,171,0,0.8,flat,0,normal,1,0
+10836,58,female,atypical angina,130,232,0,enlarged ventricle,173,0,0.1,flat,1,normal,0,0
+10837,75,female,asymptomatic,160,334,0,enlarged ventricle,152,0,0.5,up,2,normal,1,1
+10838,58,female,asymptomatic,151,281,0,enlarged ventricle,158,0,3.8,down,2,normal,1,1
+10839,44,male,asymptomatic,141,295,0,enlarged ventricle,152,1,0.0,flat,3,reversible defect,0,0
+10840,67,female,non-anginal pain,153,260,0,enlarged ventricle,165,0,0.1,flat,1,normal,0,0
+10841,54,male,non-anginal pain,106,302,0,normal,167,0,0.0,up,0,reversible defect,0,0
+10842,43,male,asymptomatic,113,230,0,normal,123,0,0.0,up,0,normal,1,1
+10843,37,male,atypical angina,111,183,0,normal,190,0,0.4,up,0,normal,0,0
+10844,67,female,asymptomatic,90,214,0,normal,142,0,0.0,flat,2,normal,0,0
+10845,70,male,asymptomatic,116,223,0,normal,70,0,1.2,flat,0,normal,0,0
+10846,42,male,atypical angina,136,216,0,normal,130,0,0.0,flat,0,fixed defect,0,0
+10847,52,male,asymptomatic,106,221,0,normal,136,1,2.9,flat,1,reversible defect,1,1
+10848,70,male,asymptomatic,124,232,0,normal,72,0,0.7,flat,0,normal,1,1
+10849,72,female,non-anginal pain,113,?,0,enlarged ventricle,111,0,1.2,flat,0,normal,0,0
+10850,60,female,non-anginal pain,127,279,1,normal,100,0,1.4,flat,3,normal,0,0
+10851,58,male,asymptomatic,98,210,0,enlarged ventricle,106,1,0.1,flat,1,normal,1,1
+10852,49,male,non-anginal pain,105,222,0,normal,140,1,0.7,flat,0,normal,0,0
+10853,54,male,asymptomatic,116,305,0,normal,87,1,2.1,flat,2,reversible defect,1,1
+10854,54,female,atypical angina,140,301,0,enlarged ventricle,139,0,1.2,flat,0,normal,1,0
+10855,43,male,asymptomatic,98,138,0,enlarged ventricle,150,0,0.0,up,0,reversible defect,1,1
+10856,40,female,non-anginal pain,111,217,0,normal,151,0,0.2,flat,1,normal,0,0
+10857,50,male,asymptomatic,109,253,0,normal,107,1,2.5,flat,1,reversible defect,1,1
+10858,63,male,non-anginal pain,134,217,1,normal,126,0,2.3,down,1,fixed defect,1,1
+10859,52,female,atypical angina,123,331,0,normal,185,0,1.2,up,0,normal,1,0
+10860,61,male,asymptomatic,116,226,0,enlarged ventricle,134,1,3.4,flat,2,reversible defect,1,1
+10861,48,female,atypical angina,104,211,0,normal,187,0,0.1,up,0,normal,0,0
+10862,39,male,asymptomatic,121,220,0,normal,190,1,3.8,flat,0,reversible defect,1,1
+10863,58,male,asymptomatic,121,267,1,enlarged ventricle,152,1,1.3,flat,1,normal,1,0
+10864,58,female,asymptomatic,169,172,0,enlarged ventricle,151,0,6.2,down,3,reversible defect,0,0
+10865,38,male,asymptomatic,126,204,0,normal,173,0,0.0,up,0,normal,0,0
+10866,57,female,asymptomatic,123,299,0,enlarged ventricle,171,0,0.2,up,0,normal,0,0
+10867,57,male,asymptomatic,119,247,0,normal,152,1,3.7,flat,1,reversible defect,1,1
+10868,71,male,asymptomatic,112,238,0,enlarged ventricle,131,1,2.7,flat,2,reversible defect,1,1
+10869,65,male,typical angina,140,300,1,enlarged ventricle,171,0,1.0,flat,1,normal,1,1
+10870,54,male,atypical angina,153,184,0,enlarged ventricle,163,0,0.0,up,1,normal,0,0
+10871,56,female,asymptomatic,97,282,0,normal,134,0,1.3,flat,0,normal,0,0
+10872,40,male,asymptomatic,139,184,0,enlarged ventricle,109,1,2.7,flat,0,reversible defect,1,1
+10873,62,male,non-anginal pain,103,222,0,enlarged ventricle,180,0,2.7,up,1,reversible defect,1,1
+10874,57,male,asymptomatic,119,238,0,enlarged ventricle,114,1,3.4,flat,2,normal,1,1
+10875,48,male,non-anginal pain,141,198,0,normal,167,0,0.1,up,0,normal,0,0
+10876,50,male,asymptomatic,131,252,0,normal,165,0,0.3,up,0,normal,0,0
+10877,59,male,non-anginal pain,132,226,0,enlarged ventricle,174,0,2.9,up,2,reversible defect,1,1
+10878,62,female,non-anginal pain,146,197,0,normal,180,0,0.2,up,2,normal,1,1
+10879,43,male,atypical angina,129,300,0,enlarged ventricle,173,0,0.1,up,0,normal,0,0
+10880,53,male,asymptomatic,145,227,0,normal,156,0,1.1,up,0,normal,0,0
+10881,45,male,atypical angina,97,189,1,normal,147,0,0.1,up,0,reversible defect,0,0
+10882,60,male,asymptomatic,129,246,0,enlarged ventricle,167,0,3.3,up,2,reversible defect,1,1
+10883,50,female,asymptomatic,125,275,0,enlarged ventricle,151,0,0.0,up,0,normal,0,0
+10884,62,female,asymptomatic,127,225,0,normal,151,0,0.0,up,0,normal,0,0
+10885,42,female,non-anginal pain,119,262,0,enlarged ventricle,175,1,0.3,up,0,normal,0,0
+10886,47,male,atypical angina,114,230,0,normal,173,0,0.0,up,0,normal,0,0
+10887,54,male,non-anginal pain,130,263,0,enlarged ventricle,158,0,3.5,up,2,?,0,0
+10888,58,female,asymptomatic,145,341,1,enlarged ventricle,142,0,0.2,up,2,normal,0,0
+10889,54,male,asymptomatic,112,264,0,enlarged ventricle,168,0,0.2,up,1,normal,0,0
+10890,33,male,atypical angina,111,158,0,normal,178,0,0.1,up,0,normal,0,0
+10891,62,male,non-anginal pain,118,170,1,normal,144,0,2.6,flat,1,fixed defect,0,0
+10892,56,male,asymptomatic,134,255,0,normal,153,0,0.7,flat,0,reversible defect,0,0
+10893,39,male,asymptomatic,127,300,0,normal,162,0,1.6,flat,0,normal,0,0
+10894,61,male,typical angina,138,120,0,normal,148,0,1.1,up,2,normal,0,0
+10895,44,male,typical angina,141,264,0,enlarged ventricle,180,0,0.8,up,2,normal,0,0
+10896,36,female,non-anginal pain,93,227,0,normal,168,0,0.0,up,0,normal,1,0
+10897,48,male,atypical angina,130,228,0,enlarged ventricle,200,0,0.0,up,0,normal,0,0
+10898,60,male,typical angina,164,274,0,enlarged ventricle,145,0,4.4,down,0,reversible defect,1,1
+10899,47,female,non-anginal pain,129,219,0,enlarged ventricle,152,0,0.2,up,0,normal,0,0
+10900,40,male,non-anginal pain,137,349,0,enlarged ventricle,187,0,0.0,up,0,?,0,0
+10901,63,female,asymptomatic,128,367,0,normal,131,0,2.0,flat,2,normal,0,0
+10902,75,female,non-anginal pain,102,331,1,normal,131,0,0.0,up,1,normal,0,0
+10903,58,male,asymptomatic,127,260,0,enlarged ventricle,144,1,2.6,flat,1,reversible defect,1,1
+10904,45,female,asymptomatic,126,274,0,normal,147,0,0.1,up,0,normal,0,0
+10905,60,male,asymptomatic,103,355,0,normal,133,1,3.1,flat,1,reversible defect,1,1
+10906,63,female,asymptomatic,192,200,1,normal,168,1,1.4,flat,2,reversible defect,0,0
+10907,56,male,asymptomatic,146,?,0,enlarged ventricle,112,1,0.5,up,0,reversible defect,0,0
+10908,53,male,asymptomatic,101,?,0,normal,157,0,0.0,up,1,normal,0,0
+10909,58,female,non-anginal pain,129,186,1,normal,89,0,0.2,up,0,normal,0,0
+10910,41,male,non-anginal pain,141,303,0,normal,167,0,1.5,up,1,normal,0,0
+10911,59,female,asymptomatic,166,248,0,normal,144,1,0.2,flat,0,normal,0,0
+10912,40,male,asymptomatic,128,218,1,enlarged ventricle,140,1,0.0,flat,0,reversible defect,0,0
+10913,62,female,non-anginal pain,128,254,0,normal,113,0,0.9,flat,1,reversible defect,0,0
+10914,50,male,non-anginal pain,146,260,0,normal,144,0,3.8,flat,0,normal,0,0
+10915,67,female,atypical angina,96,254,0,normal,163,1,1.4,flat,2,normal,1,1
+10916,63,male,asymptomatic,129,149,0,enlarged ventricle,135,1,3.6,flat,1,normal,1,1
+10917,51,female,atypical angina,137,234,0,enlarged ventricle,154,0,1.2,up,0,normal,0,0
+10918,55,female,atypical angina,125,207,0,enlarged ventricle,168,0,0.0,flat,1,normal,0,0
+10919,47,male,asymptomatic,105,215,0,enlarged ventricle,180,0,0.1,up,1,normal,0,0
+10920,66,male,asymptomatic,136,284,0,enlarged ventricle,122,0,2.7,flat,3,normal,1,1
+10921,54,male,asymptomatic,108,207,0,normal,156,0,0.0,up,1,normal,0,0
+10922,60,male,non-anginal pain,144,133,1,normal,156,0,0.1,up,1,reversible defect,0,0
+10923,54,female,non-anginal pain,99,218,0,enlarged ventricle,176,0,0.3,up,0,normal,0,0
+10924,55,male,asymptomatic,114,245,0,enlarged ventricle,108,1,0.0,flat,1,normal,1,1
+10925,62,male,typical angina,179,304,0,enlarged ventricle,153,0,4.4,down,0,reversible defect,0,0
+10926,58,female,atypical angina,140,290,1,enlarged ventricle,163,1,0.0,up,1,normal,1,1
+10927,41,male,atypical angina,124,340,0,enlarged ventricle,180,0,0.2,up,0,normal,0,0
+10928,52,male,asymptomatic,122,239,0,normal,161,0,0.0,up,1,normal,0,0
+10929,61,female,asymptomatic,161,181,0,enlarged ventricle,130,0,5.9,down,3,reversible defect,1,1
+10930,64,male,asymptomatic,115,332,0,enlarged ventricle,150,0,0.5,flat,0,normal,1,1
+10931,53,male,asymptomatic,153,300,0,enlarged ventricle,140,0,2.7,flat,0,reversible defect,1,1
+10932,55,male,atypical angina,122,?,0,enlarged ventricle,174,0,1.6,flat,0,normal,0,0
+10933,45,male,non-anginal pain,152,293,0,normal,157,0,3.1,flat,0,normal,0,0
+10934,51,male,asymptomatic,121,285,0,normal,163,1,0.1,up,1,reversible defect,0,0
+10935,54,male,typical angina,131,227,0,enlarged ventricle,96,1,2.2,flat,1,fixed defect,1,1
+10936,61,male,non-anginal pain,148,215,1,normal,169,0,1.1,up,0,normal,0,0
+10937,58,male,asymptomatic,157,286,0,normal,79,1,0.9,flat,1,reversible defect,1,1
+10938,54,male,non-anginal pain,122,289,0,enlarged ventricle,165,0,1.8,flat,1,reversible defect,0,0
+10939,51,female,non-anginal pain,116,201,0,normal,156,0,1.7,flat,?,normal,0,0
+10940,34,male,asymptomatic,131,254,0,enlarged ventricle,160,1,0.1,up,0,reversible defect,1,1
+10941,51,male,non-anginal pain,132,315,1,enlarged ventricle,180,0,0.0,up,2,normal,0,0
+10942,54,male,asymptomatic,149,168,0,normal,134,1,5.8,down,0,reversible defect,1,1
+10943,57,male,asymptomatic,142,244,0,normal,117,0,2.6,up,1,reversible defect,1,1
+10944,61,male,asymptomatic,130,162,0,normal,161,1,0.0,up,1,reversible defect,0,0
+10945,65,female,asymptomatic,151,241,0,normal,152,1,1.1,flat,0,normal,0,0
+10946,39,male,non-anginal pain,131,196,1,normal,184,0,1.2,down,?,reversible defect,0,0
+10947,45,female,non-anginal pain,111,209,0,normal,171,0,0.0,flat,0,normal,0,0
+10948,55,male,asymptomatic,100,200,1,normal,132,0,0.0,up,3,reversible defect,1,1
+10949,46,male,non-anginal pain,130,179,0,normal,137,0,0.3,up,0,normal,1,0
+10950,52,female,non-anginal pain,105,226,0,normal,157,0,1.6,flat,0,?,0,0
+10951,44,female,asymptomatic,109,229,0,enlarged ventricle,124,0,0.2,flat,0,normal,0,0
+10952,65,female,asymptomatic,140,419,0,enlarged ventricle,153,0,1.0,flat,?,normal,0,0
+10953,58,male,asymptomatic,146,231,0,enlarged ventricle,143,1,1.9,up,1,reversible defect,1,1
+10954,66,male,asymptomatic,132,?,0,enlarged ventricle,143,0,1.3,down,1,reversible defect,1,0
+10955,61,male,non-anginal pain,143,180,0,normal,160,0,0.5,flat,0,fixed defect,0,0
+10956,69,female,typical angina,140,207,0,normal,118,0,2.4,down,0,normal,0,0
+10957,63,female,asymptomatic,144,349,0,enlarged ventricle,154,0,2.1,up,2,reversible defect,1,1
+10958,45,male,non-anginal pain,96,205,0,enlarged ventricle,135,0,0.0,up,0,normal,0,0
+10959,58,male,asymptomatic,118,265,0,enlarged ventricle,186,0,0.3,up,2,reversible defect,1,1
+10960,60,male,asymptomatic,147,279,0,normal,84,1,1.0,flat,1,reversible defect,1,1
+10961,47,male,asymptomatic,142,265,0,normal,109,1,4.0,flat,3,reversible defect,1,1
+10962,49,male,asymptomatic,130,?,0,normal,127,1,3.4,flat,3,reversible defect,1,1
+10963,50,male,non-anginal pain,144,231,1,enlarged ventricle,147,0,0.8,down,0,?,0,0
+10964,42,male,non-anginal pain,139,315,0,normal,181,0,1.9,flat,1,normal,0,0
+10965,56,male,typical angina,125,207,0,normal,158,0,0.6,up,2,normal,0,0
+10966,53,male,atypical angina,105,269,0,normal,158,0,0.0,flat,0,normal,0,0
+10967,63,male,asymptomatic,127,?,0,enlarged ventricle,149,1,0.1,up,?,reversible defect,1,1
+10968,67,female,asymptomatic,108,232,0,normal,126,0,0.1,up,2,normal,0,0
+10969,54,male,non-anginal pain,115,?,1,enlarged ventricle,172,0,3.1,flat,0,normal,0,0
+10970,60,male,typical angina,167,226,0,enlarged ventricle,170,0,0.5,flat,0,?,0,0
+10971,62,male,asymptomatic,124,311,0,enlarged ventricle,153,0,0.6,flat,0,normal,0,0
+10972,70,female,non-anginal pain,149,275,0,enlarged ventricle,150,0,0.1,flat,1,normal,0,0
+10973,58,male,non-anginal pain,155,250,0,enlarged ventricle,156,0,2.1,up,0,reversible defect,1,1
+10974,63,male,asymptomatic,109,?,0,normal,77,0,0.9,flat,0,normal,1,1
+10975,48,female,asymptomatic,115,302,0,enlarged ventricle,149,0,0.0,up,0,normal,0,0
+10976,40,male,typical angina,145,213,0,normal,173,1,1.2,up,0,?,0,0
+10977,58,male,asymptomatic,159,233,0,normal,85,1,1.3,up,1,reversible defect,1,1
+10978,69,male,asymptomatic,118,213,0,enlarged ventricle,141,1,0.3,up,1,normal,0,0
+10979,56,male,asymptomatic,119,273,0,normal,150,1,1.2,up,1,reversible defect,1,1
+10980,55,female,asymptomatic,110,209,0,normal,143,0,0.7,flat,0,normal,0,0
+10981,65,male,asymptomatic,142,295,0,enlarged ventricle,165,0,1.5,flat,3,reversible defect,0,0
+10982,42,male,non-anginal pain,142,188,0,enlarged ventricle,167,0,2.5,flat,0,normal,0,0
+10983,59,male,typical angina,127,165,0,normal,178,0,1.1,up,2,normal,0,0
+10984,29,male,atypical angina,123,227,0,enlarged ventricle,205,0,0.2,up,0,normal,0,0
+10985,32,male,asymptomatic,121,188,0,normal,132,1,1.6,flat,0,reversible defect,1,1
+10986,52,female,asymptomatic,118,245,0,enlarged ventricle,171,0,0.0,up,?,normal,0,0
+10987,48,male,asymptomatic,117,313,0,enlarged ventricle,162,0,0.2,up,1,normal,0,0
+10988,53,female,non-anginal pain,120,232,0,enlarged ventricle,163,0,0.3,up,0,normal,0,0
+10989,66,female,asymptomatic,136,360,0,enlarged ventricle,137,0,0.8,flat,?,normal,0,0
+10990,64,male,asymptomatic,143,174,0,normal,154,0,0.1,up,?,reversible defect,1,1
+10991,31,male,atypical angina,126,211,0,normal,163,0,0.0,up,0,normal,0,0
+10992,72,female,non-anginal pain,146,236,0,normal,154,0,2.2,up,2,normal,1,1
+10993,62,male,asymptomatic,132,188,0,enlarged ventricle,140,1,1.7,up,?,reversible defect,1,1
+10994,61,female,asymptomatic,151,252,0,normal,151,0,0.3,up,0,normal,0,0
+10995,45,male,asymptomatic,132,274,1,enlarged ventricle,145,1,0.0,up,2,reversible defect,0,0
+10996,45,male,non-anginal pain,148,204,0,normal,148,0,3.6,flat,0,normal,0,0
+10997,66,female,non-anginal pain,108,520,0,enlarged ventricle,159,0,1.7,flat,0,reversible defect,0,0
+10998,57,male,asymptomatic,134,155,0,enlarged ventricle,125,1,3.6,flat,1,normal,1,1
+10999,34,male,non-anginal pain,124,206,0,normal,127,1,1.4,flat,0,reversible defect,0,0
+11000,63,male,asymptomatic,109,194,0,enlarged ventricle,122,1,0.3,up,1,normal,0,0
+11001,63,female,asymptomatic,123,206,0,normal,141,1,0.0,flat,0,normal,0,0
+11002,56,male,non-anginal pain,123,144,1,enlarged ventricle,141,0,1.6,down,0,normal,1,0
+11003,45,female,asymptomatic,136,321,1,enlarged ventricle,142,1,2.4,flat,0,reversible defect,0,0
+11004,44,male,asymptomatic,115,263,0,enlarged ventricle,146,0,1.1,up,0,reversible defect,1,0
+11005,56,female,asymptomatic,130,243,0,ST-T abnormality,138,1,1.8,flat,1,reversible defect,0,0
+11006,62,male,atypical angina,126,232,0,normal,151,0,0.3,flat,0,reversible defect,0,0
+11007,50,female,atypical angina,101,186,0,normal,160,0,0.0,up,0,normal,0,0
+11008,58,male,asymptomatic,110,214,1,normal,150,1,1.3,up,2,reversible defect,1,1
+11009,56,male,asymptomatic,145,221,0,normal,85,0,2.1,flat,1,reversible defect,1,1
+11010,51,male,asymptomatic,157,258,0,enlarged ventricle,133,1,1.0,flat,1,reversible defect,0,0
+11011,72,male,asymptomatic,138,349,0,enlarged ventricle,100,0,2.7,flat,3,normal,0,1
+11012,65,male,non-anginal pain,113,289,0,normal,78,0,1.0,flat,0,normal,1,0
+11013,61,female,asymptomatic,166,151,0,normal,149,0,6.2,down,3,reversible defect,0,0
+11014,50,male,asymptomatic,149,241,0,normal,107,1,4.3,flat,3,reversible defect,1,1
+11015,37,female,atypical angina,135,184,0,enlarged ventricle,178,0,1.5,flat,0,normal,1,1
+11016,54,male,non-anginal pain,146,206,1,enlarged ventricle,160,0,0.4,up,0,normal,0,0
+11017,52,male,non-anginal pain,108,161,0,normal,124,0,0.7,up,0,normal,0,0
+11018,57,male,asymptomatic,103,266,0,normal,156,0,0.0,flat,1,reversible defect,0,0
+11019,68,male,asymptomatic,133,348,0,enlarged ventricle,107,0,2.6,flat,3,normal,1,1
+11020,66,female,asymptomatic,111,176,0,normal,146,1,0.0,flat,0,normal,0,0
+11021,60,female,asymptomatic,121,228,0,normal,124,1,0.0,flat,0,normal,0,0
+11022,45,male,non-anginal pain,140,274,0,normal,151,0,3.5,flat,0,normal,0,0
+11023,42,male,non-anginal pain,105,183,0,normal,180,0,0.0,up,0,normal,0,0
+11024,51,male,non-anginal pain,94,221,0,normal,151,1,0.4,up,1,reversible defect,0,0
+11025,47,male,non-anginal pain,143,236,0,normal,158,0,0.6,flat,1,reversible defect,0,0
+11026,60,male,typical angina,114,230,0,enlarged ventricle,154,0,1.8,flat,0,reversible defect,0,0
+11027,62,male,atypical angina,149,?,0,normal,134,0,2.2,flat,2,fixed defect,1,1
+11028,52,female,atypical angina,136,334,0,enlarged ventricle,169,0,1.4,flat,0,normal,0,0
+11029,60,male,asymptomatic,151,252,0,enlarged ventricle,113,1,1.0,up,0,reversible defect,0,0
+11030,43,male,asymptomatic,116,155,0,normal,102,1,2.8,flat,0,reversible defect,1,1
+11031,43,male,asymptomatic,115,?,0,enlarged ventricle,171,0,0.2,up,0,reversible defect,0,0
+11032,46,male,atypical angina,134,314,0,normal,169,0,0.0,up,0,normal,0,0
+11033,46,female,non-anginal pain,102,258,0,normal,147,0,0.1,flat,1,normal,0,0
+11034,70,male,atypical angina,162,?,0,enlarged ventricle,147,0,0.0,up,0,normal,0,0
+11035,58,male,asymptomatic,136,269,0,enlarged ventricle,131,1,3.0,flat,2,reversible defect,1,1
+11036,44,male,asymptomatic,127,181,0,enlarged ventricle,123,1,2.5,flat,0,reversible defect,1,1
+11037,41,male,non-anginal pain,138,264,0,normal,181,0,3.8,down,0,normal,0,0
+11038,61,male,typical angina,131,?,0,normal,148,0,2.6,flat,2,normal,1,0
+11039,37,male,non-anginal pain,127,227,0,normal,178,0,3.6,down,0,normal,0,0
+11040,58,male,asymptomatic,120,261,0,normal,136,1,3.6,flat,1,reversible defect,1,1
+11041,53,female,non-anginal pain,136,279,1,normal,174,0,0.0,up,?,normal,0,0
+11042,62,male,asymptomatic,143,292,0,enlarged ventricle,137,1,2.7,flat,2,reversible defect,1,1
+11043,53,male,asymptomatic,153,161,0,enlarged ventricle,127,1,0.3,flat,0,reversible defect,0,0
+11044,49,male,typical angina,97,234,0,normal,131,0,1.2,flat,0,reversible defect,0,0
+11045,67,female,non-anginal pain,142,279,0,enlarged ventricle,162,0,0.9,flat,1,normal,0,0
+11046,53,male,non-anginal pain,123,121,0,enlarged ventricle,132,0,1.1,up,3,normal,0,0
+11047,60,male,asymptomatic,126,271,0,normal,106,1,0.6,flat,1,reversible defect,0,1
+11048,65,male,asymptomatic,118,225,0,enlarged ventricle,114,1,2.1,down,1,normal,0,1
+11049,44,female,asymptomatic,136,184,0,enlarged ventricle,155,1,0.0,flat,0,normal,0,0
+11050,55,male,typical angina,128,?,0,enlarged ventricle,157,0,1.8,flat,0,reversible defect,0,0
+11051,71,female,asymptomatic,112,250,0,normal,156,0,0.5,up,2,normal,1,0
+11052,46,male,non-anginal pain,119,243,0,normal,176,1,0.1,up,0,normal,0,0
+11053,41,female,non-anginal pain,111,223,0,normal,170,0,0.7,flat,0,normal,0,0
+11054,58,male,asymptomatic,117,120,0,normal,105,0,1.2,flat,?,reversible defect,1,1
+11055,49,female,atypical angina,119,?,0,enlarged ventricle,161,0,1.0,up,0,normal,0,0
+11056,69,male,asymptomatic,142,269,0,enlarged ventricle,133,0,3.2,flat,1,reversible defect,1,1
+11057,64,female,typical angina,149,?,0,normal,99,0,2.7,down,0,normal,1,1
+11058,43,female,non-anginal pain,149,257,0,enlarged ventricle,151,1,0.5,flat,0,normal,0,0
+11059,63,female,non-anginal pain,145,276,0,normal,84,0,0.5,flat,1,reversible defect,0,0
+11060,58,male,asymptomatic,115,272,0,enlarged ventricle,127,1,3.1,flat,2,normal,1,1
+11061,56,male,asymptomatic,146,306,0,enlarged ventricle,142,1,2.8,flat,2,reversible defect,1,1
+11062,46,female,non-anginal pain,126,280,0,normal,160,0,0.3,flat,?,normal,0,0
+11063,53,female,non-anginal pain,137,323,1,normal,169,0,0.5,up,0,normal,0,0
+11064,67,female,asymptomatic,133,320,0,normal,108,0,1.8,flat,2,normal,0,0
+11065,55,male,typical angina,114,156,0,enlarged ventricle,186,0,0.1,flat,0,fixed defect,0,0
+11066,61,male,non-anginal pain,136,?,0,normal,185,0,0.5,up,0,normal,0,0
+11067,60,male,non-anginal pain,142,218,1,enlarged ventricle,165,0,0.0,up,0,normal,0,0
+11068,55,female,non-anginal pain,138,231,0,enlarged ventricle,158,0,0.1,up,0,?,0,0
+11069,41,male,asymptomatic,112,161,0,normal,137,1,2.7,down,0,fixed defect,1,1
+11070,60,female,atypical angina,135,302,1,enlarged ventricle,148,0,0.0,up,?,normal,0,0
+11071,59,female,asymptomatic,122,300,0,normal,176,1,1.4,flat,2,normal,0,0
+11072,42,male,asymptomatic,114,?,0,enlarged ventricle,196,0,0.1,up,0,normal,0,0
+11073,50,male,asymptomatic,129,209,1,normal,165,1,1.4,flat,?,normal,0,0
+11074,71,female,non-anginal pain,116,264,1,enlarged ventricle,121,0,0.0,up,1,normal,0,0
+11075,44,female,atypical angina,131,319,0,normal,149,0,0.3,up,0,normal,0,0
+11076,59,female,asymptomatic,149,243,0,normal,142,1,1.1,flat,0,normal,0,0
+11077,53,male,asymptomatic,150,251,0,normal,81,1,1.0,flat,1,reversible defect,1,1
+11078,72,male,non-anginal pain,172,275,0,normal,108,1,3.2,flat,1,reversible defect,0,1
+11079,43,male,asymptomatic,97,257,0,enlarged ventricle,152,1,3.2,flat,0,normal,1,1
+11080,62,male,asymptomatic,123,246,0,normal,130,0,2.6,flat,2,normal,1,1
+11081,67,male,asymptomatic,153,219,1,normal,129,0,3.4,flat,2,reversible defect,1,1
+11082,43,female,non-anginal pain,130,169,0,normal,175,0,0.0,flat,0,normal,0,0
+11083,48,female,atypical angina,112,290,0,enlarged ventricle,162,0,0.7,up,0,normal,0,0
+11084,43,male,asymptomatic,117,?,0,enlarged ventricle,110,1,2.4,up,0,reversible defect,1,1
+11085,41,female,non-anginal pain,121,239,0,normal,163,0,0.5,flat,1,normal,0,0
+11086,46,female,non-anginal pain,107,159,0,normal,166,0,0.0,flat,0,normal,0,0
+11087,57,male,asymptomatic,129,303,0,enlarged ventricle,137,1,3.3,up,2,reversible defect,1,1
+11088,57,male,asymptomatic,155,205,0,normal,139,1,1.5,flat,1,reversible defect,1,1
+11089,45,female,atypical angina,111,170,0,normal,165,0,0.2,up,1,normal,0,0
+11090,60,male,asymptomatic,105,255,0,normal,149,0,0.0,up,1,reversible defect,1,1
+11091,58,male,asymptomatic,152,197,0,normal,147,0,0.6,up,1,reversible defect,0,0
+11092,51,male,non-anginal pain,96,235,0,normal,132,1,1.6,flat,0,normal,0,0
+11093,57,female,asymptomatic,156,297,0,enlarged ventricle,158,0,0.3,up,0,normal,0,0
+11094,62,male,asymptomatic,134,215,0,enlarged ventricle,119,0,3.0,flat,1,reversible defect,1,1
+11095,58,male,asymptomatic,118,246,0,enlarged ventricle,134,1,2.4,flat,1,reversible defect,1,1
+11096,44,male,asymptomatic,120,273,0,enlarged ventricle,183,0,0.0,up,0,normal,0,0
+11097,55,male,non-anginal pain,104,199,0,normal,164,1,0.4,up,1,reversible defect,1,0
+11098,66,male,asymptomatic,160,269,0,enlarged ventricle,141,0,2.5,up,0,fixed defect,1,0
+11099,61,female,asymptomatic,132,243,1,normal,106,0,2.0,flat,3,normal,0,0
+11100,72,female,typical angina,134,216,0,normal,142,0,1.6,up,2,normal,0,0
+11101,62,female,non-anginal pain,159,285,0,normal,149,0,0.0,flat,1,normal,0,0
+11102,62,male,asymptomatic,134,276,0,enlarged ventricle,184,0,0.0,up,0,normal,1,1
+11103,60,male,non-anginal pain,131,355,0,normal,151,0,0.2,up,0,normal,1,0
+11104,47,male,non-anginal pain,90,231,0,normal,157,1,0.4,up,1,reversible defect,0,1
+11105,54,male,atypical angina,122,261,0,normal,143,0,1.0,flat,0,reversible defect,0,0
+11106,48,male,non-anginal pain,130,?,0,normal,143,0,2.0,flat,3,reversible defect,0,0
+11107,69,female,non-anginal pain,150,432,1,enlarged ventricle,180,0,0.9,up,1,normal,0,0
+11108,55,male,non-anginal pain,177,182,1,normal,163,0,0.3,up,0,reversible defect,0,0
+11109,44,male,non-anginal pain,118,?,1,normal,178,0,0.0,up,2,normal,0,0
+11110,49,male,atypical angina,137,240,0,enlarged ventricle,177,0,0.4,flat,0,normal,0,0
+11111,60,male,asymptomatic,129,248,1,enlarged ventricle,148,1,0.1,flat,1,fixed defect,1,1
+11112,59,female,asymptomatic,200,288,1,enlarged ventricle,127,1,3.9,down,2,reversible defect,1,1
+11113,40,female,asymptomatic,120,242,0,enlarged ventricle,123,0,0.6,flat,0,normal,0,0
+11114,75,female,atypical angina,119,260,0,enlarged ventricle,105,1,0.4,up,1,normal,1,1
+11115,62,male,non-anginal pain,130,147,0,enlarged ventricle,158,1,4.0,up,2,reversible defect,1,1
+11116,56,female,asymptomatic,146,?,0,normal,139,0,0.9,flat,0,normal,0,0
+11117,38,female,asymptomatic,137,181,0,normal,173,0,1.7,flat,0,normal,0,0
+11118,39,male,asymptomatic,117,235,0,normal,152,0,1.0,flat,0,reversible defect,1,1
+11119,48,male,atypical angina,117,234,0,enlarged ventricle,182,0,0.0,flat,0,normal,0,0
+11120,63,male,asymptomatic,136,222,0,enlarged ventricle,152,0,1.5,flat,1,reversible defect,1,1
+11121,53,male,atypical angina,139,220,0,enlarged ventricle,164,0,0.1,up,0,reversible defect,0,0
+11122,60,male,asymptomatic,128,234,1,enlarged ventricle,142,1,1.3,flat,1,normal,0,0
+11123,47,female,atypical angina,114,181,0,normal,179,0,0.2,up,0,normal,1,0
+11124,67,male,non-anginal pain,177,318,1,enlarged ventricle,147,1,1.1,flat,0,reversible defect,0,0
+11125,60,male,asymptomatic,121,233,0,enlarged ventricle,133,1,1.1,flat,1,reversible defect,0,0
+11126,63,male,asymptomatic,127,250,0,normal,150,0,0.9,up,0,reversible defect,1,1
+11127,45,female,asymptomatic,153,227,0,enlarged ventricle,151,1,0.1,flat,0,normal,0,0
+11128,71,male,typical angina,147,207,1,enlarged ventricle,138,0,0.2,flat,?,normal,0,0
+11129,57,male,atypical angina,99,303,0,normal,155,0,0.0,up,0,reversible defect,0,0
+11130,46,male,atypical angina,146,236,0,enlarged ventricle,163,0,0.3,up,0,normal,0,0
+11131,37,female,asymptomatic,142,202,0,normal,168,0,1.4,flat,0,normal,0,0
+11132,51,female,non-anginal pain,113,282,0,enlarged ventricle,163,0,0.3,up,0,normal,0,0
+11133,48,male,typical angina,119,187,0,enlarged ventricle,193,0,0.5,flat,0,fixed defect,0,0
+11134,47,female,non-anginal pain,130,233,0,normal,158,0,0.0,flat,0,normal,0,0
+11135,71,male,asymptomatic,154,191,1,normal,146,0,3.1,flat,2,reversible defect,1,1
+11136,37,male,asymptomatic,123,203,0,normal,135,1,1.9,flat,0,reversible defect,1,1
+11137,61,male,typical angina,140,268,1,enlarged ventricle,175,0,1.1,flat,1,normal,0,0
+11138,60,female,typical angina,155,307,1,enlarged ventricle,169,0,0.6,up,0,normal,1,0
+11139,52,male,non-anginal pain,120,301,0,enlarged ventricle,141,0,0.0,flat,0,reversible defect,0,0
+11140,48,male,non-anginal pain,146,228,0,normal,171,1,0.2,flat,0,normal,0,0
+11141,63,male,asymptomatic,117,205,0,enlarged ventricle,117,1,2.6,flat,2,reversible defect,1,1
+11142,72,male,non-anginal pain,161,273,0,normal,116,1,2.5,flat,1,reversible defect,1,1
+11143,69,male,asymptomatic,129,366,0,normal,111,0,2.5,up,?,normal,1,1
+11144,48,female,non-anginal pain,121,?,0,normal,161,0,0.7,flat,?,normal,0,0
+11145,60,female,asymptomatic,117,392,0,normal,168,1,0.8,up,?,normal,0,0
+11146,54,female,non-anginal pain,136,195,0,enlarged ventricle,122,0,0.0,up,0,normal,0,0
+11147,49,male,non-anginal pain,118,146,0,enlarged ventricle,142,0,0.9,up,3,normal,0,0
+11148,56,male,atypical angina,127,?,0,normal,155,0,0.0,up,0,normal,0,0
+11149,42,female,atypical angina,90,206,0,normal,181,0,0.0,up,1,normal,0,0
+11150,49,male,asymptomatic,140,251,0,enlarged ventricle,173,1,0.1,up,0,normal,0,0
+11151,58,male,asymptomatic,142,304,0,enlarged ventricle,140,1,3.5,flat,2,reversible defect,1,1
+11152,42,male,asymptomatic,107,290,0,enlarged ventricle,161,0,0.3,up,1,normal,0,0
+11153,57,male,non-anginal pain,103,222,1,normal,132,0,2.4,flat,1,fixed defect,1,1
+11154,62,female,asymptomatic,143,263,0,enlarged ventricle,167,0,4.1,down,2,normal,0,0
+11155,55,male,asymptomatic,101,186,0,enlarged ventricle,91,1,0.0,flat,1,normal,1,1
+11156,49,male,non-anginal pain,116,203,1,enlarged ventricle,153,0,1.0,down,?,normal,0,0
+11157,49,male,asymptomatic,100,241,0,enlarged ventricle,151,1,3.0,flat,0,normal,1,1
+11158,52,female,atypical angina,122,340,0,normal,167,0,1.5,up,0,normal,0,0
+11159,63,female,asymptomatic,159,439,0,enlarged ventricle,161,0,4.2,flat,3,reversible defect,1,1
+11160,60,female,asymptomatic,102,227,0,enlarged ventricle,128,0,1.1,flat,0,normal,1,0
+11161,64,female,non-anginal pain,183,234,1,normal,154,1,1.5,flat,2,reversible defect,1,1
+11162,65,female,asymptomatic,103,286,0,normal,173,1,2.0,flat,2,normal,0,0
+11163,56,male,atypical angina,120,250,0,normal,172,0,0.8,up,0,normal,0,0
+11164,58,male,atypical angina,124,204,1,enlarged ventricle,150,0,0.0,up,?,?,0,0
+11165,71,male,non-anginal pain,120,229,0,normal,153,0,1.3,up,1,reversible defect,0,0
+11166,60,male,typical angina,127,230,1,enlarged ventricle,158,0,2.0,up,0,fixed defect,0,0
+11167,52,male,asymptomatic,132,376,0,normal,152,1,1.4,flat,1,?,1,1
+11168,54,male,asymptomatic,131,299,0,normal,105,1,2.2,flat,2,reversible defect,1,1
+11169,54,male,non-anginal pain,164,166,0,normal,157,0,1.7,up,0,normal,0,0
+11170,44,male,atypical angina,135,343,0,enlarged ventricle,161,0,0.4,up,0,normal,0,0
+11171,70,female,atypical angina,121,243,0,enlarged ventricle,121,1,0.7,up,1,normal,1,1
+11172,53,male,asymptomatic,114,?,0,normal,164,1,0.0,up,1,reversible defect,0,0
+11173,57,female,non-anginal pain,111,256,0,normal,159,0,1.8,flat,0,normal,0,0
+11174,55,male,atypical angina,109,260,0,normal,144,0,0.2,up,0,reversible defect,0,0
+11175,55,male,asymptomatic,117,316,0,enlarged ventricle,116,1,2.3,flat,1,reversible defect,1,1
+11176,48,male,typical angina,108,234,0,normal,126,0,1.1,flat,0,reversible defect,0,0
+11177,42,female,atypical angina,128,?,0,enlarged ventricle,179,0,0.4,flat,0,normal,0,0
+11178,63,male,typical angina,145,287,1,enlarged ventricle,171,0,1.3,flat,1,normal,0,0
+11179,50,female,atypical angina,118,265,0,normal,171,0,1.3,up,0,normal,1,0
+11180,73,female,atypical angina,110,240,0,enlarged ventricle,123,1,0.3,up,1,normal,0,0
+11181,51,male,asymptomatic,128,361,0,normal,124,1,1.2,flat,1,reversible defect,0,0
+11182,44,male,non-anginal pain,134,215,0,enlarged ventricle,172,0,0.4,up,0,normal,1,0
+11183,61,male,asymptomatic,149,190,0,normal,165,0,0.8,flat,0,?,0,0
+11184,46,male,typical angina,98,224,0,normal,138,0,1.3,flat,0,reversible defect,0,0
+11185,52,male,non-anginal pain,121,?,0,enlarged ventricle,159,0,0.1,down,1,normal,0,0
+11186,66,female,asymptomatic,147,221,0,enlarged ventricle,156,0,2.9,down,2,normal,0,0
+11187,31,male,asymptomatic,113,209,0,normal,127,1,1.5,flat,0,reversible defect,0,1
+11188,53,male,asymptomatic,123,162,0,enlarged ventricle,145,0,2.1,flat,0,reversible defect,1,1
+11189,38,female,atypical angina,118,191,0,normal,199,0,0.4,up,0,normal,0,0
+11190,67,male,asymptomatic,157,285,0,normal,112,1,3.3,flat,1,reversible defect,1,1
+11191,44,female,atypical angina,116,212,0,enlarged ventricle,182,0,1.1,up,0,normal,0,0
+11192,53,female,asymptomatic,200,257,1,enlarged ventricle,144,1,4.4,down,2,reversible defect,1,1
+11193,60,female,asymptomatic,136,208,0,enlarged ventricle,161,0,4.0,down,2,normal,0,0
+11194,69,female,non-anginal pain,154,282,0,normal,176,0,0.3,up,1,normal,1,0
+11195,35,male,non-anginal pain,106,188,0,enlarged ventricle,183,0,0.0,up,0,normal,0,0
+11196,43,male,atypical angina,124,225,0,normal,170,0,0.5,up,0,reversible defect,0,0
+11197,55,male,asymptomatic,135,176,0,normal,122,1,1.2,flat,1,reversible defect,1,1
+11198,38,female,atypical angina,129,232,0,normal,177,0,0.7,up,0,normal,0,0
+11199,39,female,non-anginal pain,134,183,0,normal,157,0,0.0,flat,0,normal,0,0
+11200,50,male,asymptomatic,104,262,0,normal,124,1,2.4,flat,1,reversible defect,1,1
+11201,52,male,atypical angina,137,?,0,normal,172,0,0.8,up,0,normal,0,0
+11202,54,male,asymptomatic,112,228,0,normal,105,0,1.8,flat,1,reversible defect,0,0
+11203,59,female,asymptomatic,117,252,0,normal,156,0,0.3,up,0,normal,0,0
+11204,57,female,atypical angina,129,387,0,normal,161,0,1.1,up,0,normal,0,0
+11205,44,male,asymptomatic,103,259,0,enlarged ventricle,153,0,0.0,up,1,normal,0,0
+11206,41,female,non-anginal pain,123,260,0,enlarged ventricle,165,1,0.0,up,0,normal,0,0
+11207,45,male,asymptomatic,138,148,0,normal,138,0,0.5,up,0,normal,0,0
+11208,43,male,asymptomatic,103,145,0,normal,160,1,3.1,down,0,fixed defect,0,0
+11209,60,female,asymptomatic,163,377,0,enlarged ventricle,159,1,0.0,up,?,normal,0,0
+11210,58,male,asymptomatic,155,293,0,enlarged ventricle,137,1,0.6,flat,1,reversible defect,1,1
+11211,52,male,asymptomatic,164,283,0,enlarged ventricle,142,1,0.4,flat,1,reversible defect,1,1
+11212,63,female,asymptomatic,113,265,0,normal,168,1,1.7,flat,2,normal,0,0
+11213,56,male,asymptomatic,121,314,0,normal,146,1,2.8,flat,1,reversible defect,1,1
+11214,60,female,asymptomatic,200,274,1,enlarged ventricle,125,1,4.4,down,2,reversible defect,1,1
+11215,40,male,atypical angina,121,232,0,enlarged ventricle,182,0,0.0,up,0,normal,0,0
+11216,64,female,typical angina,153,219,0,normal,120,0,2.6,flat,0,normal,1,1
+11217,63,male,asymptomatic,136,203,0,enlarged ventricle,154,0,2.5,flat,2,fixed defect,0,1
+11218,57,male,asymptomatic,123,279,1,enlarged ventricle,109,1,1.6,down,0,reversible defect,1,1
+11219,32,female,asymptomatic,125,186,0,normal,182,0,1.3,up,0,normal,0,0
+11220,59,male,asymptomatic,121,212,0,enlarged ventricle,120,1,1.7,flat,3,reversible defect,1,1
+11221,50,male,asymptomatic,135,191,1,enlarged ventricle,160,1,3.4,down,0,reversible defect,1,1
+11222,49,male,typical angina,105,253,0,normal,123,0,1.2,flat,0,reversible defect,0,0
+11223,62,female,asymptomatic,184,237,1,enlarged ventricle,154,1,2.6,flat,2,fixed defect,0,0
+11224,61,male,asymptomatic,121,?,0,enlarged ventricle,139,0,0.7,up,0,reversible defect,0,0
+11225,56,female,atypical angina,135,?,0,normal,160,0,1.2,up,0,normal,0,0
+11226,57,female,non-anginal pain,136,287,1,normal,180,0,0.0,up,0,normal,0,0
+11227,55,male,atypical angina,133,234,0,normal,177,0,0.9,up,0,normal,0,0
+11228,61,male,asymptomatic,130,284,0,enlarged ventricle,177,0,0.3,up,0,normal,0,0
+11229,63,female,asymptomatic,156,213,0,enlarged ventricle,157,0,2.4,flat,2,reversible defect,0,0
+11230,59,female,asymptomatic,127,414,0,enlarged ventricle,168,1,2.5,flat,2,reversible defect,1,1
+11231,42,male,asymptomatic,109,188,0,enlarged ventricle,162,0,0.0,up,0,reversible defect,0,0
+11232,63,male,asymptomatic,124,268,0,normal,101,1,2.4,flat,?,reversible defect,1,1
+11233,65,male,non-anginal pain,169,259,1,enlarged ventricle,136,1,1.5,flat,0,reversible defect,1,1
+11234,63,female,asymptomatic,121,221,0,normal,150,1,0.6,flat,?,normal,0,0
+11235,79,male,asymptomatic,125,329,0,enlarged ventricle,151,1,0.1,up,?,normal,0,0
+11236,66,male,asymptomatic,134,307,1,enlarged ventricle,133,1,1.8,up,3,reversible defect,1,1
+11237,56,female,asymptomatic,118,366,0,normal,161,1,0.3,up,0,normal,1,0
+11238,39,female,non-anginal pain,135,274,0,enlarged ventricle,172,1,0.0,up,0,normal,0,0
+11239,48,female,asymptomatic,153,192,0,enlarged ventricle,152,1,0.0,flat,0,normal,0,0
+11240,50,male,asymptomatic,92,?,0,normal,114,1,2.6,flat,1,reversible defect,1,1
+11241,41,male,non-anginal pain,131,198,0,normal,178,1,0.8,up,0,normal,0,0
+11242,60,male,atypical angina,129,221,0,normal,136,0,0.2,flat,0,reversible defect,0,0
+11243,69,female,non-anginal pain,118,520,0,enlarged ventricle,150,0,2.0,flat,0,reversible defect,0,0
+11244,60,male,asymptomatic,176,302,1,enlarged ventricle,122,0,1.0,flat,?,reversible defect,0,0
+11245,57,male,asymptomatic,117,276,0,normal,119,1,5.6,down,0,reversible defect,1,1
+11246,61,male,atypical angina,111,268,0,enlarged ventricle,162,0,1.8,flat,0,normal,0,0
+11247,44,male,asymptomatic,152,287,0,normal,114,1,1.6,flat,2,reversible defect,1,1
+11248,59,male,typical angina,170,233,0,enlarged ventricle,133,0,0.3,up,0,normal,0,0
+11249,69,male,non-anginal pain,198,248,1,enlarged ventricle,164,1,1.5,flat,0,reversible defect,0,0
+11250,58,male,non-anginal pain,143,282,1,enlarged ventricle,131,1,0.4,flat,1,fixed defect,1,0
+11251,60,male,atypical angina,140,244,1,normal,125,1,1.4,flat,0,normal,0,0
+11252,57,male,asymptomatic,148,?,0,normal,125,1,5.5,down,?,reversible defect,1,1
+11253,42,male,atypical angina,126,302,0,enlarged ventricle,165,0,0.0,up,0,?,0,0
+11254,59,female,asymptomatic,147,297,0,enlarged ventricle,153,1,0.9,flat,0,reversible defect,0,0
+11255,50,male,asymptomatic,130,271,1,enlarged ventricle,144,1,0.2,up,2,reversible defect,0,0
+11256,64,female,asymptomatic,156,151,0,normal,148,0,6.1,down,3,reversible defect,1,1
+11257,44,male,asymptomatic,120,284,0,enlarged ventricle,171,0,0.6,flat,0,reversible defect,0,0
+11258,71,female,non-anginal pain,158,274,0,enlarged ventricle,161,0,0.2,up,1,normal,0,0
+11259,54,female,non-anginal pain,136,265,0,enlarged ventricle,152,0,1.8,up,1,normal,0,0
+11260,43,female,non-anginal pain,110,120,0,normal,169,0,1.1,flat,0,normal,0,0
+11261,42,female,typical angina,130,339,0,normal,163,0,0.4,up,0,normal,0,0
+11262,58,female,non-anginal pain,98,327,0,normal,157,0,0.1,up,1,normal,1,0
+11263,51,male,asymptomatic,122,271,0,enlarged ventricle,113,1,2.0,flat,1,reversible defect,0,0
+11264,58,male,non-anginal pain,159,125,1,enlarged ventricle,177,0,0.2,up,1,reversible defect,0,0
+11265,57,male,asymptomatic,126,162,1,enlarged ventricle,148,1,2.8,down,0,reversible defect,1,1
+11266,57,male,asymptomatic,119,259,0,enlarged ventricle,119,1,2.0,flat,1,reversible defect,1,1
+11267,40,male,asymptomatic,109,180,0,normal,142,1,3.1,down,0,fixed defect,0,0
+11268,45,female,non-anginal pain,110,159,0,normal,178,0,0.7,flat,0,normal,0,0
+11269,35,male,asymptomatic,140,245,0,normal,145,0,1.0,flat,0,reversible defect,1,0
+11270,74,male,non-anginal pain,150,?,0,normal,109,1,3.0,flat,?,reversible defect,0,1
+11271,42,female,asymptomatic,142,356,1,enlarged ventricle,136,1,2.7,flat,0,reversible defect,0,1
+11272,54,female,atypical angina,131,230,0,normal,169,0,1.4,up,0,normal,0,0
+11273,62,male,atypical angina,111,244,1,enlarged ventricle,129,0,0.0,up,0,normal,0,0
+11274,53,male,atypical angina,114,221,1,normal,164,0,3.0,flat,0,normal,1,0
+11275,48,male,asymptomatic,172,208,1,normal,179,0,0.2,up,0,reversible defect,0,0
+11276,62,male,asymptomatic,122,?,0,enlarged ventricle,127,1,2.1,flat,2,reversible defect,1,1
+11277,51,female,atypical angina,122,276,0,normal,175,0,1.0,up,0,normal,1,0
+11278,50,male,non-anginal pain,141,243,1,normal,183,0,0.1,up,3,normal,0,0
+11279,58,male,asymptomatic,152,237,0,normal,115,0,2.0,flat,1,reversible defect,0,0
+11280,58,male,typical angina,176,?,0,enlarged ventricle,153,0,4.2,down,0,reversible defect,1,1
+11281,41,male,typical angina,115,295,0,enlarged ventricle,131,0,1.5,flat,0,reversible defect,0,0
+11282,58,male,asymptomatic,143,242,0,normal,114,1,5.8,down,0,reversible defect,1,1
+11283,56,male,asymptomatic,100,279,0,normal,139,1,2.4,flat,1,reversible defect,1,1
+11284,51,male,asymptomatic,123,198,1,normal,144,1,1.0,flat,0,normal,0,0
+11285,48,male,asymptomatic,154,267,0,enlarged ventricle,140,0,2.1,flat,0,reversible defect,0,1
+11286,62,male,non-anginal pain,139,354,0,normal,156,0,0.5,up,0,normal,0,0
+11287,45,male,asymptomatic,123,207,0,enlarged ventricle,134,1,2.3,flat,0,reversible defect,1,0
+11288,40,male,non-anginal pain,127,246,0,normal,183,0,0.2,up,0,normal,0,0
+11289,53,female,asymptomatic,119,240,0,enlarged ventricle,167,0,0.0,up,0,normal,0,0
+11290,51,female,asymptomatic,150,265,0,enlarged ventricle,169,0,0.0,up,0,normal,0,0
+11291,39,male,asymptomatic,117,181,1,enlarged ventricle,138,1,0.0,flat,0,reversible defect,1,1
+11292,58,female,atypical angina,130,230,0,enlarged ventricle,180,0,0.0,flat,1,normal,0,0
+11293,59,female,asymptomatic,146,287,0,enlarged ventricle,150,1,0.9,flat,0,reversible defect,1,0
+11294,57,male,asymptomatic,139,234,1,enlarged ventricle,162,1,3.2,down,0,reversible defect,1,1
+11295,62,female,non-anginal pain,122,175,1,normal,109,0,0.4,up,0,normal,0,0
+11296,59,male,asymptomatic,135,314,0,enlarged ventricle,170,0,1.7,flat,2,reversible defect,0,0
+11297,61,female,asymptomatic,134,247,0,normal,118,1,1.0,flat,0,reversible defect,0,0
+11298,59,male,typical angina,119,?,0,enlarged ventricle,162,0,1.4,flat,0,reversible defect,0,0
+11299,57,male,asymptomatic,111,224,0,normal,128,1,2.2,flat,0,fixed defect,1,1
+11300,55,male,non-anginal pain,106,232,0,enlarged ventricle,162,0,2.7,flat,1,reversible defect,1,1
+11301,50,male,atypical angina,195,298,0,enlarged ventricle,199,0,0.2,up,1,reversible defect,0,0
+11302,61,male,non-anginal pain,98,242,0,enlarged ventricle,158,1,0.5,flat,0,reversible defect,0,0
+11303,67,female,non-anginal pain,110,520,0,enlarged ventricle,158,0,1.6,flat,0,reversible defect,0,0
+11304,64,male,asymptomatic,128,?,0,normal,155,1,1.6,up,1,reversible defect,1,1
+11305,66,male,atypical angina,164,287,0,normal,113,1,0.1,flat,3,fixed defect,1,1
+11306,61,male,asymptomatic,145,227,0,normal,167,0,0.0,up,1,reversible defect,0,0
+11307,61,female,atypical angina,139,301,1,enlarged ventricle,155,0,0.0,up,2,normal,0,0
+11308,60,female,asymptomatic,163,281,0,enlarged ventricle,154,0,2.3,flat,2,reversible defect,1,1
+11309,55,female,atypical angina,131,232,0,enlarged ventricle,166,0,1.2,flat,0,?,0,0
+11310,49,male,asymptomatic,152,236,0,enlarged ventricle,130,1,0.0,flat,3,reversible defect,0,0
+11311,61,male,asymptomatic,129,165,0,enlarged ventricle,147,1,3.7,up,2,reversible defect,1,1
+11312,40,male,atypical angina,125,301,0,normal,166,0,0.3,up,0,?,1,0
+11313,70,male,asymptomatic,158,193,0,enlarged ventricle,137,0,2.5,up,0,fixed defect,1,1
+11314,62,male,atypical angina,137,290,0,enlarged ventricle,160,0,1.7,flat,0,normal,0,0
+11315,67,male,asymptomatic,126,361,1,enlarged ventricle,124,1,1.6,up,3,?,1,1
+11316,80,male,asymptomatic,118,304,0,enlarged ventricle,152,1,0.0,up,3,normal,1,1
+11317,59,male,asymptomatic,138,343,1,enlarged ventricle,123,1,1.8,up,3,reversible defect,1,1
+11318,69,female,asymptomatic,153,?,0,enlarged ventricle,112,0,0.4,flat,3,reversible defect,0,0
+11319,50,female,asymptomatic,130,206,0,enlarged ventricle,129,0,0.6,flat,0,normal,0,0
+11320,68,male,typical angina,91,219,0,enlarged ventricle,138,1,1.8,flat,0,?,0,0
+11321,44,male,atypical angina,123,278,0,normal,169,0,0.0,up,0,normal,1,0
+11322,54,male,non-anginal pain,149,241,0,enlarged ventricle,162,0,1.2,up,0,reversible defect,0,0
+11323,42,male,non-anginal pain,121,192,1,normal,183,0,0.6,up,0,reversible defect,0,0
+11324,47,female,asymptomatic,106,166,0,normal,148,0,0.3,flat,0,normal,0,1
+11325,64,female,asymptomatic,160,422,0,enlarged ventricle,149,0,4.2,flat,3,reversible defect,1,1
+11326,40,male,asymptomatic,152,259,0,normal,173,0,0.0,up,0,reversible defect,0,0
+11327,59,female,asymptomatic,122,204,0,normal,128,1,0.1,flat,0,normal,0,0
+11328,39,male,non-anginal pain,99,219,0,normal,188,0,0.1,up,0,normal,0,0
+11329,64,male,asymptomatic,98,301,0,enlarged ventricle,125,1,1.1,flat,2,normal,0,0
+11330,66,male,atypical angina,119,161,1,enlarged ventricle,139,0,0.0,up,0,normal,0,0
+11331,46,female,asymptomatic,143,295,1,enlarged ventricle,141,1,3.0,flat,0,reversible defect,0,0
+11332,51,female,atypical angina,137,258,0,enlarged ventricle,160,0,1.3,flat,0,normal,0,0
+11333,53,female,non-anginal pain,131,212,0,enlarged ventricle,171,0,0.2,up,0,normal,0,0
+11334,58,male,asymptomatic,128,213,0,enlarged ventricle,125,1,2.2,flat,2,?,1,1
+11335,66,male,asymptomatic,171,260,0,enlarged ventricle,141,0,2.2,up,0,fixed defect,1,1
+11336,50,male,non-anginal pain,151,253,0,normal,139,0,3.7,flat,0,normal,0,0
+11337,52,male,non-anginal pain,110,191,0,normal,124,0,0.8,up,?,normal,0,0
+11338,56,male,asymptomatic,123,194,1,normal,133,0,0.0,up,3,reversible defect,1,1
+11339,44,male,atypical angina,104,181,1,normal,158,0,0.2,up,0,reversible defect,0,0
+11340,51,male,non-anginal pain,137,203,1,enlarged ventricle,161,0,1.2,down,0,normal,0,0
+11341,60,male,asymptomatic,107,300,0,normal,146,1,2.7,flat,1,reversible defect,1,1
+11342,47,male,asymptomatic,112,274,0,normal,181,0,1.3,flat,0,normal,0,0
+11343,52,female,non-anginal pain,146,271,0,enlarged ventricle,142,0,1.3,up,1,normal,0,0
+11344,56,male,asymptomatic,141,211,0,enlarged ventricle,109,1,0.0,up,0,reversible defect,1,1
+11345,54,female,atypical angina,135,348,0,normal,147,0,1.7,up,0,normal,0,0
+11346,43,male,non-anginal pain,111,281,0,normal,186,0,0.1,flat,?,normal,0,0
+11347,67,male,atypical angina,156,248,0,enlarged ventricle,147,0,0.0,up,0,normal,0,0
+11348,57,male,typical angina,119,186,0,enlarged ventricle,154,0,2.2,flat,0,?,0,0
+11349,53,male,typical angina,114,188,0,enlarged ventricle,124,1,1.5,up,1,normal,0,0
+11350,64,female,non-anginal pain,170,394,0,enlarged ventricle,161,0,0.9,up,?,normal,0,0
+11351,55,male,asymptomatic,105,343,0,normal,133,1,3.1,flat,1,reversible defect,1,1
+11352,40,female,non-anginal pain,108,262,0,normal,149,0,0.0,up,?,normal,0,0
+11353,53,female,asymptomatic,138,209,0,enlarged ventricle,165,0,0.0,up,0,normal,0,0
+11354,65,female,non-anginal pain,140,248,0,normal,146,0,0.0,flat,1,normal,0,0
+11355,62,male,non-anginal pain,160,251,1,normal,141,1,0.6,flat,0,normal,0,0
+11356,53,male,asymptomatic,115,243,0,normal,119,1,2.7,up,1,reversible defect,1,1
+11357,56,male,asymptomatic,115,220,0,normal,122,0,0.9,flat,1,reversible defect,0,0
+11358,37,male,non-anginal pain,105,235,0,normal,176,0,0.0,up,0,normal,0,0
+11359,55,male,non-anginal pain,115,170,0,enlarged ventricle,116,0,0.6,up,0,normal,0,0
+11360,64,male,non-anginal pain,112,265,0,normal,153,0,0.9,up,?,reversible defect,0,0
+11361,58,male,non-anginal pain,139,239,1,normal,143,0,1.7,up,0,normal,0,0
+11362,61,female,asymptomatic,136,388,0,enlarged ventricle,152,0,4.0,flat,3,reversible defect,1,1
+11363,70,female,non-anginal pain,157,298,0,normal,170,0,0.2,up,1,normal,0,0
+11364,44,male,asymptomatic,107,169,0,normal,160,1,2.9,down,0,fixed defect,0,0
+11365,39,female,non-anginal pain,110,230,0,normal,175,0,0.2,up,0,normal,0,0
+11366,61,male,asymptomatic,140,269,0,normal,170,0,0.4,flat,0,reversible defect,0,0
+11367,68,male,non-anginal pain,158,?,0,enlarged ventricle,144,0,1.0,flat,0,reversible defect,0,0
+11368,49,male,non-anginal pain,114,305,1,normal,166,0,0.0,up,2,?,0,0
+11369,55,female,asymptomatic,123,215,0,ST-T abnormality,118,1,2.1,flat,1,reversible defect,1,1
+11370,65,female,asymptomatic,158,181,0,normal,119,0,1.0,flat,3,reversible defect,0,0
+11371,36,male,typical angina,119,193,0,enlarged ventricle,166,0,0.0,up,0,normal,0,0
+11372,40,female,non-anginal pain,116,211,0,normal,159,0,0.1,up,0,normal,0,0
+11373,63,female,asymptomatic,151,386,0,enlarged ventricle,162,0,3.5,flat,3,reversible defect,1,1
+11374,57,male,asymptomatic,113,202,0,enlarged ventricle,116,1,0.0,flat,1,normal,0,0
+11375,38,male,asymptomatic,111,?,0,normal,158,0,0.0,up,0,normal,0,0
+11376,50,male,non-anginal pain,90,239,0,normal,151,1,0.2,up,1,reversible defect,0,0
+11377,60,male,non-anginal pain,121,238,0,enlarged ventricle,164,0,2.4,flat,?,reversible defect,0,0
+11378,62,female,asymptomatic,159,330,0,enlarged ventricle,139,1,1.1,flat,0,reversible defect,0,0
+11379,57,male,atypical angina,127,301,0,enlarged ventricle,152,0,2.3,flat,0,normal,0,0
+11380,64,female,non-anginal pain,100,335,0,normal,161,0,0.2,up,1,normal,0,0
+11381,29,male,atypical angina,124,170,0,enlarged ventricle,202,0,0.0,up,0,normal,0,0
+11382,35,female,non-anginal pain,138,214,0,normal,145,0,0.0,flat,0,normal,0,0
+11383,48,male,asymptomatic,130,174,0,enlarged ventricle,194,0,0.3,up,0,normal,0,0
+11384,64,female,non-anginal pain,145,268,0,enlarged ventricle,188,0,0.0,up,0,normal,0,0
+11385,57,female,atypical angina,136,320,1,enlarged ventricle,144,0,0.3,up,2,normal,0,0
+11386,31,male,atypical angina,133,212,0,enlarged ventricle,200,0,0.6,up,0,normal,0,0
+11387,68,female,asymptomatic,94,221,0,normal,124,0,0.1,up,2,normal,0,0
+11388,52,male,asymptomatic,139,211,1,enlarged ventricle,163,1,3.8,down,0,reversible defect,1,1
+11389,55,male,asymptomatic,141,120,0,normal,104,1,1.2,up,1,reversible defect,1,1
+11390,49,male,asymptomatic,109,284,0,enlarged ventricle,118,1,1.0,flat,1,normal,0,0
+11391,57,male,non-anginal pain,131,273,0,enlarged ventricle,155,0,0.6,flat,1,reversible defect,0,0
+11392,63,male,asymptomatic,124,?,1,normal,166,1,2.5,up,2,reversible defect,1,1
+11393,51,female,non-anginal pain,166,190,0,enlarged ventricle,153,0,0.0,up,1,normal,0,0
+11394,59,male,asymptomatic,153,?,0,normal,82,1,1.7,flat,1,reversible defect,1,1
+11395,36,male,typical angina,113,191,0,enlarged ventricle,171,0,0.3,up,0,normal,0,0
+11396,60,female,non-anginal pain,102,188,1,normal,83,0,0.0,up,0,normal,0,0
+11397,62,male,non-anginal pain,95,290,0,enlarged ventricle,148,1,0.7,flat,0,reversible defect,0,0
+11398,60,female,typical angina,147,295,1,enlarged ventricle,166,0,0.7,up,0,normal,0,0
+11399,71,female,non-anginal pain,120,520,0,enlarged ventricle,168,0,1.5,flat,0,reversible defect,0,0
+11400,56,male,asymptomatic,123,265,0,enlarged ventricle,105,1,2.8,flat,2,normal,1,1
+11401,33,male,asymptomatic,135,?,0,enlarged ventricle,148,1,0.3,up,0,reversible defect,1,1
+11402,48,male,atypical angina,120,226,0,normal,164,0,0.3,up,0,normal,0,0
+11403,73,male,atypical angina,142,233,0,enlarged ventricle,153,0,0.0,up,?,normal,0,0
+11404,56,male,non-anginal pain,145,168,0,enlarged ventricle,150,0,2.5,flat,0,normal,0,0
+11405,60,male,asymptomatic,134,265,0,enlarged ventricle,169,0,0.0,down,0,normal,0,0
+11406,61,female,asymptomatic,121,?,0,normal,172,1,0.1,up,0,normal,0,0
+11407,38,male,asymptomatic,115,203,0,normal,135,1,1.6,flat,0,reversible defect,1,1
+11408,37,male,non-anginal pain,137,203,0,normal,192,0,3.3,down,0,normal,0,0
+11409,55,male,asymptomatic,151,190,1,enlarged ventricle,164,1,3.0,down,0,reversible defect,1,1
+11410,42,male,asymptomatic,110,168,0,normal,130,1,3.2,down,0,fixed defect,1,1
+11411,45,male,non-anginal pain,121,254,1,normal,177,0,0.4,up,2,normal,0,0
+11412,51,female,asymptomatic,146,?,0,enlarged ventricle,161,0,0.0,up,0,normal,0,0
+11413,66,male,asymptomatic,122,282,0,normal,93,1,1.4,flat,2,reversible defect,0,1
+11414,53,female,non-anginal pain,101,?,0,enlarged ventricle,175,0,0.2,up,0,normal,0,0
+11415,39,female,non-anginal pain,117,248,0,normal,179,0,0.1,up,0,normal,0,0
+11416,51,female,atypical angina,113,231,0,normal,157,0,1.2,up,0,normal,0,0
+11417,52,male,asymptomatic,110,219,0,enlarged ventricle,174,0,0.2,up,0,normal,0,0
+11418,40,male,typical angina,142,188,0,normal,155,1,1.7,up,0,reversible defect,1,0
+11419,62,male,asymptomatic,119,369,1,enlarged ventricle,148,1,1.9,up,3,reversible defect,1,1
+11420,48,male,non-anginal pain,119,220,0,normal,134,0,2.1,flat,?,reversible defect,1,1
+11421,54,male,non-anginal pain,164,166,1,normal,164,0,0.5,up,0,reversible defect,0,0
+11422,42,male,asymptomatic,123,217,0,normal,144,0,0.5,up,0,reversible defect,0,0
+11423,64,male,non-anginal pain,137,208,0,enlarged ventricle,167,0,3.1,flat,0,normal,0,0
+11424,57,male,asymptomatic,138,229,1,normal,143,1,3.3,down,0,reversible defect,1,1
+11425,40,male,non-anginal pain,117,246,0,normal,177,1,0.0,up,0,normal,0,0
+11426,38,male,typical angina,150,207,0,enlarged ventricle,171,0,1.4,up,2,normal,0,0
+11427,48,male,asymptomatic,100,194,0,enlarged ventricle,144,1,3.3,flat,0,normal,1,1
+11428,44,male,asymptomatic,103,151,0,enlarged ventricle,105,1,1.5,flat,0,reversible defect,1,1
+11429,77,male,asymptomatic,128,297,0,enlarged ventricle,153,1,0.1,up,3,normal,1,1
+11430,48,male,typical angina,159,293,1,normal,179,0,1.1,flat,0,reversible defect,0,0
+11431,61,female,non-anginal pain,173,319,0,enlarged ventricle,152,0,1.3,up,0,normal,0,0
+11432,58,male,non-anginal pain,141,194,1,enlarged ventricle,155,0,0.3,up,0,normal,0,0
+11433,62,female,asymptomatic,131,183,0,normal,129,0,0.9,flat,0,normal,0,0
+11434,47,male,atypical angina,112,211,0,enlarged ventricle,164,0,0.1,up,0,reversible defect,0,0
+11435,42,male,non-anginal pain,144,273,0,normal,153,0,3.8,flat,0,normal,0,0
+11436,61,male,asymptomatic,134,300,0,enlarged ventricle,147,1,3.1,up,1,reversible defect,1,1
+11437,41,male,typical angina,116,?,0,normal,191,1,3.4,flat,0,reversible defect,0,0
+11438,69,male,asymptomatic,174,273,0,normal,106,1,1.5,flat,3,normal,1,1
+11439,54,male,asymptomatic,150,?,0,enlarged ventricle,140,1,0.8,flat,1,reversible defect,0,0
+11440,37,male,non-anginal pain,128,195,0,enlarged ventricle,168,0,2.0,flat,0,normal,0,0
+11441,58,male,typical angina,118,207,0,enlarged ventricle,158,0,2.2,flat,0,reversible defect,0,0
+11442,60,male,non-anginal pain,122,202,0,enlarged ventricle,150,0,0.3,flat,1,reversible defect,0,0
+11443,61,male,typical angina,131,257,0,normal,141,0,2.2,up,2,normal,0,0
+11444,42,female,atypical angina,103,214,0,normal,158,0,0.0,up,1,normal,0,0
+11445,59,male,asymptomatic,141,187,0,enlarged ventricle,146,1,4.2,up,?,reversible defect,1,1
+11446,62,female,asymptomatic,169,274,1,enlarged ventricle,153,1,2.4,up,2,fixed defect,1,1
+11447,51,male,asymptomatic,116,254,1,normal,152,0,0.0,down,3,reversible defect,1,1
+11448,55,male,non-anginal pain,114,218,0,normal,144,1,0.1,up,1,reversible defect,1,1
+11449,48,male,asymptomatic,146,256,0,enlarged ventricle,197,1,0.0,up,0,normal,0,0
+11450,60,male,typical angina,128,249,0,normal,130,0,0.0,flat,0,reversible defect,0,0
+11451,69,male,asymptomatic,152,267,0,enlarged ventricle,103,1,1.5,flat,3,normal,1,1
+11452,65,female,asymptomatic,136,368,0,enlarged ventricle,158,0,1.2,flat,0,normal,0,0
+11453,67,female,atypical angina,126,260,0,normal,151,0,1.4,up,2,normal,0,0
+11454,64,male,asymptomatic,149,301,0,enlarged ventricle,140,1,3.0,flat,2,reversible defect,1,1
+11455,54,female,asymptomatic,168,309,0,ST-T abnormality,113,1,3.0,flat,0,normal,1,1
+11456,43,female,atypical angina,135,252,0,normal,169,0,0.8,up,0,normal,0,0
+11457,55,male,atypical angina,134,211,0,normal,172,1,0.2,up,0,normal,0,0
+11458,69,female,non-anginal pain,123,237,0,enlarged ventricle,124,0,1.6,flat,0,normal,0,0
+11459,50,female,non-anginal pain,140,208,0,enlarged ventricle,170,0,0.1,flat,0,normal,0,0
+11460,60,male,asymptomatic,110,?,0,enlarged ventricle,133,1,2.3,flat,1,reversible defect,1,1
+11461,56,male,asymptomatic,118,264,0,enlarged ventricle,114,1,1.6,flat,1,reversible defect,0,0
+11462,66,male,asymptomatic,163,167,0,enlarged ventricle,149,0,2.2,up,0,fixed defect,1,1
+11463,60,female,asymptomatic,134,328,0,normal,128,0,1.8,flat,2,normal,0,0
+11464,52,female,non-anginal pain,126,297,0,enlarged ventricle,152,0,0.3,up,0,normal,1,0
+11465,55,male,typical angina,117,218,0,normal,159,0,1.9,flat,0,reversible defect,1,1
+11466,75,female,atypical angina,119,249,0,enlarged ventricle,132,1,0.4,up,1,normal,0,0
+11467,57,female,non-anginal pain,149,246,0,enlarged ventricle,163,0,1.1,flat,0,normal,1,0
+11468,61,female,non-anginal pain,142,383,1,enlarged ventricle,149,0,0.8,up,1,normal,0,0
+11469,41,female,atypical angina,129,195,0,normal,175,0,0.1,flat,0,normal,0,0
+11470,49,male,atypical angina,132,221,0,normal,154,0,1.4,up,1,normal,0,0
+11471,47,male,asymptomatic,92,222,0,enlarged ventricle,162,1,2.8,flat,0,normal,0,0
+11472,54,female,atypical angina,139,284,0,enlarged ventricle,181,0,1.1,flat,0,normal,0,0
+11473,55,male,asymptomatic,168,203,1,enlarged ventricle,103,0,1.0,flat,2,fixed defect,1,1
+11474,52,male,asymptomatic,158,237,0,enlarged ventricle,172,0,2.4,up,0,reversible defect,1,1
+11475,80,female,non-anginal pain,133,135,0,enlarged ventricle,117,0,0.8,flat,0,normal,0,0
+11476,63,male,asymptomatic,134,?,0,enlarged ventricle,127,1,1.7,up,1,?,1,1
+11477,51,male,asymptomatic,95,?,0,normal,155,0,0.0,up,1,normal,0,0
+11478,53,female,asymptomatic,134,349,0,normal,154,0,0.0,up,0,normal,0,0
+11479,60,male,atypical angina,127,332,0,normal,156,0,2.0,flat,0,normal,0,0
+11480,57,male,typical angina,165,305,0,enlarged ventricle,162,0,0.0,flat,0,?,0,0
+11481,39,male,asymptomatic,136,233,0,normal,174,0,0.0,up,0,normal,0,0
+11482,67,female,asymptomatic,128,297,0,normal,129,0,1.9,flat,2,normal,0,0
+11483,65,male,asymptomatic,173,260,0,enlarged ventricle,102,1,1.8,flat,3,normal,0,0
+11484,48,male,atypical angina,137,251,0,normal,175,0,1.0,up,0,normal,0,0
+11485,47,male,asymptomatic,127,149,0,enlarged ventricle,136,0,0.9,up,3,normal,0,0
+11486,59,male,atypical angina,153,206,0,enlarged ventricle,159,0,0.0,up,1,normal,0,0
+11487,62,male,asymptomatic,116,170,0,normal,139,0,0.5,up,0,reversible defect,1,1
+11488,42,female,atypical angina,114,232,0,normal,164,0,0.0,up,0,normal,0,0
+11489,48,male,non-anginal pain,125,233,0,enlarged ventricle,150,0,0.1,up,0,normal,0,0
+11490,54,female,asymptomatic,142,229,0,enlarged ventricle,162,0,0.0,up,?,normal,0,0
+11491,62,female,asymptomatic,120,323,0,enlarged ventricle,171,0,0.0,flat,0,normal,0,0
+11492,52,male,non-anginal pain,144,227,0,normal,176,0,0.0,up,0,normal,0,0
+11493,50,male,asymptomatic,132,181,1,normal,150,1,1.1,flat,0,normal,1,0
+11494,53,male,asymptomatic,143,?,0,enlarged ventricle,130,0,3.2,up,0,reversible defect,1,1
+11495,55,male,asymptomatic,142,?,0,enlarged ventricle,191,1,0.5,up,0,normal,0,0
+11496,48,male,asymptomatic,131,295,0,normal,172,1,1.5,up,0,reversible defect,1,1
+11497,58,female,non-anginal pain,94,335,0,normal,162,0,0.1,up,1,normal,0,0
+11498,54,male,asymptomatic,121,283,0,enlarged ventricle,97,1,1.7,flat,1,reversible defect,1,1
+11499,67,male,non-anginal pain,112,305,0,normal,143,0,1.2,up,1,reversible defect,0,0
+11500,58,male,asymptomatic,168,264,0,enlarged ventricle,154,1,1.1,up,1,reversible defect,1,1
+11501,67,female,asymptomatic,167,415,0,enlarged ventricle,140,0,3.5,flat,3,reversible defect,1,1
+11502,51,female,asymptomatic,134,274,0,normal,147,0,0.0,flat,0,normal,0,0
+11503,45,female,non-anginal pain,142,?,0,normal,161,1,1.0,down,0,normal,0,0
+11504,35,male,non-anginal pain,144,184,0,normal,161,0,0.0,up,0,normal,0,0
+11505,60,male,asymptomatic,143,220,0,normal,117,0,1.7,flat,1,reversible defect,1,1
+11506,62,male,typical angina,174,266,0,enlarged ventricle,169,0,0.4,flat,0,reversible defect,0,0
+11507,49,female,atypical angina,97,202,0,normal,132,0,0.1,flat,0,normal,0,0
+11508,64,female,typical angina,144,267,0,normal,115,0,2.2,down,0,normal,1,1
+11509,38,female,non-anginal pain,108,185,0,normal,162,0,0.0,up,0,normal,0,0
+11510,40,female,non-anginal pain,93,156,0,normal,159,0,0.5,flat,0,normal,0,0
+11511,71,female,asymptomatic,114,208,0,normal,144,0,0.2,up,2,?,0,0
+11512,55,male,asymptomatic,135,292,0,enlarged ventricle,170,0,0.3,up,?,normal,1,0
+11513,44,male,non-anginal pain,147,?,0,normal,137,0,0.2,flat,0,fixed defect,0,0
+11514,64,male,non-anginal pain,162,215,1,normal,149,1,1.5,flat,0,normal,0,0
+11515,39,male,non-anginal pain,139,334,0,enlarged ventricle,185,0,0.0,up,0,normal,0,0
+11516,53,female,atypical angina,117,232,0,normal,174,0,1.9,up,0,normal,0,0
+11517,52,female,atypical angina,134,301,0,enlarged ventricle,152,0,1.5,up,0,normal,0,0
+11518,53,female,non-anginal pain,100,209,0,normal,164,0,1.5,flat,0,normal,0,0
+11519,56,female,asymptomatic,136,215,0,normal,130,1,0.0,flat,0,reversible defect,0,0
+11520,52,male,non-anginal pain,127,133,0,normal,160,0,0.2,up,0,normal,0,0
+11521,45,male,asymptomatic,118,300,0,enlarged ventricle,171,0,0.9,flat,0,reversible defect,0,0
+11522,52,female,non-anginal pain,122,284,0,normal,140,0,0.4,up,0,normal,0,0
+11523,56,male,typical angina,169,235,0,enlarged ventricle,146,0,0.5,flat,0,reversible defect,0,0
+11524,67,female,atypical angina,137,168,0,normal,173,0,0.0,up,2,normal,1,1
+11525,42,male,atypical angina,131,?,0,enlarged ventricle,182,0,0.0,up,0,normal,0,0
+11526,59,male,non-anginal pain,142,245,1,normal,149,0,1.4,up,0,normal,1,0
+11527,48,female,atypical angina,120,222,0,normal,166,0,0.0,up,0,normal,0,0
+11528,43,female,non-anginal pain,124,229,0,normal,183,0,0.0,flat,0,normal,0,0
+11529,57,male,non-anginal pain,129,?,1,enlarged ventricle,137,1,0.9,flat,1,fixed defect,0,0
+11530,54,male,asymptomatic,138,200,0,enlarged ventricle,130,1,1.5,flat,0,reversible defect,1,1
+11531,44,male,asymptomatic,142,251,0,normal,185,0,1.5,up,0,normal,0,0
+11532,42,female,non-anginal pain,126,220,0,normal,172,0,0.0,flat,0,normal,0,0
+11533,53,male,asymptomatic,147,261,0,enlarged ventricle,108,1,0.5,flat,1,fixed defect,0,0
+11534,42,male,non-anginal pain,130,182,0,normal,182,1,0.5,up,0,normal,1,0
+11535,64,male,non-anginal pain,113,221,0,enlarged ventricle,130,1,2.3,flat,0,normal,0,0
+11536,58,female,non-anginal pain,130,300,1,normal,163,0,0.1,up,0,normal,0,0
+11537,56,female,atypical angina,142,257,0,enlarged ventricle,154,0,1.7,flat,0,normal,0,0
+11538,48,male,non-anginal pain,157,193,1,normal,144,0,0.7,up,0,reversible defect,0,0
+11539,48,female,non-anginal pain,122,285,0,enlarged ventricle,159,0,0.6,up,0,normal,0,0
+11540,41,male,typical angina,124,177,0,normal,182,1,1.5,up,0,reversible defect,0,0
+11541,59,female,asymptomatic,135,286,1,normal,116,0,2.0,flat,3,normal,1,0
+11542,62,male,non-anginal pain,136,200,1,enlarged ventricle,161,0,0.0,up,0,normal,0,0
+11543,41,male,atypical angina,144,197,0,enlarged ventricle,187,0,0.0,up,0,normal,0,0
+11544,54,male,non-anginal pain,166,182,1,normal,169,0,0.4,up,0,reversible defect,0,0
+11545,62,male,asymptomatic,131,?,0,enlarged ventricle,147,1,2.6,flat,2,reversible defect,1,1
+11546,70,female,typical angina,143,261,0,enlarged ventricle,158,0,1.4,up,2,normal,0,0
+11547,64,male,asymptomatic,151,190,0,enlarged ventricle,148,1,3.8,up,2,reversible defect,1,1
+11548,62,female,asymptomatic,163,185,0,enlarged ventricle,159,0,6.2,down,3,reversible defect,1,1
+11549,43,male,atypical angina,107,192,1,normal,163,0,0.0,up,0,reversible defect,0,0
+11550,55,male,asymptomatic,179,291,1,enlarged ventricle,107,0,1.1,flat,3,reversible defect,1,1
+11551,29,male,atypical angina,116,165,0,enlarged ventricle,205,0,0.0,up,0,normal,0,0
+11552,68,male,asymptomatic,95,310,0,enlarged ventricle,126,1,0.5,flat,2,normal,1,1
+11553,44,male,atypical angina,107,257,0,normal,158,0,0.0,up,0,normal,0,0
+11554,64,male,non-anginal pain,129,233,0,enlarged ventricle,151,0,2.2,flat,3,reversible defect,1,1
+11555,70,male,asymptomatic,155,272,0,enlarged ventricle,118,1,0.0,flat,3,fixed defect,0,0
+11556,62,male,asymptomatic,146,195,0,enlarged ventricle,126,1,3.8,flat,1,normal,0,1
+11557,67,male,asymptomatic,95,303,0,enlarged ventricle,117,1,1.2,flat,2,normal,1,1
+11558,50,male,atypical angina,124,257,0,enlarged ventricle,186,0,0.0,flat,0,normal,0,0
+11559,48,male,asymptomatic,125,271,0,enlarged ventricle,186,0,0.3,up,0,normal,0,0
+11560,63,male,non-anginal pain,132,252,0,enlarged ventricle,181,0,0.0,up,0,normal,0,0
+11561,52,male,atypical angina,111,335,0,normal,183,0,0.5,up,0,normal,0,0
+11562,42,male,non-anginal pain,119,260,0,enlarged ventricle,173,0,1.9,flat,0,normal,0,0
+11563,66,male,asymptomatic,119,252,0,normal,105,1,2.0,flat,2,reversible defect,1,1
+11564,56,male,asymptomatic,118,286,0,normal,125,1,3.7,flat,1,reversible defect,1,1
+11565,51,male,asymptomatic,118,234,0,normal,157,0,0.0,up,1,normal,0,0
+11566,71,male,asymptomatic,147,178,1,normal,142,0,3.1,flat,2,reversible defect,1,1
+11567,61,male,non-anginal pain,129,245,0,enlarged ventricle,152,0,0.4,flat,1,reversible defect,0,0
+11568,56,female,asymptomatic,195,309,1,enlarged ventricle,134,1,4.2,down,?,reversible defect,1,1
+11569,66,female,asymptomatic,107,259,0,normal,171,1,2.3,flat,2,normal,1,1
+11570,50,male,atypical angina,110,332,0,normal,176,0,0.7,up,0,normal,0,0
+11571,61,male,non-anginal pain,151,236,1,normal,146,1,0.9,flat,0,normal,0,0
+11572,55,male,atypical angina,128,313,0,normal,164,0,0.1,up,0,normal,0,0
+11573,57,female,non-anginal pain,107,189,1,normal,89,0,0.0,up,0,normal,0,0
+11574,64,male,asymptomatic,148,192,0,enlarged ventricle,102,1,3.4,flat,1,normal,1,1
+11575,57,male,asymptomatic,122,185,1,enlarged ventricle,156,1,3.1,flat,0,reversible defect,1,1
+11576,64,male,non-anginal pain,133,183,0,enlarged ventricle,145,0,3.3,flat,0,normal,0,0
+11577,48,female,non-anginal pain,121,308,0,enlarged ventricle,134,0,1.0,up,0,normal,0,0
+11578,38,male,asymptomatic,134,?,0,normal,177,0,0.0,up,0,normal,0,0
+11579,69,male,asymptomatic,142,?,0,normal,117,1,2.4,down,0,reversible defect,1,1
+11580,64,male,typical angina,120,232,0,enlarged ventricle,152,1,1.9,flat,0,normal,0,0
+11581,47,male,asymptomatic,102,248,0,enlarged ventricle,128,1,1.1,flat,1,normal,1,1
+11582,53,female,atypical angina,122,?,0,enlarged ventricle,179,0,0.2,flat,1,?,0,0
+11583,65,female,asymptomatic,124,303,0,normal,119,0,1.6,flat,2,normal,0,0
+11584,58,male,asymptomatic,141,?,0,normal,94,0,1.7,flat,1,reversible defect,1,1
+11585,60,male,asymptomatic,134,232,0,enlarged ventricle,131,1,2.2,up,1,reversible defect,1,1
+11586,47,male,non-anginal pain,127,294,0,enlarged ventricle,148,0,0.4,up,0,normal,0,0
+11587,60,male,asymptomatic,140,293,0,enlarged ventricle,179,0,0.0,up,0,normal,0,0
+11588,53,female,non-anginal pain,132,402,0,enlarged ventricle,147,1,1.9,flat,2,reversible defect,0,0
+11589,66,male,non-anginal pain,132,323,0,normal,145,1,2.1,flat,0,reversible defect,0,0
+11590,63,male,typical angina,169,318,0,enlarged ventricle,132,0,0.1,up,0,normal,0,0
+11591,40,female,atypical angina,113,358,0,normal,178,0,0.0,up,0,normal,0,0
+11592,56,male,non-anginal pain,162,195,0,enlarged ventricle,167,0,1.7,up,0,reversible defect,0,0
+11593,48,male,non-anginal pain,176,?,1,normal,155,0,0.2,up,0,reversible defect,0,0
+11594,57,female,asymptomatic,180,210,1,enlarged ventricle,141,1,3.0,flat,2,fixed defect,1,1
+11595,58,male,asymptomatic,164,314,1,enlarged ventricle,124,0,0.9,flat,3,reversible defect,1,1
+11596,52,male,atypical angina,135,285,0,normal,174,0,0.4,up,0,normal,0,0
+11597,60,female,non-anginal pain,144,396,0,enlarged ventricle,166,0,1.2,flat,0,normal,0,0
+11598,64,male,asymptomatic,170,230,0,normal,115,1,0.0,flat,3,fixed defect,1,1
+11599,55,male,atypical angina,129,213,0,normal,155,0,0.5,up,1,normal,0,0
+11600,57,male,atypical angina,135,221,0,normal,165,1,0.2,up,0,normal,0,0
+11601,45,male,asymptomatic,128,261,1,enlarged ventricle,161,1,0.0,up,2,reversible defect,1,1
+11602,52,female,non-anginal pain,130,217,0,normal,154,0,2.0,flat,0,normal,0,0
+11603,58,male,asymptomatic,132,277,0,normal,103,1,2.1,flat,2,reversible defect,1,1
+11604,57,female,atypical angina,123,344,0,normal,157,0,1.5,up,0,normal,0,0
+11605,60,female,non-anginal pain,162,327,0,enlarged ventricle,164,0,0.0,up,0,normal,0,0
+11606,62,male,non-anginal pain,139,154,0,normal,168,1,0.2,up,0,normal,0,0
+11607,48,male,asymptomatic,140,305,0,enlarged ventricle,152,1,0.0,flat,3,reversible defect,0,1
+11608,51,male,atypical angina,129,202,0,normal,179,0,1.3,up,?,reversible defect,0,0
+11609,40,male,typical angina,151,325,0,normal,125,1,1.5,flat,0,fixed defect,0,0
+11610,51,male,asymptomatic,114,262,0,normal,131,1,2.7,flat,1,reversible defect,1,1
+11611,67,male,asymptomatic,131,261,0,enlarged ventricle,120,0,3.0,flat,1,reversible defect,1,1
+11612,59,male,asymptomatic,120,261,0,enlarged ventricle,132,1,2.6,flat,1,reversible defect,1,1
+11613,54,male,non-anginal pain,104,211,0,normal,143,1,1.1,flat,0,normal,0,0
+11614,54,male,atypical angina,130,225,1,normal,182,0,0.0,up,0,normal,0,0
+11615,68,female,asymptomatic,139,350,0,normal,136,0,2.0,flat,2,normal,1,0
+11616,58,male,asymptomatic,143,365,0,normal,138,1,1.3,flat,1,reversible defect,0,1
+11617,41,male,non-anginal pain,132,257,0,normal,198,0,3.6,down,0,normal,0,0
+11618,43,female,non-anginal pain,99,211,0,normal,182,0,0.0,up,0,normal,0,0
+11619,48,male,atypical angina,133,208,0,normal,177,0,0.7,up,0,normal,1,1
+11620,62,male,asymptomatic,138,241,0,enlarged ventricle,128,1,3.3,flat,2,reversible defect,1,1
+11621,68,female,typical angina,133,220,0,normal,156,0,2.0,flat,2,normal,0,0
+11622,56,male,asymptomatic,135,224,0,normal,101,0,1.8,flat,1,reversible defect,1,1
+11623,54,male,non-anginal pain,119,216,1,enlarged ventricle,148,0,1.5,down,0,normal,0,0
+11624,59,female,asymptomatic,120,418,0,enlarged ventricle,131,1,1.8,flat,2,reversible defect,0,0
+11625,66,male,typical angina,163,227,1,enlarged ventricle,134,0,0.1,flat,1,normal,0,0
+11626,75,female,asymptomatic,102,166,0,normal,132,0,1.5,flat,0,normal,0,0
+11627,61,female,asymptomatic,129,?,0,normal,141,1,0.1,up,0,normal,0,0
+11628,35,male,non-anginal pain,123,260,0,normal,189,0,4.0,down,0,normal,0,0
+11629,45,male,non-anginal pain,158,219,0,normal,143,0,3.5,flat,0,normal,0,0
+11630,48,male,asymptomatic,133,?,1,normal,137,1,1.4,flat,0,normal,0,0
+11631,34,female,atypical angina,139,161,0,normal,173,0,1.6,up,0,normal,0,0
+11632,68,female,non-anginal pain,114,226,1,enlarged ventricle,129,0,0.0,up,1,normal,0,0
+11633,61,male,asymptomatic,118,230,0,enlarged ventricle,137,1,2.9,flat,3,reversible defect,1,1
+11634,48,male,asymptomatic,120,347,0,normal,130,1,2.0,flat,2,reversible defect,0,0
+11635,54,female,non-anginal pain,123,206,0,enlarged ventricle,124,0,0.0,up,0,normal,0,0
+11636,59,male,asymptomatic,133,221,1,enlarged ventricle,98,1,1.5,down,0,reversible defect,1,1
+11637,46,male,atypical angina,119,295,0,normal,169,0,0.3,up,0,normal,0,0
+11638,58,female,non-anginal pain,125,183,1,normal,86,0,0.0,up,0,normal,0,0
+11639,55,male,atypical angina,132,264,1,normal,169,0,0.0,up,0,normal,0,0
+11640,65,male,non-anginal pain,151,280,1,normal,130,1,1.0,flat,0,normal,1,0
+11641,47,female,atypical angina,132,257,0,normal,157,0,0.1,up,0,normal,0,0
+11642,61,male,typical angina,144,233,1,enlarged ventricle,143,0,2.5,down,0,fixed defect,0,0
+11643,49,male,non-anginal pain,173,213,1,normal,168,0,0.5,up,0,reversible defect,0,0
+11644,66,male,asymptomatic,134,198,0,enlarged ventricle,144,0,2.0,flat,2,fixed defect,0,0
+11645,42,male,asymptomatic,118,?,0,normal,147,0,0.4,flat,0,normal,0,0
+11646,59,female,asymptomatic,126,?,0,normal,177,0,0.0,up,0,normal,0,0
+11647,57,male,non-anginal pain,124,218,0,normal,164,0,1.0,up,0,normal,1,1
+11648,45,male,asymptomatic,104,247,0,normal,164,0,0.3,up,0,reversible defect,0,0
+11649,47,female,asymptomatic,118,239,0,normal,168,0,0.3,up,0,normal,0,0
+11650,35,female,non-anginal pain,103,215,0,normal,168,0,0.0,up,0,normal,0,0
+11651,37,male,asymptomatic,98,137,0,enlarged ventricle,122,1,1.9,flat,0,reversible defect,0,1
+11652,57,male,asymptomatic,129,210,0,enlarged ventricle,102,1,2.1,flat,1,fixed defect,1,1
+11653,59,male,typical angina,133,?,0,normal,164,0,1.0,up,2,normal,0,0
+11654,62,female,atypical angina,142,183,0,enlarged ventricle,188,0,0.3,up,2,normal,1,0
+11655,70,male,non-anginal pain,162,278,0,normal,117,1,2.9,flat,?,reversible defect,1,1
+11656,56,male,atypical angina,129,?,0,normal,151,0,0.4,up,0,normal,0,0
+11657,54,female,atypical angina,108,254,0,normal,162,0,1.3,up,0,normal,0,0
+11658,51,male,atypical angina,127,249,0,enlarged ventricle,194,0,0.0,flat,0,normal,0,0
+11659,61,male,typical angina,159,250,0,enlarged ventricle,111,0,0.3,up,0,normal,0,0
+11660,44,male,non-anginal pain,154,226,0,normal,155,0,3.1,flat,0,normal,0,0
+11661,50,female,asymptomatic,131,?,0,normal,150,1,1.2,flat,0,reversible defect,0,0
+11662,60,male,atypical angina,139,230,0,enlarged ventricle,178,0,0.0,up,0,reversible defect,0,0
+11663,36,male,typical angina,126,217,0,normal,193,1,3.8,flat,0,reversible defect,1,1
+11664,51,male,asymptomatic,129,281,0,enlarged ventricle,174,1,0.3,flat,0,normal,0,0
+11665,65,male,asymptomatic,148,193,0,normal,166,0,0.2,up,1,reversible defect,1,1
+11666,56,male,atypical angina,127,?,0,normal,144,0,0.0,up,0,reversible defect,0,0
+11667,61,male,asymptomatic,142,195,0,ST-T abnormality,112,0,2.1,flat,1,reversible defect,1,1
+11668,49,male,non-anginal pain,184,175,1,normal,177,0,0.7,up,0,reversible defect,0,0
+11669,40,female,atypical angina,125,179,0,enlarged ventricle,175,0,1.6,up,?,normal,0,0
+11670,29,male,atypical angina,119,188,0,enlarged ventricle,200,0,0.2,up,0,normal,1,0
+11671,72,male,typical angina,145,271,1,enlarged ventricle,129,0,0.3,flat,?,normal,0,0
+11672,44,male,asymptomatic,118,223,0,enlarged ventricle,195,0,0.0,up,0,normal,1,0
+11673,47,male,asymptomatic,116,214,0,normal,136,1,2.8,down,0,fixed defect,1,1
+11674,49,female,atypical angina,102,?,0,normal,177,0,0.0,up,0,normal,0,0
+11675,44,male,non-anginal pain,90,263,0,normal,155,0,0.0,up,0,normal,0,0
+11676,59,male,asymptomatic,145,?,1,enlarged ventricle,136,0,2.4,down,0,fixed defect,0,0
+11677,33,male,atypical angina,139,?,0,enlarged ventricle,205,0,0.0,up,0,normal,0,0
+11678,58,male,atypical angina,147,279,0,normal,79,1,1.1,flat,1,reversible defect,1,1
+11679,64,male,typical angina,150,?,1,enlarged ventricle,166,0,2.5,down,0,fixed defect,0,1
+11680,53,male,asymptomatic,123,?,1,normal,149,1,0.8,flat,0,normal,0,0
+11681,49,male,non-anginal pain,131,?,0,enlarged ventricle,164,0,0.0,up,0,normal,0,0
+11682,58,male,asymptomatic,121,212,0,normal,124,1,1.5,flat,0,fixed defect,0,0
+11683,66,male,non-anginal pain,146,361,0,normal,150,0,0.4,up,0,normal,0,0
+11684,47,male,non-anginal pain,137,228,0,normal,183,0,0.0,up,0,normal,0,0
+11685,61,female,asymptomatic,169,215,0,enlarged ventricle,104,0,0.5,flat,3,reversible defect,1,1
+11686,36,male,asymptomatic,152,238,0,normal,179,0,0.0,up,0,reversible defect,0,0
+11687,56,female,non-anginal pain,108,244,0,enlarged ventricle,178,0,0.0,up,0,normal,1,0
+11688,61,female,asymptomatic,141,335,0,normal,130,0,0.0,up,0,reversible defect,1,0
+11689,53,male,asymptomatic,176,289,1,enlarged ventricle,142,0,0.8,flat,3,reversible defect,1,1
+11690,64,female,asymptomatic,132,232,0,normal,172,0,0.0,up,0,normal,0,0
+11691,61,male,typical angina,103,136,0,enlarged ventricle,132,1,2.4,flat,0,normal,0,0
+11692,66,female,asymptomatic,117,233,0,normal,181,0,0.2,up,0,normal,0,0
+11693,65,male,asymptomatic,103,312,0,enlarged ventricle,139,1,0.7,flat,2,normal,1,1
+11694,57,male,non-anginal pain,132,246,0,normal,134,0,0.1,flat,1,reversible defect,0,0
+11695,66,male,asymptomatic,129,237,1,normal,161,0,0.0,flat,2,reversible defect,0,1
+11696,60,male,asymptomatic,124,302,0,normal,155,1,3.6,up,1,reversible defect,0,1
+11697,49,male,atypical angina,108,210,0,normal,167,0,1.0,down,0,reversible defect,0,0
+11698,47,male,asymptomatic,117,314,0,enlarged ventricle,153,0,0.0,up,1,normal,1,1
+11699,55,female,asymptomatic,145,239,0,normal,116,1,0.3,flat,0,reversible defect,0,0
+11700,55,male,asymptomatic,157,129,1,enlarged ventricle,90,0,1.3,flat,2,fixed defect,1,1
+11701,50,male,asymptomatic,112,239,0,enlarged ventricle,190,0,0.2,up,0,normal,0,0
+11702,43,female,non-anginal pain,122,211,0,normal,188,0,0.0,flat,0,normal,0,0
+11703,48,male,atypical angina,107,210,0,normal,163,0,1.4,down,0,reversible defect,0,0
+11704,57,female,asymptomatic,118,?,0,enlarged ventricle,144,0,0.5,flat,0,normal,0,0
+11705,56,female,asymptomatic,146,310,0,normal,137,1,0.3,flat,0,reversible defect,0,0
+11706,57,male,atypical angina,123,267,0,enlarged ventricle,165,0,2.0,flat,0,normal,0,0
+11707,49,female,non-anginal pain,153,202,0,enlarged ventricle,150,1,1.0,down,0,normal,0,0
+11708,42,male,non-anginal pain,120,222,0,normal,176,0,0.5,up,0,normal,0,0
+11709,65,female,asymptomatic,131,335,0,enlarged ventricle,172,0,0.1,up,0,?,0,0
+11710,57,female,atypical angina,124,?,1,enlarged ventricle,139,0,0.0,up,2,normal,0,0
+11711,67,male,asymptomatic,146,278,0,enlarged ventricle,139,0,3.0,flat,1,reversible defect,1,1
+11712,60,male,non-anginal pain,155,?,1,normal,146,0,1.3,up,0,normal,0,0
+11713,69,male,non-anginal pain,159,187,0,enlarged ventricle,160,0,0.6,flat,0,reversible defect,0,0
+11714,60,male,asymptomatic,138,199,0,normal,150,0,0.5,flat,?,fixed defect,0,0
+11715,54,female,asymptomatic,128,309,0,enlarged ventricle,165,0,0.2,down,1,normal,0,0
+11716,64,male,atypical angina,123,266,0,enlarged ventricle,93,0,1.0,flat,1,reversible defect,0,0
+11717,63,male,asymptomatic,139,185,0,enlarged ventricle,126,0,2.0,flat,2,fixed defect,0,0
+11718,55,male,non-anginal pain,124,287,1,enlarged ventricle,143,1,0.3,flat,1,fixed defect,0,0
+11719,37,male,asymptomatic,136,169,0,normal,125,1,1.5,flat,0,reversible defect,0,0
+11720,60,female,asymptomatic,148,324,0,enlarged ventricle,137,1,0.7,up,0,reversible defect,0,0
+11721,53,male,atypical angina,114,218,0,normal,174,0,1.0,up,0,normal,0,0
+11722,65,male,asymptomatic,109,263,0,enlarged ventricle,89,1,2.3,down,1,normal,1,1
+11723,46,female,non-anginal pain,111,?,0,normal,174,0,0.0,flat,0,normal,1,0
+11724,56,female,atypical angina,138,272,0,enlarged ventricle,155,0,1.5,flat,0,normal,1,0
+11725,39,male,atypical angina,112,149,0,normal,156,0,0.0,up,0,normal,0,0
+11726,39,male,asymptomatic,127,291,0,normal,139,1,1.8,flat,0,fixed defect,0,0
+11727,62,female,non-anginal pain,178,375,0,normal,154,1,0.0,up,0,normal,0,0
+11728,50,male,non-anginal pain,121,148,0,enlarged ventricle,131,0,0.5,up,3,normal,1,1
+11729,59,male,asymptomatic,130,266,0,normal,123,1,3.5,flat,1,reversible defect,1,1
+11730,62,male,atypical angina,123,257,0,normal,135,1,1.1,up,1,reversible defect,0,0
+11731,46,male,non-anginal pain,124,272,0,normal,179,0,0.0,up,0,normal,0,0
+11732,51,male,atypical angina,111,296,0,normal,174,0,0.2,up,0,reversible defect,0,0
+11733,59,female,non-anginal pain,116,380,0,normal,175,0,0.2,up,0,normal,0,0
+11734,59,male,asymptomatic,147,172,0,normal,144,0,0.4,flat,0,?,0,0
+11735,55,male,asymptomatic,136,248,0,enlarged ventricle,187,1,0.0,up,0,normal,0,0
+11736,61,male,non-anginal pain,129,340,0,normal,146,0,0.0,up,0,normal,0,0
+11737,49,female,asymptomatic,132,297,0,enlarged ventricle,143,1,0.0,flat,0,normal,0,0
+11738,58,female,asymptomatic,125,?,1,normal,113,0,1.8,flat,3,normal,0,0
+11739,64,female,non-anginal pain,98,328,0,normal,160,0,0.0,up,1,normal,0,0
+11740,63,female,asymptomatic,128,198,0,normal,165,0,0.2,up,0,normal,0,0
+11741,59,female,asymptomatic,150,226,0,normal,164,1,1.0,up,0,normal,0,0
+11742,62,female,asymptomatic,173,257,0,normal,145,1,0.2,flat,0,normal,0,0
+11743,54,male,asymptomatic,130,336,0,normal,160,1,1.3,up,0,reversible defect,0,0
+11744,61,male,non-anginal pain,134,153,0,enlarged ventricle,169,0,2.6,flat,0,normal,0,0
+11745,76,female,non-anginal pain,137,203,0,ST-T abnormality,122,0,0.8,flat,0,normal,0,0
+11746,35,male,typical angina,120,196,0,enlarged ventricle,183,0,0.0,up,0,normal,0,0
+11747,71,male,typical angina,180,229,1,enlarged ventricle,126,0,0.1,flat,1,normal,0,0
+11748,67,female,atypical angina,154,?,0,normal,166,0,0.9,up,2,normal,1,1
+11749,41,female,atypical angina,119,141,0,normal,151,0,0.5,flat,0,normal,0,0
+11750,58,male,asymptomatic,145,?,0,enlarged ventricle,159,0,0.0,up,?,normal,0,0
+11751,63,female,non-anginal pain,94,304,0,normal,167,0,0.0,up,1,normal,0,0
+11752,53,male,asymptomatic,124,227,1,enlarged ventricle,167,1,3.5,down,?,reversible defect,1,0
+11753,63,female,non-anginal pain,146,262,0,normal,188,0,0.3,up,1,normal,0,0
+11754,55,male,asymptomatic,143,242,0,normal,151,0,0.2,flat,0,reversible defect,0,0
+11755,47,female,atypical angina,105,?,0,normal,163,0,0.2,up,0,normal,0,0
+11756,56,female,non-anginal pain,118,243,0,enlarged ventricle,160,0,0.1,up,0,normal,0,0
+11757,63,male,asymptomatic,126,232,0,enlarged ventricle,147,0,1.7,flat,1,reversible defect,1,1
+11758,43,male,asymptomatic,148,312,0,normal,119,1,2.6,flat,2,reversible defect,1,1
+11759,58,male,asymptomatic,140,269,0,enlarged ventricle,143,1,2.8,flat,2,reversible defect,0,1
+11760,34,female,atypical angina,125,235,0,normal,196,0,0.9,up,0,normal,0,0
+11761,31,male,typical angina,131,202,0,enlarged ventricle,168,0,0.0,up,0,normal,0,0
+11762,63,male,typical angina,143,?,1,enlarged ventricle,155,0,2.4,down,0,fixed defect,0,0
+11763,32,female,asymptomatic,127,213,0,normal,173,0,1.2,up,0,normal,0,0
+11764,64,female,asymptomatic,164,237,0,normal,152,1,1.3,flat,0,normal,0,0
+11765,52,female,asymptomatic,103,257,0,enlarged ventricle,147,0,0.1,up,0,normal,0,0
+11766,60,male,non-anginal pain,145,156,1,normal,187,0,0.0,up,1,reversible defect,0,0
+11767,55,male,atypical angina,117,345,0,enlarged ventricle,138,0,1.9,flat,0,normal,0,0
+11768,64,male,asymptomatic,147,197,0,enlarged ventricle,133,1,2.0,up,1,reversible defect,1,1
+11769,60,male,atypical angina,129,254,0,normal,128,0,0.2,up,0,reversible defect,0,0
+11770,64,male,asymptomatic,125,277,0,normal,76,0,1.6,flat,0,normal,0,0
+11771,63,male,non-anginal pain,138,188,0,normal,161,0,3.3,flat,0,normal,0,0
+11772,63,female,asymptomatic,148,190,0,enlarged ventricle,112,0,1.2,flat,3,reversible defect,1,0
+11773,42,male,atypical angina,136,231,0,enlarged ventricle,179,0,0.3,up,0,normal,0,0
+11774,59,female,non-anginal pain,163,259,0,enlarged ventricle,145,0,2.6,flat,2,reversible defect,1,1
+11775,51,male,asymptomatic,112,227,0,enlarged ventricle,179,0,0.0,up,0,normal,1,0
+11776,63,male,asymptomatic,180,252,0,normal,155,0,0.8,flat,0,reversible defect,0,1
+11777,55,male,atypical angina,142,?,0,normal,168,0,0.9,up,1,normal,0,0
+11778,63,female,asymptomatic,135,317,0,enlarged ventricle,173,0,0.2,up,0,normal,0,0
+11779,65,female,asymptomatic,124,286,0,normal,132,0,2.1,flat,2,normal,1,1
+11780,53,male,asymptomatic,124,314,0,normal,95,1,1.9,flat,2,reversible defect,1,1
+11781,58,male,asymptomatic,128,309,0,enlarged ventricle,170,0,0.0,up,2,reversible defect,0,0
+11782,65,female,non-anginal pain,150,205,0,normal,151,0,0.5,up,0,normal,0,0
+11783,64,male,asymptomatic,121,237,0,enlarged ventricle,135,1,0.0,up,1,normal,1,1
+11784,63,female,asymptomatic,146,256,0,normal,149,1,1.8,flat,0,normal,1,0
+11785,52,female,asymptomatic,146,340,0,enlarged ventricle,156,1,1.9,flat,?,reversible defect,0,0
+11786,54,female,asymptomatic,116,247,0,ST-T abnormality,133,1,2.1,flat,1,reversible defect,1,1
+11787,43,male,asymptomatic,104,351,0,normal,176,0,1.0,flat,0,normal,0,0
+11788,65,female,asymptomatic,109,213,0,normal,168,0,0.0,up,0,normal,0,0
+11789,61,male,non-anginal pain,134,246,0,enlarged ventricle,146,0,0.5,flat,1,reversible defect,0,0
+11790,59,male,atypical angina,117,252,0,normal,140,0,0.4,up,0,reversible defect,1,1
+11791,39,male,typical angina,141,233,0,enlarged ventricle,174,0,1.2,up,2,normal,0,0
+11792,53,male,asymptomatic,151,?,0,enlarged ventricle,127,1,0.2,flat,0,reversible defect,0,0
+11793,57,female,non-anginal pain,174,191,0,normal,170,0,0.0,up,1,normal,0,0
+11794,60,female,asymptomatic,194,277,1,enlarged ventricle,123,1,4.1,down,2,reversible defect,1,1
+11795,36,female,asymptomatic,149,196,0,normal,186,0,1.2,up,0,normal,0,0
+11796,55,female,non-anginal pain,132,181,0,enlarged ventricle,113,0,0.2,up,0,normal,0,0
+11797,62,male,asymptomatic,120,236,0,enlarged ventricle,90,1,2.1,down,1,normal,1,1
+11798,58,male,atypical angina,114,282,0,normal,131,0,0.3,up,0,reversible defect,0,0
+11799,58,male,typical angina,117,?,0,enlarged ventricle,137,1,2.7,flat,3,reversible defect,1,1
+11800,59,male,asymptomatic,110,332,0,enlarged ventricle,140,1,2.7,flat,1,reversible defect,1,1
+11801,30,female,atypical angina,119,200,0,normal,194,0,0.8,up,?,normal,1,0
+11802,49,female,non-anginal pain,124,256,0,normal,142,0,0.0,up,?,normal,0,0
+11803,50,male,atypical angina,122,235,0,normal,184,0,0.2,up,0,normal,0,0
+11804,57,male,asymptomatic,129,179,1,enlarged ventricle,167,1,3.2,down,0,reversible defect,1,1
+11805,65,male,non-anginal pain,123,242,0,normal,148,1,2.9,flat,1,reversible defect,1,1
+11806,57,male,atypical angina,130,199,0,normal,152,0,0.5,flat,0,reversible defect,0,0
+11807,42,male,non-anginal pain,126,233,1,normal,205,0,0.3,down,0,reversible defect,1,0
+11808,59,male,asymptomatic,135,195,0,enlarged ventricle,136,1,2.4,flat,2,reversible defect,1,1
+11809,54,male,non-anginal pain,136,185,1,enlarged ventricle,171,0,0.0,flat,0,normal,0,0
+11810,63,female,non-anginal pain,128,520,0,enlarged ventricle,165,0,1.8,flat,0,reversible defect,0,0
+11811,40,male,non-anginal pain,122,239,0,normal,174,1,0.4,up,0,normal,0,0
+11812,39,male,asymptomatic,130,246,0,enlarged ventricle,157,1,0.1,up,0,reversible defect,0,0
+11813,43,male,asymptomatic,109,315,0,enlarged ventricle,155,0,0.0,up,1,normal,0,0
+11814,54,male,non-anginal pain,131,206,1,enlarged ventricle,167,0,0.3,up,0,normal,0,0
+11815,55,male,asymptomatic,145,290,0,enlarged ventricle,114,1,0.4,flat,1,fixed defect,1,1
+11816,60,female,asymptomatic,138,391,0,enlarged ventricle,150,1,2.3,flat,2,reversible defect,1,1
+11817,72,male,non-anginal pain,169,242,0,normal,119,1,2.6,flat,1,reversible defect,1,1
+11818,51,male,typical angina,128,?,0,normal,159,0,1.3,up,2,reversible defect,0,0
+11819,49,female,asymptomatic,90,229,0,enlarged ventricle,163,0,0.2,up,0,normal,0,0
+11820,48,male,asymptomatic,118,314,0,enlarged ventricle,148,0,0.3,up,1,normal,0,0
+11821,51,male,typical angina,101,239,0,enlarged ventricle,174,0,0.0,flat,0,fixed defect,0,0
+11822,51,female,non-anginal pain,125,232,0,normal,147,0,1.5,flat,0,normal,0,0
+11823,58,male,atypical angina,132,?,0,enlarged ventricle,163,0,0.0,up,0,reversible defect,0,0
+11824,56,male,asymptomatic,151,260,0,enlarged ventricle,117,1,1.0,up,0,reversible defect,1,1
+11825,63,male,non-anginal pain,138,210,0,normal,142,0,2.4,flat,3,reversible defect,1,1
+11826,67,female,asymptomatic,128,298,0,normal,122,0,1.9,flat,2,normal,0,0
+11827,48,male,asymptomatic,108,254,0,enlarged ventricle,122,1,1.0,flat,1,normal,0,0
+11828,59,female,non-anginal pain,117,163,1,normal,94,0,0.0,up,0,normal,0,0
+11829,53,male,asymptomatic,109,265,1,normal,152,0,0.4,up,3,reversible defect,1,1
+11830,58,male,typical angina,171,279,0,enlarged ventricle,171,0,0.0,flat,0,reversible defect,0,0
+11831,60,male,non-anginal pain,128,237,1,normal,144,0,2.0,flat,1,fixed defect,0,0
+11832,42,female,atypical angina,103,260,0,enlarged ventricle,170,0,0.8,flat,0,normal,0,0
+11833,41,female,non-anginal pain,137,224,0,normal,144,0,0.0,flat,0,normal,0,0
+11834,61,male,asymptomatic,132,221,0,enlarged ventricle,148,0,2.5,flat,2,fixed defect,1,1
+11835,55,female,atypical angina,152,240,0,enlarged ventricle,184,0,0.0,flat,1,normal,0,0
+11836,55,male,atypical angina,140,181,0,normal,170,0,0.2,up,1,normal,0,0
+11837,62,female,asymptomatic,167,158,0,enlarged ventricle,148,0,6.1,down,3,reversible defect,1,1
+11838,63,female,asymptomatic,144,411,0,normal,153,0,0.7,flat,0,normal,0,0
+11839,64,male,atypical angina,133,?,1,enlarged ventricle,147,0,0.0,up,0,normal,0,0
+11840,51,male,asymptomatic,115,210,0,enlarged ventricle,178,0,0.0,up,0,normal,0,0
+11841,51,male,asymptomatic,166,299,0,enlarged ventricle,144,1,0.7,flat,1,reversible defect,1,1
+11842,38,male,asymptomatic,125,233,0,normal,145,0,0.7,flat,0,reversible defect,0,0
+11843,64,female,asymptomatic,151,245,0,normal,157,1,1.5,flat,0,normal,0,0
+11844,43,female,asymptomatic,138,333,1,enlarged ventricle,130,1,2.6,flat,0,?,0,0
+11845,62,female,asymptomatic,132,?,0,normal,168,0,0.6,up,0,normal,0,0
+11846,33,male,atypical angina,130,211,0,enlarged ventricle,201,0,0.4,up,0,normal,0,0
+11847,48,male,asymptomatic,111,170,0,normal,151,1,2.4,down,0,fixed defect,1,1
+11848,50,male,asymptomatic,157,232,0,normal,146,0,3.7,flat,0,normal,0,0
+11849,47,male,asymptomatic,152,307,0,normal,122,1,4.1,flat,3,reversible defect,1,1
+11850,46,male,atypical angina,118,293,0,enlarged ventricle,163,0,0.2,up,0,normal,0,0
+11851,29,male,atypical angina,139,229,0,enlarged ventricle,205,0,0.0,flat,0,normal,0,0
+11852,69,male,non-anginal pain,154,244,0,enlarged ventricle,163,0,0.9,up,0,reversible defect,0,0
+11853,55,male,asymptomatic,170,284,1,enlarged ventricle,118,0,0.7,flat,3,reversible defect,0,1
+11854,53,female,atypical angina,127,296,0,enlarged ventricle,160,1,0.2,flat,0,normal,0,0
+11855,62,male,asymptomatic,112,230,0,normal,151,1,3.0,flat,1,reversible defect,1,1
+11856,29,male,atypical angina,132,?,0,enlarged ventricle,194,0,0.2,up,0,normal,0,0
+11857,70,male,asymptomatic,120,?,0,enlarged ventricle,141,1,0.2,up,1,normal,1,1
+11858,71,male,atypical angina,167,257,0,enlarged ventricle,151,0,0.1,up,0,normal,0,0
+11859,46,female,non-anginal pain,127,188,0,normal,155,0,1.5,flat,?,normal,0,0
+11860,62,male,asymptomatic,123,268,0,enlarged ventricle,157,0,1.4,flat,1,reversible defect,0,0
+11861,62,male,non-anginal pain,152,215,1,normal,161,0,1.3,up,0,normal,0,0
+11862,59,female,asymptomatic,143,308,0,enlarged ventricle,148,1,1.1,flat,0,reversible defect,0,0
+11863,59,female,atypical angina,131,226,0,enlarged ventricle,177,0,0.0,flat,1,normal,1,1
+11864,58,male,asymptomatic,141,194,0,enlarged ventricle,108,1,2.0,flat,1,fixed defect,0,0
+11865,58,female,asymptomatic,147,276,0,enlarged ventricle,153,0,0.0,up,0,normal,0,0
+11866,72,female,atypical angina,124,277,0,enlarged ventricle,123,1,0.0,up,1,normal,0,0
+11867,55,female,non-anginal pain,132,210,0,enlarged ventricle,114,0,0.0,up,0,normal,0,0
+11868,60,male,atypical angina,112,281,0,enlarged ventricle,168,0,0.1,down,0,normal,0,0
+11869,64,male,asymptomatic,119,198,0,enlarged ventricle,162,0,0.6,up,2,fixed defect,1,1
+11870,41,male,asymptomatic,105,202,0,enlarged ventricle,175,0,0.0,up,1,?,0,0
+11871,65,female,non-anginal pain,160,343,0,enlarged ventricle,153,0,0.8,up,0,normal,0,0
+11872,67,female,non-anginal pain,134,281,0,normal,154,0,0.8,up,0,normal,0,0
+11873,46,male,atypical angina,137,331,0,normal,165,0,0.0,up,0,normal,0,0
+11874,60,female,asymptomatic,148,223,0,enlarged ventricle,157,0,2.0,flat,2,reversible defect,0,0
+11875,47,female,non-anginal pain,117,254,0,normal,151,0,1.7,flat,0,normal,0,0
+11876,67,female,asymptomatic,167,258,0,normal,147,0,0.2,up,0,normal,0,0
+11877,53,male,non-anginal pain,156,193,1,normal,169,0,0.7,up,0,reversible defect,0,0
+11878,56,male,asymptomatic,117,317,0,normal,147,1,3.0,flat,1,reversible defect,1,1
+11879,53,male,typical angina,161,241,1,normal,165,0,0.9,flat,0,reversible defect,0,0
+11880,66,male,non-anginal pain,136,199,0,enlarged ventricle,143,0,0.5,flat,0,reversible defect,0,0
+11881,56,male,asymptomatic,136,172,0,normal,166,0,0.7,up,2,normal,0,0
+11882,67,male,asymptomatic,109,?,0,normal,111,1,0.3,up,1,normal,1,1
+11883,44,female,non-anginal pain,134,205,0,enlarged ventricle,157,1,1.7,down,0,normal,0,0
+11884,62,male,non-anginal pain,102,257,0,enlarged ventricle,156,0,3.0,flat,1,reversible defect,0,0
+11885,54,male,atypical angina,126,247,0,normal,169,0,0.2,down,0,normal,0,0
+11886,61,male,typical angina,187,246,0,enlarged ventricle,128,0,3.9,down,0,reversible defect,0,0
+11887,51,female,atypical angina,123,316,1,enlarged ventricle,156,1,0.0,up,1,normal,0,0
+11888,48,male,asymptomatic,120,206,1,normal,155,1,1.6,flat,0,normal,0,0
+11889,52,male,asymptomatic,137,?,1,enlarged ventricle,136,1,0.4,up,2,?,1,1
+11890,41,female,atypical angina,132,139,0,normal,142,0,0.1,flat,0,normal,0,0
+11891,58,female,asymptomatic,147,166,0,enlarged ventricle,148,0,6.2,down,3,reversible defect,1,1
+11892,59,female,asymptomatic,138,238,0,normal,160,1,1.0,flat,0,normal,0,0
+11893,60,male,typical angina,101,202,0,enlarged ventricle,135,1,2.3,flat,0,normal,1,1
+11894,63,female,asymptomatic,121,294,0,normal,124,0,2.1,flat,2,normal,1,1
+11895,46,male,asymptomatic,129,185,0,normal,143,1,2.9,up,0,fixed defect,1,1
+11896,57,male,asymptomatic,122,?,0,normal,150,1,1.3,up,1,reversible defect,0,0
+11897,61,male,atypical angina,128,368,0,normal,148,1,2.5,flat,?,reversible defect,1,1
+11898,64,male,asymptomatic,149,274,0,enlarged ventricle,138,1,2.9,flat,2,reversible defect,1,1
+11899,57,male,asymptomatic,136,185,0,enlarged ventricle,132,1,2.8,flat,3,reversible defect,1,1
+11900,43,male,asymptomatic,147,313,0,enlarged ventricle,152,1,0.0,flat,3,reversible defect,1,1
+11901,65,male,typical angina,152,193,1,normal,130,0,0.0,flat,1,normal,0,0
+11902,65,female,non-anginal pain,149,337,0,enlarged ventricle,157,0,0.7,up,0,normal,0,0
+11903,63,female,asymptomatic,132,234,0,normal,166,0,0.0,up,0,normal,0,0
+11904,40,male,non-anginal pain,140,355,0,normal,164,0,1.6,up,1,normal,0,0
+11905,61,male,non-anginal pain,154,137,1,normal,169,0,0.4,up,1,?,0,0
+11906,58,male,asymptomatic,145,286,0,enlarged ventricle,135,1,2.6,flat,2,reversible defect,0,1
+11907,68,female,asymptomatic,107,215,0,normal,126,0,0.7,up,2,normal,0,0
+11908,63,male,asymptomatic,132,256,0,enlarged ventricle,131,0,1.0,flat,1,reversible defect,0,0
+11909,64,female,asymptomatic,129,395,0,enlarged ventricle,146,0,1.5,flat,0,normal,0,0
+11910,52,male,asymptomatic,143,233,0,enlarged ventricle,111,1,0.0,up,0,reversible defect,1,1
+11911,61,male,non-anginal pain,105,220,0,enlarged ventricle,148,1,0.6,flat,0,reversible defect,0,0
+11912,39,female,asymptomatic,117,346,1,enlarged ventricle,133,1,3.1,flat,0,reversible defect,1,1
+11913,68,male,asymptomatic,98,202,0,normal,72,0,1.0,flat,?,normal,1,1
+11914,55,female,asymptomatic,128,224,0,enlarged ventricle,124,0,0.3,flat,0,normal,0,0
+11915,67,male,non-anginal pain,108,337,0,normal,129,1,2.1,flat,0,reversible defect,0,0
+11916,72,male,non-anginal pain,99,351,0,enlarged ventricle,166,0,0.7,up,1,reversible defect,0,0
+11917,53,female,atypical angina,120,275,0,normal,161,0,0.4,flat,0,normal,0,0
+11918,53,male,asymptomatic,162,290,0,enlarged ventricle,138,1,0.1,flat,1,reversible defect,1,1
+11919,59,male,asymptomatic,117,264,1,normal,156,1,1.5,up,2,reversible defect,1,1
+11920,63,female,typical angina,151,192,0,normal,104,0,2.2,down,0,normal,1,1
+11921,31,male,asymptomatic,140,243,0,enlarged ventricle,158,1,0.0,up,0,reversible defect,0,0
+11922,60,male,atypical angina,124,302,0,enlarged ventricle,176,0,1.4,flat,0,normal,0,0
+11923,48,male,asymptomatic,133,298,0,normal,189,0,0.0,up,0,reversible defect,0,0
+11924,58,female,asymptomatic,132,212,0,enlarged ventricle,116,0,0.3,flat,0,normal,1,0
+11925,47,male,atypical angina,119,206,0,normal,157,0,0.0,up,0,reversible defect,0,0
+11926,52,male,atypical angina,133,280,0,normal,184,0,0.2,up,0,normal,0,0
+11927,54,male,typical angina,134,?,0,enlarged ventricle,186,0,0.1,flat,0,?,0,0
+11928,37,female,atypical angina,128,201,0,enlarged ventricle,188,0,1.3,up,0,normal,0,0
+11929,36,female,asymptomatic,128,172,0,enlarged ventricle,174,0,1.3,up,0,normal,0,0
+11930,71,male,asymptomatic,121,207,0,normal,77,0,1.1,flat,0,normal,1,1
+11931,59,male,non-anginal pain,151,179,0,enlarged ventricle,152,0,2.7,flat,0,normal,1,1
+11932,68,male,asymptomatic,173,225,0,enlarged ventricle,132,0,2.3,up,?,fixed defect,1,1
+11933,57,male,asymptomatic,121,185,0,normal,96,0,1.5,flat,1,reversible defect,1,1
+11934,66,male,atypical angina,163,260,0,normal,121,1,0.3,flat,3,fixed defect,0,0
+11935,59,female,asymptomatic,163,225,0,normal,178,0,1.2,up,0,normal,0,0
+11936,60,male,typical angina,146,265,1,enlarged ventricle,155,0,2.2,down,0,fixed defect,0,0
+11937,63,female,asymptomatic,136,322,0,enlarged ventricle,175,0,0.1,up,0,normal,1,1
+11938,68,male,non-anginal pain,148,308,0,normal,159,0,0.1,up,0,normal,1,0
+11939,64,female,asymptomatic,158,332,0,enlarged ventricle,153,0,0.8,up,0,normal,0,0
+11940,62,male,asymptomatic,123,243,0,enlarged ventricle,157,0,0.8,up,1,reversible defect,0,1
+11941,60,female,asymptomatic,128,264,0,normal,153,1,1.5,flat,2,normal,0,0
+11942,57,male,atypical angina,135,231,0,normal,173,1,0.1,up,0,normal,0,0
+11943,44,male,asymptomatic,111,180,0,enlarged ventricle,120,1,2.3,flat,0,?,1,1
+11944,71,male,non-anginal pain,178,301,1,enlarged ventricle,139,1,1.4,flat,0,reversible defect,0,0
+11945,65,male,asymptomatic,121,248,0,normal,142,1,3.4,flat,1,reversible defect,1,1
+11946,65,female,asymptomatic,126,226,0,normal,148,0,0.0,up,0,normal,0,0
+11947,59,female,asymptomatic,171,?,0,normal,148,1,0.0,flat,0,normal,0,0
+11948,55,male,typical angina,182,286,0,enlarged ventricle,143,0,4.6,down,0,reversible defect,1,1
+11949,38,male,non-anginal pain,126,232,0,normal,172,0,0.2,up,0,normal,1,0
+11950,54,male,non-anginal pain,147,?,0,enlarged ventricle,178,0,1.9,up,0,reversible defect,0,0
+11951,56,female,asymptomatic,132,317,0,normal,150,0,0.8,up,0,normal,0,0
+11952,61,male,asymptomatic,132,322,0,normal,111,1,2.4,flat,2,reversible defect,1,1
+11953,58,female,asymptomatic,112,315,0,normal,170,1,0.8,up,0,normal,0,0
+11954,70,female,non-anginal pain,136,266,0,enlarged ventricle,142,0,0.0,flat,?,normal,0,0
+11955,67,male,asymptomatic,114,175,0,normal,138,0,0.3,up,0,reversible defect,0,0
+11956,64,male,atypical angina,159,?,0,normal,110,1,0.3,flat,3,fixed defect,0,0
+11957,63,male,non-anginal pain,133,261,1,normal,125,0,2.0,flat,1,fixed defect,0,0
+11958,56,male,non-anginal pain,91,215,0,enlarged ventricle,173,1,0.3,flat,0,reversible defect,1,1
+11959,57,female,typical angina,144,270,0,normal,164,0,0.5,up,0,normal,0,0
+11960,58,male,asymptomatic,101,165,0,normal,127,1,1.5,flat,0,fixed defect,0,0
+11961,62,male,asymptomatic,132,?,0,enlarged ventricle,149,1,3.1,flat,2,reversible defect,1,1
+11962,55,male,non-anginal pain,90,215,0,normal,151,1,0.0,up,1,reversible defect,0,0
+11963,50,male,asymptomatic,126,202,0,normal,107,0,1.3,flat,1,reversible defect,0,1
+11964,59,female,asymptomatic,101,254,0,enlarged ventricle,123,0,1.3,flat,?,normal,0,0
+11965,47,male,non-anginal pain,131,294,0,normal,162,0,1.9,up,1,normal,0,0
+11966,55,male,asymptomatic,145,241,0,enlarged ventricle,152,0,1.3,up,0,normal,0,0
+11967,58,female,asymptomatic,184,337,0,ST-T abnormality,118,1,3.3,flat,0,normal,1,1
+11968,59,female,asymptomatic,164,135,0,enlarged ventricle,136,0,5.6,down,3,reversible defect,1,1
+11969,38,female,asymptomatic,118,275,0,enlarged ventricle,119,0,0.7,flat,0,normal,0,0
+11970,38,male,asymptomatic,158,219,0,normal,182,0,0.0,up,0,reversible defect,1,1
+11971,63,male,asymptomatic,115,252,0,enlarged ventricle,190,0,0.4,up,0,normal,0,0
+11972,50,male,non-anginal pain,135,279,0,normal,174,0,0.0,up,0,normal,0,0
+11973,66,female,non-anginal pain,148,295,0,normal,122,0,0.0,up,0,reversible defect,0,0
+11974,44,male,non-anginal pain,142,216,0,enlarged ventricle,155,0,0.3,up,0,normal,0,0
+11975,52,male,asymptomatic,125,?,1,enlarged ventricle,153,1,0.2,up,2,reversible defect,0,0
+11976,58,male,atypical angina,183,259,0,enlarged ventricle,202,0,0.0,up,?,reversible defect,0,0
+11977,57,male,asymptomatic,146,221,0,normal,104,0,1.8,flat,1,reversible defect,1,1
+11978,65,male,non-anginal pain,156,219,1,normal,128,1,0.8,flat,0,normal,1,0
+11979,50,male,typical angina,132,245,0,enlarged ventricle,159,0,1.2,up,2,reversible defect,0,0
+11980,49,male,asymptomatic,107,226,0,enlarged ventricle,175,0,0.1,up,0,normal,0,0
+11981,50,female,atypical angina,123,262,0,normal,162,0,1.4,up,0,normal,0,0
+11982,58,male,asymptomatic,141,238,0,normal,135,1,1.4,up,1,reversible defect,1,1
+11983,37,male,asymptomatic,116,143,0,enlarged ventricle,110,1,1.9,flat,0,reversible defect,1,1
+11984,80,male,asymptomatic,146,302,0,enlarged ventricle,168,1,0.0,up,3,normal,1,1
+11985,67,female,non-anginal pain,134,328,0,normal,129,0,0.0,up,0,reversible defect,0,0
+11986,47,male,asymptomatic,100,?,0,enlarged ventricle,177,0,0.1,up,?,normal,0,0
+11987,40,male,non-anginal pain,119,289,0,normal,180,0,0.0,up,0,normal,0,0
+11988,49,male,non-anginal pain,121,251,0,normal,144,0,0.0,up,0,normal,0,0
+11989,64,male,non-anginal pain,132,?,0,enlarged ventricle,150,0,3.1,flat,0,normal,1,0
+11990,64,male,asymptomatic,120,210,0,normal,75,0,0.9,flat,0,normal,1,1
+11991,57,male,atypical angina,132,253,0,normal,145,0,0.0,up,0,normal,0,0
+11992,58,male,asymptomatic,134,120,0,normal,125,1,1.0,flat,1,reversible defect,1,1
+11993,42,female,non-anginal pain,131,213,0,normal,177,0,0.0,flat,0,normal,0,0
+11994,73,male,asymptomatic,165,151,0,normal,130,1,2.5,flat,0,reversible defect,1,1
+11995,48,male,non-anginal pain,125,266,0,normal,175,0,0.0,up,0,normal,0,0
+11996,52,male,non-anginal pain,147,232,0,enlarged ventricle,158,0,1.9,up,0,reversible defect,0,0
+11997,60,male,non-anginal pain,99,236,0,enlarged ventricle,169,0,2.7,flat,1,reversible defect,1,1
+11998,44,male,asymptomatic,126,257,0,enlarged ventricle,161,0,0.6,up,0,reversible defect,0,0
+11999,52,male,non-anginal pain,121,190,1,enlarged ventricle,158,0,0.9,flat,0,normal,0,0
+12000,44,male,atypical angina,131,246,0,enlarged ventricle,182,0,0.1,up,0,normal,0,0
