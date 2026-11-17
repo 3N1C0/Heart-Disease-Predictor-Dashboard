@@ -112,7 +112,7 @@ All analysis writing in the dashboard comes from `content/answers.py`. It is cop
 ## Skills demonstrated
 
 - **Machine learning:** a random forest classifier, with cross-validation and a holdout test set.
-- **Model evaluation:** accuracy, sensitivity and specificity, and checks that the app matches the notebook's numbers.
+- **Model evaluation:** precision, recall, ROC AUC and confusion matrices, with checks that the app matches the notebook's numbers.
 - **Streamlit apps:** multi-page layout, forms, file upload with validation, and a theme.
 - **Testing:** pytest suites for metrics, predictions and text consistency.
 - **Project structure:** logic in `src/`, UI in `views/`, and text kept separate from code.
