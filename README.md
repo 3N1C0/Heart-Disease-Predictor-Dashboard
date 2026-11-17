@@ -109,6 +109,14 @@ python -m pytest -q
 
 All analysis writing in the dashboard comes from `content/answers.py`. It is copied exactly from the answer cells in `Exam1.ipynb` and must not be edited; the verbatim test fails if it is. Exam cells 6b and 7a were left blank in the notebook, so they are not shown. Page titles, captions and the home-page subtitle are dashboard text and can be edited freely.
 
+## Skills demonstrated
+
+- **Machine learning:** a random forest classifier, with cross-validation and a holdout test set.
+- **Model evaluation:** precision, recall, ROC AUC and confusion matrices, with checks that the app matches the notebook's numbers.
+- **Streamlit apps:** multi-page layout, forms, file upload with validation, and a theme.
+- **Testing:** pytest suites for metrics, predictions and text consistency.
+- **Project structure:** logic in `src/`, UI in `views/`, and text kept separate from code.
+
 ## Credits
 
 Heart SPECT illustration by Patrick J. Lynch, CC BY 2.5.
